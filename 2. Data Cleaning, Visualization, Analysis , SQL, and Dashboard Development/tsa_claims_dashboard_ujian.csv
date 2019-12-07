@@ -1,0 +1,1001 @@
+Claim Number,Date Received,Incident Date,Airport Code,Airport Name,Airline Name,Claim Type,Claim Site,Item,Claim Amount,Status,Close Amount,Disposition,Day Difference,Amount Differences
+0729154M,2003-07-29 00:00:00,2003-07-18 00:00:00,IND,Indianapolis International,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,180.0,Settled,30.0,Settle,11.0,150.0
+2012102598150,2012-09-17 00:00:00,2012-08-31 00:00:00,TPA,Tampa International,USAir  ,Passenger Property Loss,Checkpoint,Clothing; Office Equipment & Supplies,0.0,Deny,,,17.0,
+0822028M,2003-08-22 00:00:00,2003-07-26 00:00:00,SNA,John Wayne,,Passenger Property Loss,Checked Baggage,Other,169.94,Canceled,0.0,,27.0,169.94
+2007041924249,2007-04-19 00:00:00,2007-04-02 00:00:00,ORF,Norfolk International,American Airlines,Property Damage,Checkpoint,Cell Phones; Other,110.0,Approved,110.0,Approve in Full,17.0,0.0
+2012042493157,2012-03-26 00:00:00,2012-03-16 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,American Airlines  ,Passenger Property Loss,Checkpoint,Cosmetics & Grooming,178.0,Settle,,,10.0,
+2006121917382,2006-12-04 00:00:00,2006-11-13 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Jet Blue,Passenger Property Loss,Checked Baggage,Cameras - Digital; Cameras - Non-electronic (Camera supplies; lenses; projectors; etc.),510.0,Denied,0.0,Deny,21.0,510.0
+2011032481393,2011-02-28 00:00:00,2011-02-01 00:00:00,CID,Eastern Iowa,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming; Medical/Science,0.0,Deny,,,27.0,
+2015031921354,2015-03-19 00:00:00,2015-02-07 00:00:00,IAD,Washington Dulles International,Ethopian Airlines,Passenger Property Loss,Checked Baggage,Clothing; Travel Accessories,0.0,Deny,,,40.0,
+2010121778823,2010-12-07 00:00:00,2010-09-26 00:00:00,DFW,Dallas-Fort Worth International Airport ,American Airlines  ,Property Damage,Checked Baggage,Crafting & Hobby,0.0,Deny,,,72.0,
+2004062256987,2004-05-27 00:00:00,2004-05-06 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),50.0,Approved,50.0,Approve in Full,21.0,0.0
+2015072324172,2015-07-20 00:00:00,2015-07-16 00:00:00,RAP,Rapid City Regional,UAL,Property Damage,Checked Baggage,Other; Travel Accessories,,,,,4.0,
+2007071928688,2007-07-17 00:00:00,2007-07-07 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Luggage (all types including footlockers),200.0,Canceled,0.0,,10.0,200.0
+0219654M,2004-02-19 00:00:00,2004-10-11 00:00:00,MSY,New Orleans International,,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,80.0,Settled,70.0,Settle,-235.0,10.0
+0507038L,2003-05-07 00:00:00,2003-04-22 00:00:00,,,,Passenger Property Loss,Checkpoint,Other,100.0,Canceled,,,15.0,
+2007041023667,2007-04-06 00:00:00,2006-12-28 00:00:00,JAX,Jacksonville International,Delta Air Lines,Passenger Property Loss,Checkpoint,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,150.0,Approved,150.0,Approve in Full,99.0,0.0
+2009030755950,2009-02-18 00:00:00,2008-11-23 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,,Property Damage,Checkpoint,,100.0,Denied,0.0,Deny,87.0,100.0
+2004061555845,2004-06-15 00:00:00,2004-04-26 00:00:00,MDW,Midway International Airport,,Passenger Property Loss,Checkpoint,Jewelry - Fine,1300.0,Denied,0.0,Deny,50.0,1300.0
+2010102677396,2010-10-19 00:00:00,2010-09-04 15:48:00,DTW,Detroit Metropolitan Wayne County Airport,Spirit Airlines,Passenger Property Loss,Checked Baggage,Cameras,0.0,Deny,,,44.0,
+2005050484097,2005-05-03 00:00:00,2005-03-21 00:00:00,BOS,Boston (Logan) International Airport,,Property Damage,Checked Baggage,Computer - Laptop,875.0,Denied,0.0,Deny,43.0,875.0
+2007092032327,2007-09-19 00:00:00,2007-09-12 00:00:00,SAN,San Diego International,Midwest Express Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Luggage (all types including footlockers); Other,300.0,Denied,0.0,Deny,7.0,300.0
+2011120289325,2011-11-16 00:00:00,2011-10-18 00:00:00,SNA,John Wayne,Southwest Airlines  ,Property Damage,Checked Baggage,Personal Electronics,324.42,Approve in Full,,,29.0,
+2006061908153,2006-06-16 00:00:00,2006-05-18 00:00:00,RSW,Southwest Florida International,Jet Blue,Passenger Property Loss,Checked Baggage,Cell Phones; Clothing - Shoes; belts; accessories; etc.,129.0,Approved,129.0,Approve in Full,29.0,0.0
+2010010867347,2009-12-30 00:00:00,2009-11-02 00:00:00,ORD,Chicago O'Hare International Airport,UAL,Passenger Property Loss,Checked Baggage,DVD/CD Players; Handbags & Purses (leather or fabric),546.95,Settled,514.73,Settle,58.0,32.22000000000003
+2005040581599,2005-03-31 00:00:00,2005-02-07 00:00:00,LAX,Los Angeles International Airport,Virgin Atlantic,Passenger Property Loss,Checkpoint,Jewelry - Fine,5400.0,Denied,0.0,Deny,52.0,5400.0
+2006042705407,2006-04-25 00:00:00,2006-02-28 00:00:00,PBI,Palm Beach International,Continental Airlines,Personal Injury,Checkpoint,,500.0,Denied,0.0,Deny,56.0,500.0
+2014060214325,2014-05-22 00:00:00,2014-05-21 00:00:00,SAN,San Diego International,American Airlines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,0.0,Deny,,,1.0,
+0210090M,2004-02-10 00:00:00,2004-01-19 00:00:00,MIA,Miami International Airport,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Fine,464.0,Settled,232.0,Settle,22.0,232.0
+2015062923537,2015-06-23 00:00:00,2015-06-21 00:00:00,MIA,Miami International Airport,TAM airlines,Passenger Property Loss,Checked Baggage,Automobile Parts & Accessories,0.0,Deny,,,2.0,
+2010062172853,2010-06-14 00:00:00,2010-05-30 00:00:00,ORF,Norfolk International,Southwest Airlines  ,Property Damage,Checked Baggage,,0.0,Deny,,,15.0,
+2004122270558,2004-12-07 00:00:00,2004-11-14 00:00:00,SWF,Stewart  Field,,Property Damage,Checked Baggage,Luggage (all types including footlockers),76.44,Settled,50.0,Settle,23.0,26.439999999999998
+2004122169847,2004-11-04 00:00:00,2004-10-22 00:00:00,LAS,McCarran International,,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,250.0,Approved,250.0,Approve in Full,13.0,0.0
+2005010472433,2004-12-14 00:00:00,2004-11-21 00:00:00,BGM,Greater Binghamton Airport,USAir,Passenger Property Loss,Checked Baggage,Other,284.09,Denied,0.0,Deny,23.0,284.09
+2007072729235,2007-07-02 00:00:00,2007-07-25 00:00:00,PHL,Philadelphia International Airport,Frontier Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,500.0,Denied,0.0,Deny,-23.0,500.0
+2005111896272,2005-11-09 00:00:00,2005-09-29 00:00:00,LBB,Lubbock International,,Passenger Property Loss,Checked Baggage,Other,35.0,Denied,0.0,Deny,41.0,35.0
+2011121489624,2011-11-28 00:00:00,2011-10-21 00:00:00,F,Foreign airport,American Airlines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,38.0,
+2007112735544,2007-11-26 00:00:00,2007-11-23 00:00:00,MOB,Mobile Regional,Northwest Airlines,Passenger Property Loss,Checked Baggage,DVD/CD Players; Other,93.54,Settled,46.77,Settle,3.0,46.77
+1009010M,2003-10-09 00:00:00,2003-09-17 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checked Baggage,Jewelry - Fine,239.0,Approved,239.0,Approve in Full,22.0,0.0
+2015080724679,2015-08-05 00:00:00,2015-06-09 00:00:00,TXK,Texarkana Regional Airport,UAL,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,57.0,
+2005012874730,2005-01-11 00:00:00,2004-11-20 00:00:00,CVG,Cincinnati/Northern Kentucky International,Delta Air Lines,Property Damage,Checked Baggage,Other,30.0,Approved,30.0,Approve in Full,52.0,0.0
+2004060754915,2004-05-05 00:00:00,2004-04-25 00:00:00,MCO,Orlando International Airport,USAir,Property Damage,Checked Baggage,Luggage (all types including footlockers),10.86,Approved,10.86,Approve in Full,10.0,0.0
+2009032056702,2009-03-23 00:00:00,2009-02-26 00:00:00,BTV,Burlington; VT,UAL,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,99.99,Denied,0.0,Deny,25.0,99.99
+2005020175279,2005-01-19 00:00:00,2005-01-03 00:00:00,MSN,Dane County Regional (Madison),Northwest Airlines,Property Damage,Checked Baggage,Locks,3.16,Approved,3.16,Approve in Full,16.0,0.0
+2008080547969,2008-07-30 00:00:00,2008-05-02 00:00:00,RSW,Southwest Florida International,Continental Airlines,Passenger Property Loss,Checked Baggage,Brushes - Hair; Clothes; etc.,25.0,Denied,0.0,Deny,89.0,25.0
+2005110395578,2005-10-25 00:00:00,2005-10-09 00:00:00,BOS,Boston (Logan) International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,85.0,Approved,85.0,Approve in Full,16.0,0.0
+2011091586973,2011-08-23 00:00:00,2011-06-13 00:00:00,BWI,Baltimore/Washington Intl Thurgood Marshall,UAL  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,2199.0,Approve in Full,,,71.0,
+2011011079431,2010-12-27 00:00:00,2010-09-10 16:30:00,OGG,Kahului-Maui; HI,,Property Damage,Checkpoint,Jewelry & Watches,55.0,Approve in Full,,,107.0,
+2006040404015,2006-03-24 00:00:00,2005-03-12 00:00:00,SBN,South Bend Regional,Continental Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,435.59,Denied,0.0,Deny,377.0,435.59
+2005051084354,2005-05-09 00:00:00,2005-04-19 00:00:00,CLT,Charlotte/Douglas International Airport,USAir,Passenger Property Loss,Checked Baggage,Cameras - Digital,467.97,Settled,211.38,Settle,20.0,256.59000000000003
+2008090249365,2008-08-27 00:00:00,2008-08-16 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,USAir,Passenger Property Loss,Checked Baggage,Other,31.8,Denied,0.0,Deny,11.0,31.8
+2005060385747,2005-05-24 00:00:00,2005-05-04 00:00:00,LAS,McCarran International,Continental Airlines,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,811.88,Denied,0.0,Deny,20.0,811.88
+2004051151105,2004-04-01 00:00:00,2003-10-30 00:00:00,DFW,Dallas-Fort Worth International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,45.0,Approved,45.0,Approve in Full,154.0,0.0
+2010071373622,2010-07-06 00:00:00,2010-06-16 00:00:00,PHL,Philadelphia International Airport,USAir  ,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming; Cosmetics & Grooming,,,,,20.0,
+0114012M,2004-01-14 00:00:00,2003-12-06 00:00:00,GEG,Spokane International,America West,,Checked Baggage,Other,25.92,Approved,25.92,Approve in Full,39.0,0.0
+2006030702715,2006-03-03 00:00:00,2006-02-10 00:00:00,LGB,Long Beach,American Airlines,Passenger Property Loss,Checked Baggage,Other,29.97,Approved,29.97,Approve in Full,21.0,0.0
+2010030669132,2010-02-25 00:00:00,2010-01-06 22:00:00,SMF,Sacramento International Airport,Mexicana  ,Passenger Property Loss,Checked Baggage,Audio/Video,0.0,Deny,,,49.0,
+2005032579858,2005-03-24 00:00:00,2005-02-25 00:00:00,ITO,Hilo International,Aloha Airlines,Passenger Property Loss,Checked Baggage,Other,13.55,Approved,13.55,Approve in Full,27.0,0.0
+2008020539107,2008-01-28 00:00:00,2007-10-20 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cell Phones; Other,148.98,Denied,0.0,Deny,100.0,148.98
+2013022502000,2013-02-11 00:00:00,2013-01-25 00:00:00,FLL,Ft. Lauderdale-Hollywood International,American Airlines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,0.0,Deny,,,17.0,
+2011032881405,2011-02-28 00:00:00,2011-02-05 00:00:00,SJC,Norman Y Mineta San Jose International,Southwest Airlines  ,Property Damage,Checked Baggage,Computer & Accessories,0.0,Deny,,,23.0,
+0226001L,2003-02-26 00:00:00,,,,,,Other,Jewelry - Fine,,Denied,0.0,Deny,,
+0219560M,2004-02-19 00:00:00,2004-01-28 00:00:00,BOS,Boston (Logan) International Airport,USAir,,Checked Baggage,Eyeglasses - (including contact lenses),164.0,Settled,82.0,Settle,22.0,82.0
+2004060754834,2004-05-04 00:00:00,2004-03-07 00:00:00,,,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,2500.0,Denied,0.0,Deny,58.0,2500.0
+2008010937607,2008-01-04 00:00:00,2007-12-28 00:00:00,DEN,Denver International Airport,UAL,Passenger Property Loss,Checked Baggage,Locks,9.0,Denied,0.0,Deny,7.0,9.0
+2014092116838,2014-09-04 00:00:00,2014-08-09 00:00:00,,,,Passenger Property Loss,Checked Baggage,,,,,,26.0,
+2004100564549,2004-08-25 00:00:00,2004-07-29 00:00:00,,,,Property Damage,Checked Baggage,Computer - Laptop,200.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,27.0,
+2006081110857,2006-08-09 00:00:00,2006-07-18 00:00:00,TPA,Tampa International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Eyeglasses - (including contact lenses); Jewelry - Fine,593.84,Denied,0.0,Deny,22.0,593.84
+2005051384679,2005-05-12 00:00:00,2005-05-07 00:00:00,ORD,Chicago O'Hare International Airport,,Passenger Property Loss,Checked Baggage,Computer - Laptop,200.0,Denied,0.0,Deny,5.0,200.0
+2007021220820,2007-02-12 00:00:00,2007-01-27 00:00:00,SWF,Stewart  Field,AirTran Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,2000.0,Denied,0.0,Deny,16.0,2000.0
+21647,2002-12-10 00:00:00,2002-11-29 00:00:00,LGA,LaGuardia,American Airlines,,Other,Eyeglasses - (including contact lenses),525.0,Denied,0.0,Deny,11.0,525.0
+2005083091835,2005-08-23 00:00:00,2005-04-16 00:00:00,MCO,Orlando International Airport,Southwest Airlines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,25.4,Denied,0.0,Deny,129.0,25.4
+2012022191203,2012-02-21 00:00:00,2012-01-21 12:15:00,PHX,Phoenix Sky Harbor International,USAir  ,Passenger Property Loss,Checkpoint,Clothing,53.56,Approve in Full,,,30.0,
+2009080762397,2009-08-06 00:00:00,2009-07-25 00:00:00,BWI,Baltimore/Washington Intl Thurgood Marshall,Delta Air Lines,Passenger Property Loss,Checked Baggage,Computer - Laptop,78.01,Denied,0.0,Deny,12.0,78.01
+2010082675371,2010-08-20 00:00:00,2010-08-04 00:00:00,GPI,Glacier Park Int.; Kalispell; MT,UAL  ,Property Damage,Checked Baggage,Cameras,31.42,Approve in Full,,,16.0,
+2005110295522,2005-10-25 00:00:00,2005-09-19 00:00:00,LAX,Los Angeles International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Cell Phones,397.97,Denied,0.0,Deny,36.0,397.97
+2007012519511,2007-01-16 00:00:00,2007-01-03 00:00:00,,,,Property Damage,Checked Baggage,Other,50.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,13.0,
+2004091362708,2004-08-10 00:00:00,2004-07-10 00:00:00,CVG,Cincinnati/Northern Kentucky International,Delta Air Lines,Passenger Theft,Checked Baggage,Locks,10.77,Approved,10.77,Approve in Full,31.0,0.0
+2010080574437,2010-07-27 00:00:00,2010-06-05 17:25:00,ATL,Hartsfield-Jackson Atlanta International Airport,AirTran Airlines,Property Damage,Checked Baggage,Other,0.0,Deny,,,51.0,
+0114546M,2004-01-14 00:00:00,2003-12-22 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,21.18,Approved,21.18,Approve in Full,23.0,0.0
+2007052925949,2007-05-21 00:00:00,2007-04-29 00:00:00,BOS,Boston (Logan) International Airport,Alitalia,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Toys (game systems; cartridges; radio controlled cars; etc.),560.0,Denied,0.0,Deny,22.0,560.0
+0603115L,2003-06-03 00:00:00,2003-05-16 00:00:00,PHL,Philadelphia International Airport,USAir,Property Damage,Checked Baggage,Locks,65.0,Denied,0.0,Deny,18.0,65.0
+2004112967938,2004-10-14 00:00:00,2004-10-03 00:00:00,ORD,Chicago O'Hare International Airport,,Passenger Property Loss,Checkpoint,Jewelry - Fine,32.0,Approved,32.0,Approve in Full,11.0,0.0
+2004110466373,2004-09-30 00:00:00,2004-09-08 00:00:00,IAD,Washington Dulles International,UAL,Passenger Property Loss,Checked Baggage,Other,177.18,Approved,177.18,Approve in Full,22.0,0.0
+2005030977329,2005-02-01 00:00:00,2004-11-15 00:00:00,MEM,Memphis International Airport,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),300.0,Settled,100.0,Settle,78.0,200.0
+2005063087915,2005-06-28 00:00:00,2005-06-12 00:00:00,DFW,Dallas-Fort Worth International Airport,,Property Damage,Checked Baggage,Other,1263.41,Denied,0.0,Deny,16.0,1263.41
+2004100664696,2004-08-24 00:00:00,2004-07-25 00:00:00,SEA,Seattle-Tacoma International,UAL,Property Damage,Checked Baggage,Luggage (all types including footlockers),425.0,Denied,0.0,Deny,30.0,425.0
+2006121317019,2006-12-05 00:00:00,2006-10-27 00:00:00,LAX,Los Angeles International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),150.0,Approved,150.0,Approve in Full,39.0,0.0
+2004061055480,2004-05-10 00:00:00,2004-03-18 00:00:00,LIH,Lihue Airport,Continental Airlines,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),83.48,Approved,83.48,Approve in Full,53.0,0.0
+0515031L,2003-05-15 00:00:00,2003-04-17 00:00:00,RSW,Southwest Florida International,Southwest Airlines,Property Damage,Checked Baggage,Locks,150.0,Denied,0.0,Deny,28.0,150.0
+2005011073321,2004-12-21 00:00:00,2004-12-05 00:00:00,ORD,Chicago O'Hare International Airport,UAL,Passenger Property Loss,Checkpoint,Other,429.99,Settled,326.49,Settle,16.0,103.5
+2005102495046,2005-10-17 00:00:00,2005-09-10 00:00:00,UNV,University Park Airport,USAir,Passenger Property Loss,Checkpoint,Cameras - Digital,210.34,Approved,210.34,Approve in Full,37.0,0.0
+1030091M,2003-10-30 00:00:00,2003-10-18 00:00:00,,,,Property Damage,Checked Baggage,Other,25.0,Approved,25.0,Approve in Full,12.0,0.0
+2012071895504,2012-06-12 00:00:00,2012-01-26 05:20:00,GUM,Guam,,Passenger Property Loss,,Personal Electronics,0.0,Deny,,,137.0,
+2006041404521,2006-04-04 00:00:00,2006-03-14 00:00:00,IAH,Houston - George Bush Intercontinental Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,100.0,Approved,100.0,Approve in Full,21.0,0.0
+2010083075453,2010-08-31 00:00:00,2010-08-08 00:00:00,IAD,Washington Dulles International,UAL  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,2500.0,Settle,,,23.0,
+2004120468525,2004-10-20 00:00:00,2004-10-05 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,,Checked Baggage,Other,21.49,Denied,21.49,Deny,15.0,0.0
+2006012300146,2006-01-18 00:00:00,2006-01-15 00:00:00,MEM,Memphis International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital,84.99,Denied,0.0,Deny,3.0,84.99
+2007061326865,2007-06-08 00:00:00,2007-06-06 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,68.95,Approved,68.95,Approve in Full,2.0,0.0
+2010042371101,2010-04-20 00:00:00,2010-02-28 13:30:00,BOS,Boston (Logan) International Airport ,American Airlines  ,Passenger Property Loss,Checkpoint,Personal Accessories,324.45,Settle,,,50.0,
+2005031277891,2005-02-08 00:00:00,2005-01-16 00:00:00,MIA,Miami International Airport,American Airlines,Property Damage,Checked Baggage,Locks,234.29,Denied,0.0,Deny,23.0,234.29
+2005021476115,2005-01-26 00:00:00,2004-12-19 00:00:00,DEN,Denver International Airport,UAL,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,480.0,Denied,0.0,Deny,38.0,480.0
+2010012868004,2010-01-22 00:00:00,2010-01-17 18:30:00,MKE,General Mitchell International Airport,Midwest Express Airlines  ,Property Damage,Checkpoint,Other,175.0,Settle,,,4.0,
+X5,2002-12-16 00:00:00,2002-11-02 00:00:00,LAX,Los Angeles International Airport,,,Checkpoint,Clothing - Shoes; belts; accessories; etc.,89.99,Canceled,0.0,,44.0,89.99
+2005072989860,2005-07-26 00:00:00,2005-05-19 00:00:00,EWR,Newark International Airport,Continental Airlines,Property Damage,Checkpoint,Computer - Laptop,183.44,Approved,183.44,Approve in Full,68.0,0.0
+2005103195383,2005-10-21 00:00:00,2005-09-26 00:00:00,LAS,McCarran International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,79.95,Approved,79.95,Approve in Full,25.0,0.0
+2015121727662,2015-12-02 00:00:00,2015-10-30 00:00:00,PIA,Greater Peoria,Allegiant Air,Property Damage,Checked Baggage,Baggage/Cases/Purses,,,,,33.0,
+0616029L,2003-06-16 00:00:00,2003-03-05 00:00:00,SAN,San Diego International,Continental Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),26.0,Settled,13.0,Settle,103.0,13.0
+2013102808105,2013-09-23 00:00:00,2013-09-16 00:00:00,TRI,Tri-Cities Regional,USAir  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,7.0,
+2007032022537,2007-03-07 00:00:00,2007-03-04 00:00:00,,,USAir,Passenger Property Loss,Checked Baggage,Cell Phones; Jewelry - Costume,120.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,3.0,
+2004092263446,2004-08-03 00:00:00,2004-07-10 00:00:00,JFK,John F. Kennedy International,American Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,346.05,Canceled,0.0,,24.0,346.05
+2011062484637,2011-06-14 00:00:00,2011-06-03 00:00:00,EWR,Newark International Airport,Continental Airlines  ,Passenger Property Loss,Checked Baggage,Medical/Science,250.0,Approve in Full,,,11.0,
+0422028L,2003-04-22 00:00:00,2003-03-13 00:00:00,,,Continental Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),32.48,Settled,16.24,Settle,40.0,16.24
+0421036L,2003-04-21 00:00:00,2003-03-12 00:00:00,PHL,Philadelphia International Airport,,Property Damage,Checkpoint,Luggage (all types including footlockers),32.0,Approved,32.0,Approve in Full,40.0,0.0
+2012072695739,2014-02-03 00:00:00,2012-02-04 00:00:00,ZZZ,Unspecified Personal Injury,,Personal Injury,Other,,0.0,Deny,,,730.0,
+0826060M,2003-08-26 00:00:00,2003-05-13 00:00:00,MCO,Orlando International Airport,,Property Damage,Checked Baggage,Luggage (all types including footlockers),149.99,Settled,50.0,Settle,105.0,99.99000000000001
+0925084M,2003-09-25 00:00:00,2003-07-28 00:00:00,,,,,Other,Other,,Settled,85.0,Settle,59.0,
+2006050905763,2006-05-04 00:00:00,2006-04-21 00:00:00,FAY,Fayetteville Regional,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Fine,149.53,Settled,75.0,Settle,13.0,74.53
+2005021175969,2005-01-21 00:00:00,2004-12-19 00:00:00,SFO,San Francisco International,,Property Damage,Checked Baggage,Other,500.0,Closed as a contractor claim,0.0,,33.0,500.0
+2011012579721,2011-01-07 00:00:00,2010-12-26 11:14:00,EWR,Newark International Airport,USAir  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,0.0,Deny,,,11.0,
+2011100787666,2011-10-08 00:00:00,2011-07-23 20:30:00,DTW,Detroit Metropolitan Wayne County Airport,Spirit Airlines,Property Damage,Checked Baggage,,0.0,Deny,,,76.0,
+2005072989907,2006-07-26 00:00:00,2005-07-08 00:00:00,CMH,Port Columbus International,America West,Property Damage,Checked Baggage,Locks,180.0,Settled,70.0,Settle,383.0,110.0
+2013021301363,2013-01-22 00:00:00,2012-12-30 00:00:00,DAY,James M. Cox Dayton International,USAir  ,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming,0.0,Deny,,,23.0,
+2008032141391,2008-03-17 00:00:00,2008-02-19 00:00:00,SAN,San Diego International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Other,595.88,Denied,0.0,Deny,27.0,595.88
+2014041613286,2014-04-11 00:00:00,2014-04-07 00:00:00,LGA,LaGuardia ,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,100.0,Approve in Full,,,4.0,
+1117405M,2003-11-17 00:00:00,2003-10-25 00:00:00,PIT,Pittsburgh International Airport,Delta Air Lines,Property Damage,Checkpoint,Other,200.0,Denied,200.0,Deny,23.0,0.0
+2006100413613,2006-09-27 00:00:00,2006-06-10 00:00:00,TPA,Tampa International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Locks,11.25,Denied,0.0,Deny,109.0,11.25
+2011110988848,2011-10-26 00:00:00,2011-10-09 03:00:00,JFK,John F. Kennedy International,Jet Blue,Property Damage,Checkpoint,Clothing,36.12,Approve in Full,,,16.0,
+2005052485393,2005-05-20 00:00:00,2005-04-12 00:00:00,LGA,LaGuardia,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,300.0,Denied,0.0,Deny,38.0,300.0
+2008121253372,2008-12-08 00:00:00,2008-07-24 00:00:00,BOS,Boston (Logan) International Airport,Northwest Airlines,Property Damage,Checked Baggage,Computer - Laptop,440.0,Denied,0.0,Deny,137.0,440.0
+2013090506552,2013-07-24 00:00:00,2013-06-21 16:30:00,MIA,Miami International Airport,American Airlines  ,Passenger Property Loss,Checked Baggage,Other,,,,,32.0,
+0313015L,2003-03-13 00:00:00,,,,Northwest Airlines,,Other,Luggage (all types including footlockers),,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,,
+2009051858741,2009-05-01 00:00:00,2009-04-07 00:00:00,MIA,Miami International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,321.62,Denied,0.0,Deny,24.0,321.62
+2008011437813,2008-01-08 00:00:00,2007-07-07 00:00:00,JFK,John F. Kennedy International,Jet Blue,Passenger Property Loss,Checked Baggage,MP3 Players-(iPods; etc); Other,323.62,Denied,0.0,Deny,185.0,323.62
+2005060185651,2005-05-24 00:00:00,2005-04-27 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Northwest Airlines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,50.0,Denied,0.0,Deny,27.0,50.0
+2005102895350,2005-10-21 00:00:00,2005-09-28 00:00:00,GSP,Greenville-Spartanburg,UAL,Passenger Property Loss,Checked Baggage,Luggage (all types including footlockers),6.5,Approved,6.5,Approve in Full,23.0,0.0
+2009031456245,2009-02-17 00:00:00,2009-01-30 00:00:00,LGA,LaGuardia,Delta Air Lines,Property Damage,Checkpoint,Luggage (all types including footlockers),1106.85,Settled,1056.33,Settle,18.0,50.51999999999998
+2006061407967,2006-06-13 00:00:00,2006-06-05 00:00:00,MEM,Memphis International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Lighters - (cigar; cigerette; etc.),22.35,Approved,22.35,Approve in Full,8.0,0.0
+2005041382478,2005-04-12 00:00:00,2005-04-02 00:00:00,EWR,Newark International Airport,UAL,Property Damage,Checked Baggage,Luggage (all types including footlockers),100.0,Denied,0.0,Deny,10.0,100.0
+0804019M,2003-08-04 00:00:00,2003-07-05 00:00:00,MSP,Minneapolis/ St.Paul International Airport,,Property Damage,Checked Baggage,Luggage (all types including footlockers),100.0,Settled,50.0,Settle,30.0,50.0
+2007100332919,2007-10-02 00:00:00,2007-09-14 00:00:00,IAH,Houston - George Bush Intercontinental Airport,UAL,Passenger Property Loss,Checkpoint,Currency,200.0,Approved,200.0,Approve in Full,18.0,0.0
+2004121469097,2004-12-13 00:00:00,2003-10-05 00:00:00,BDL,Bradley International Airport,USAir,Passenger Property Loss,Checked Baggage,Other,125.0,Approved,125.0,Approve in Full,435.0,0.0
+2011032981474,2011-03-01 00:00:00,2011-02-15 10:10:00,DFW,Dallas-Fort Worth International Airport ,,Passenger Property Loss,Checked Baggage,Travel Accessories,25.0,Approve in Full,,,13.0,
+2010090875806,2010-08-04 00:00:00,2010-08-01 00:00:00,MCO,Orlando International Airport,AirTran Airlines,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming,0.0,Deny,,,3.0,
+2010112678192,2010-11-15 00:00:00,2010-10-28 18:12:00,ATL,Hartsfield-Jackson Atlanta International Airport,AirTran Airlines,Property Damage,Checked Baggage,Baggage/Cases/Purses; Clothing; Home Decor,0.0,Deny,,,17.0,
+2007101133312,2007-10-11 00:00:00,2007-08-08 00:00:00,LGA,LaGuardia,Air Canada,Property Damage,Checked Baggage,Luggage (all types including footlockers),130.0,Settled,50.0,Settle,64.0,80.0
+2005062286933,2005-06-10 00:00:00,2005-04-27 00:00:00,SFO,San Francisco International,American Airlines,Passenger Property Loss,Checked Baggage,Other,45.0,Closed as a contractor claim,0.0,,44.0,45.0
+2005090692107,2005-08-30 00:00:00,2005-07-23 00:00:00,CAE,Columbia Metropolitan,USAir,Passenger Property Loss,Checked Baggage,Other,10.0,Approved,10.0,Approve in Full,38.0,0.0
+2005101294445,2005-10-05 00:00:00,2005-09-22 00:00:00,ORF,Norfolk International,UAL,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,79.99,Approved,79.99,Approve in Full,13.0,0.0
+0506064L,2003-05-06 00:00:00,2003-04-06 00:00:00,,,,,Other,Luggage (all types including footlockers),4625.0,Denied,0.0,Deny,30.0,4625.0
+2005010673137,2004-12-20 00:00:00,2004-07-20 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checked Baggage,Other,27.05,Denied,0.0,Deny,153.0,27.05
+2011042682984,2011-04-25 00:00:00,2011-04-20 16:25:00,SJU,Luis Munoz Marin International,Continental Airlines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories; Computer & Accessories,0.0,Deny,,,4.0,
+2014121219154,2014-12-11 00:00:00,2014-12-05 00:00:00,DFW,Dallas-Fort Worth International Airport ,American Airlines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,,,,,6.0,
+2012081796036,2012-07-26 00:00:00,2012-07-04 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,,,,,22.0,
+2015081724919,2015-08-06 00:00:00,2015-07-01 00:00:00,PHL,Philadelphia International Airport,USAir,Passenger Property Loss,Checked Baggage,Clothing,145.88,Settle,,,36.0,
+2004092463848,2004-08-16 00:00:00,2004-08-01 00:00:00,ORD,Chicago O'Hare International Airport,,Passenger Property Loss,Checkpoint,Eyeglasses - (including contact lenses),450.0,Settled,150.0,Settle,15.0,300.0
+2005051184488,2005-05-09 00:00:00,2005-04-24 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,,Property Damage,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,34.92,Approved,34.92,Approve in Full,15.0,0.0
+2005120897366,2005-11-29 00:00:00,2005-11-10 00:00:00,PIT,Pittsburgh International Airport,UAL,Passenger Property Loss,Checked Baggage,Other,42.0,Denied,0.0,Deny,19.0,42.0
+2006081611136,2006-08-07 00:00:00,2006-07-04 00:00:00,COS,Colorado Springs Municipal,American Airlines,Passenger Property Loss,Checked Baggage,Eyeglasses - (including contact lenses),248.0,Approved,248.0,Approve in Full,34.0,0.0
+2005051684683,2005-05-09 00:00:00,2005-03-13 00:00:00,LAX,Los Angeles International Airport,Air Canada,Passenger Property Loss,Checked Baggage,Other,209.67,Denied,0.0,Deny,57.0,209.67
+2005062286879,2005-06-09 00:00:00,2005-05-01 00:00:00,CLE,Cleveland Hopkins International,,Property Damage,Checked Baggage,Other,9.53,Approved,9.53,Approve in Full,39.0,0.0
+2010080474394,2010-07-26 00:00:00,2010-07-15 07:10:00,BWI,Baltimore/Washington Intl Thurgood Marshall,,Passenger Property Loss,Checkpoint,Other,0.0,Deny,,,10.0,
+2010021968554,2010-02-12 00:00:00,2010-01-15 18:35:00,OKC,Will Rogers World,Southwest Airlines  ,Passenger Property Loss,Checkpoint,Currency,0.0,Deny,,,27.0,
+2011103188567,2011-10-18 00:00:00,2011-08-16 10:31:00,PDX,Portland International,Delta Air Lines  ,Property Damage,Checkpoint,Personal Accessories,295.0,Approve in Full,,,62.0,
+2005013174890,2005-01-14 00:00:00,2004-12-29 00:00:00,MSY,New Orleans International,,Property Damage,Checked Baggage,Luggage (all types including footlockers),26.0,Denied,0.0,Deny,16.0,26.0
+0205088M,2004-02-05 00:00:00,2004-01-05 00:00:00,PHX,Phoenix Sky Harbor International,Frontier Airlines,Property Damage,Checked Baggage,Other,100.0,Approved,100.0,Approve in Full,31.0,0.0
+2013102607951,2013-09-13 00:00:00,2013-09-01 10:55:00,LGA,LaGuardia ,Jet Blue,Passenger Property Loss,Checked Baggage,,9.95,Approve in Full,,,11.0,
+2005012173900,2004-12-30 00:00:00,2004-11-25 00:00:00,JFK,John F. Kennedy International,Delta (Song),Property Damage,Checked Baggage,Locks,4.95,Approved,4.95,Approve in Full,35.0,0.0
+0625198M,2003-06-25 00:00:00,2003-05-15 00:00:00,BOS,Boston (Logan) International Airport,USAir,Passenger Property Loss,Checked Baggage,Cameras - Digital,562.78,Denied,0.0,Deny,41.0,562.78
+2005031478096,2005-02-16 00:00:00,2005-01-15 00:00:00,DEN,Denver International Airport,UAL,Property Damage,Checked Baggage,Other,20.0,Canceled,0.0,,32.0,20.0
+2011111088860,2011-11-04 00:00:00,2011-10-24 00:00:00,STL,Lambert St. Louis International,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Travel Accessories,8.72,Approve in Full,,,11.0,
+2014121719264,2014-12-17 00:00:00,2014-11-22 00:00:00,MKE,General Mitchell International Airport,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Clothing,,,,,25.0,
+2012051493928,2012-04-19 00:00:00,2012-04-15 17:00:00,IAD,Washington Dulles International,Saudi Arabian Airlines  ,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,3.0,
+2005030877187,2005-02-03 00:00:00,2004-12-29 00:00:00,DAY,James M. Cox Dayton International,AirTran Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,75.0,Denied,0.0,Deny,36.0,75.0
+2013071905282,2013-05-15 00:00:00,2012-12-16 00:00:00,DEN,Denver International Airport ,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Hunting & Fishing Items; Medical/Science,0.0,Deny,,,150.0,
+2005040581501,2005-03-30 00:00:00,2005-03-17 00:00:00,IAD,Washington Dulles International,Scandinavian Airlines Systems,Property Damage,Checked Baggage,Jewelry - Fine,430.0,Denied,0.0,Deny,13.0,430.0
+2013013000675,2012-11-26 00:00:00,2012-11-07 15:30:00,JFK,John F. Kennedy International,Delta Air Lines  ,Passenger Property Loss,Checkpoint,Hunting & Fishing Items,0.0,Deny,,,18.0,
+2010040770502,2010-04-09 00:00:00,2010-03-01 12:00:00,COS,Colorado Springs Municipal,Delta Air Lines  ,Property Damage,Checked Baggage,Other,190.47,Approve in Full,,,38.0,
+2015110426551,2015-10-15 00:00:00,2015-09-28 00:00:00,LAX,Los Angeles International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,17.0,
+2007091431989,2007-09-11 00:00:00,2007-08-18 00:00:00,SRQ,Sarasota Bradenton International,Continental Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Costume; Jewelry - Fine,2466.0,Denied,0.0,Deny,24.0,2466.0
+0408079L,2003-04-08 00:00:00,2003-03-16 00:00:00,SJC,Norman Y Mineta San Jose International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,470.0,Approved,470.0,Approve in Full,23.0,0.0
+0507007L,2003-05-07 00:00:00,2003-03-22 00:00:00,LAX,Los Angeles International Airport,Southwest Airlines,Passenger Property Loss,Other,Clothing - Shoes; belts; accessories; etc.,160.0,Settled,80.0,Settle,46.0,80.0
+2009052959607,2009-05-22 00:00:00,2008-01-26 00:00:00,ACY,Atlantic City International,Spirit Airlines,Property Damage,Checkpoint,Medicines,110.0,Settled,85.0,Settle,482.0,25.0
+2009102864859,2009-10-22 00:00:00,2009-08-15 00:00:00,MCO,Orlando International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,,7.41,Denied,0.0,Deny,68.0,7.41
+2004092964175,2004-09-13 00:00:00,2004-08-07 00:00:00,JFK,John F. Kennedy International,Delta (Song),Passenger Theft,Checked Baggage,Other,203.96,Settled,89.95,Settle,37.0,114.01
+2006111715781,2006-11-13 00:00:00,2006-09-25 00:00:00,LAX,Los Angeles International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,40.0,Denied,0.0,Deny,49.0,40.0
+2007082330694,2007-08-21 00:00:00,2007-08-11 00:00:00,ROA,Roanoke Regional Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital,303.41,Denied,0.0,Deny,10.0,303.41
+2007071728501,2007-07-11 00:00:00,2007-05-15 00:00:00,MIA,Miami International Airport,Air Tran Airlines(do not use),Passenger Property Loss,Checked Baggage,Cameras - Digital; Cameras - Non-electronic (Camera supplies; lenses; projectors; etc.),700.0,Denied,0.0,Deny,57.0,700.0
+0605062L,2003-06-05 00:00:00,2003-05-25 00:00:00,MIA,Miami International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,3550.0,Denied,0.0,Deny,11.0,3550.0
+2005062887439,2005-06-15 00:00:00,2005-05-18 00:00:00,LAS,McCarran International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,80.0,Approved,80.0,Approve in Full,28.0,0.0
+2005060885980,2005-06-01 00:00:00,2005-02-02 00:00:00,BUF,Buffalo Niagara International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,149.95,Denied,0.0,Deny,119.0,149.95
+2012021691116,2012-02-16 00:00:00,2011-12-14 11:15:00,MCO,Orlando International Airport,Jet Blue,Property Damage,Checked Baggage,Baggage/Cases/Purses,40.0,Approve in Full,,,63.0,
+2007071128122,2007-06-29 00:00:00,2007-04-27 00:00:00,SAN,San Diego International,Sun Country Airlines Inc,Property Damage,Checked Baggage,Cameras - Digital,55.0,Approved,55.0,Approve in Full,63.0,0.0
+2010022668782,2010-03-19 00:00:00,2010-01-09 00:00:00,MCO,Orlando International Airport,SunWing Airlines,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,69.0,
+2012031891807,2012-02-06 00:00:00,2012-01-09 00:00:00,PIA,Greater Peoria,American Eagle  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,28.0,
+2006010699016,2006-01-03 00:00:00,2005-12-17 00:00:00,LAX,Los Angeles International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),45.0,Denied,0.0,Deny,17.0,45.0
+0801029M,2003-08-01 00:00:00,2003-06-19 00:00:00,CVG,Cincinnati/Northern Kentucky International,Delta Air Lines,Passenger Property Loss,Checkpoint,Other,2205.0,Settled,325.0,Settle,43.0,1880.0
+2010071473679,2010-07-06 00:00:00,2010-06-18 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Delta Air Lines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,18.0,
+2014021011577,2014-02-06 00:00:00,2014-01-29 00:00:00,BUF,Buffalo Niagara International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Currency,0.0,Deny,,,8.0,
+1006192M,2003-10-06 00:00:00,2003-09-10 00:00:00,LAX,Los Angeles International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,400.0,Settled,200.0,Settle,26.0,200.0
+2014022111881,2014-02-19 00:00:00,2013-12-22 00:00:00,JFK,John F. Kennedy International,Jet Blue,Passenger Property Loss,Checked Baggage,Travel Accessories,33.0,Approve in Full,,,59.0,
+2005031378011,2005-02-11 00:00:00,2005-02-04 00:00:00,CAE,Columbia Metropolitan,Delta (Song),,Checked Baggage,Other,5.45,Approved,5.45,Approve in Full,7.0,0.0
+0703043M,2003-07-03 00:00:00,2003-05-17 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital,191.26,Settled,95.63,Settle,47.0,95.63
+2011052083634,2011-05-11 00:00:00,2011-04-28 14:00:00,PHX,Phoenix Sky Harbor International,Delta Air Lines  ,Property Damage,Checkpoint,Computer & Accessories,0.0,Deny,,,12.0,
+2006121917394,2006-12-11 00:00:00,2006-12-05 00:00:00,,,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),300.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,6.0,
+2011030981040,2011-02-16 00:00:00,2011-01-19 00:00:00,IAH,Houston - George Bush Intercontinental Airport,Continental Airlines  ,Passenger Property Loss,Checked Baggage,Food & Drink,0.0,Deny,,,28.0,
+2010092576383,2010-09-16 00:00:00,2010-08-21 00:00:00,DFW,Dallas-Fort Worth International Airport ,American Airlines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,26.0,
+1117535M,2003-11-17 00:00:00,2003-10-25 00:00:00,,,American Airlines,,Checked Baggage,Jewelry - Fine,139.64,Approved,139.64,Approve in Full,23.0,0.0
+2014081415862,2014-08-14 00:00:00,2014-07-18 00:00:00,F,Foreign airport,British Airways  ,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,27.0,
+2014041713326,2014-04-16 00:00:00,2014-03-23 00:00:00,MIA,Miami International Airport,Delta Air Lines  ,Property Damage,Checked Baggage,Medical/Science,0.0,Deny,,,24.0,
+0708022M,2003-07-08 00:00:00,2003-06-16 00:00:00,LGA,LaGuardia,,Passenger Property Loss,Checked Baggage,Cameras - Digital,150.0,Denied,0.0,Deny,22.0,150.0
+2011102088230,2011-09-30 00:00:00,2011-08-22 00:00:00,IAD,Washington Dulles International,British Airways  ,Passenger Property Loss,Checked Baggage,,0.0,Deny,,,39.0,
+2006082211340,2006-08-16 00:00:00,2006-06-23 00:00:00,LAS,McCarran International,Continental Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,8000.0,Denied,0.0,Deny,54.0,8000.0
+0203074M,2004-02-03 00:00:00,2003-12-12 00:00:00,DFW,Dallas-Fort Worth International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),,Denied,0.0,Deny,53.0,
+2005080890167,2005-07-28 00:00:00,2005-08-07 00:00:00,IAD,Washington Dulles International,,Property Damage,Checked Baggage,Locks,80.0,Denied,0.0,Deny,-10.0,80.0
+2010021868495,2010-02-04 00:00:00,2010-01-11 07:00:00,DCA,Ronald Reagan Washington National Airport,Continental Airlines  ,Passenger Property Loss,Checked Baggage,Travel Accessories,0.0,Deny,,,23.0,
+2009021155434,2009-01-26 00:00:00,2008-12-27 00:00:00,TUL,Tulsa International Airport,Southwest Airlines,Passenger Property Loss,Checked Baggage,,371.0,Denied,0.0,Deny,30.0,371.0
+2009040157099,2009-03-30 00:00:00,2008-06-03 00:00:00,SMF,Sacramento International Airport,Delta Air Lines,Personal Injury,Checkpoint,,1045.36,Approved,1045.36,Approve in Full,300.0,0.0
+0409011L,2003-04-09 00:00:00,2003-03-12 00:00:00,ANC,Ted Stevens Anchorage International Airport,,Passenger Property Loss,Checked Baggage,Other,510.0,Denied,0.0,Deny,28.0,510.0
+2006062908760,2006-06-28 00:00:00,2006-05-27 00:00:00,LGB,Long Beach,Jet Blue,Property Damage,Checked Baggage,,331.1,Approved,331.1,Approve in Full,32.0,0.0
+2009071661298,2009-07-09 00:00:00,2009-07-06 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Frontier Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,193.97,Canceled,0.0,,3.0,193.97
+2005031878790,2005-02-24 00:00:00,2005-01-16 00:00:00,CVG,Cincinnati/Northern Kentucky International,,Passenger Property Loss,Checked Baggage,Other,50.0,Settled,25.0,Settle,39.0,25.0
+2004051452270,2004-03-24 00:00:00,2004-02-18 00:00:00,LSE,La Crosse Municipal,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,614.98,Approved,614.98,Approve in Full,35.0,0.0
+1117154M,2003-11-17 00:00:00,2003-10-18 00:00:00,BOS,Boston (Logan) International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,2650.0,Denied,0.0,Deny,30.0,2650.0
+2005100694199,2005-10-03 00:00:00,2005-09-23 00:00:00,LAX,Los Angeles International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),200.0,Approved,200.0,Approve in Full,10.0,0.0
+2004042950156,2004-02-02 00:00:00,2003-12-18 00:00:00,SEA,Seattle-Tacoma International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,73.98,Approved,73.98,Approve in Full,46.0,0.0
+2012051794082,2012-04-23 00:00:00,2012-02-27 00:00:00,ALB,Albany International,Southwest Airlines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,75.0,Approve in Full,,,56.0,
+2004082761476,2007-07-27 00:00:00,2004-07-14 00:00:00,ELP,El Paso International Airport,Southwest Airlines,Passenger Theft,Checkpoint,Currency,100.0,Approved,100.0,Approve in Full,1108.0,0.0
+2014110418207,2014-11-04 00:00:00,2014-10-09 00:00:00,IAD,Washington Dulles International,UAL  ,Passenger Property Loss,Checked Baggage,Travel Accessories,,,,,26.0,
+2008120553143,2008-12-02 00:00:00,2008-11-15 00:00:00,PBI,Palm Beach International,Delta Air Lines,Property Damage,Checked Baggage,Medical Equipment & Insturments,500.95,Denied,0.0,Deny,17.0,500.95
+2005062086591,2005-06-06 00:00:00,2005-04-03 00:00:00,CRP,Corpus Christi International,Southwest Airlines,Passenger Property Loss,Checkpoint,Currency,180.0,Denied,0.0,Deny,64.0,180.0
+2005032980230,2005-03-16 00:00:00,2005-02-26 00:00:00,TRI,Tri-Cities Regional,Delta Air Lines,Property Damage,Checked Baggage,Other,3.0,Denied,0.0,Deny,18.0,3.0
+2015010819727,2015-01-08 00:00:00,2014-12-17 00:00:00,SEA,Seattle-Tacoma International,Southwest Airlines,Property Damage,Checkpoint,Personal Electronics,189.98,Settle,,,22.0,
+2007032622974,2007-03-22 00:00:00,2007-02-25 00:00:00,LAS,McCarran International,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Costume,198.98,Denied,0.0,Deny,25.0,198.98
+2011061484297,2011-06-02 00:00:00,2011-04-08 00:00:00,F,Foreign airport,Jet Blue,Passenger Property Loss,Checked Baggage,Other; Personal Electronics,0.0,Deny,,,55.0,
+2012072695723,2012-06-22 00:00:00,2012-06-19 00:00:00,LAS,McCarran International,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,,0.0,Deny,,,3.0,
+2008071546909,2008-07-07 00:00:00,2008-03-15 00:00:00,CLT,Charlotte/Douglas International Airport,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),169.5,Settled,150.0,Settle,114.0,19.5
+2010121078706,2010-12-03 00:00:00,2010-11-22 18:30:00,SMF,Sacramento International Airport,Southwest Airlines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,159.99,Approve in Full,,,10.0,
+0219662M,2004-02-19 00:00:00,2003-12-26 00:00:00,LEX,Blue Grass ;Lexington,,Property Damage,Checkpoint,Cameras - Digital,330.0,Settled,149.0,Settle,55.0,181.0
+2004091062619,2004-08-26 00:00:00,2004-07-08 00:00:00,TUS,Tucson International,,Passenger Property Loss,Checked Baggage,Luggage (all types including footlockers),45.0,Approved,45.0,Approve in Full,49.0,0.0
+2004061856345,2004-05-27 00:00:00,2004-05-11 00:00:00,ORD,Chicago O'Hare International Airport,UAL,Property Damage,Checked Baggage,Other,3000.0,Denied,0.0,Deny,16.0,3000.0
+2015011519879,2015-01-15 00:00:00,2015-01-13 00:00:00,LAX,Los Angeles International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Personal Accessories,276.25,Settle,,,2.0,
+2006030202368,2006-02-21 00:00:00,2006-02-13 00:00:00,OAK,Metropolitan Oakland International,USAir,Property Damage,Checked Baggage,Luggage (all types including footlockers),109.99,Denied,0.0,Deny,8.0,109.99
+2006062008272,2006-06-19 00:00:00,2006-05-31 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Luggage (all types including footlockers),836.84,Denied,0.0,Deny,19.0,836.84
+2010021968552,2010-02-12 00:00:00,2010-01-27 22:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,15.0,
+2004120768726,2004-10-22 00:00:00,2004-09-30 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),5.0,Denied,0.0,Deny,22.0,5.0
+2005052485484,2005-05-18 00:00:00,2005-04-30 00:00:00,TRI,Tri-Cities Regional,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital,273.73,Approved,273.73,Approve in Full,18.0,0.0
+0202071M,2004-02-02 00:00:00,2004-01-15 00:00:00,MKE,General Mitchell International Airport,UAL,Property Damage,Checked Baggage,Luggage (all types including footlockers),120.0,Settled,10.0,Settle,18.0,110.0
+2005063087920,2005-06-27 00:00:00,2005-05-17 00:00:00,ONT,Ontario International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Eyeglasses - (including contact lenses),,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,41.0,
+0226058M,2004-02-26 00:00:00,2004-02-12 00:00:00,SLC,Salt Lake City International Airport,Southwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),150.0,Settled,50.0,Settle,14.0,100.0
+2009072961931,2009-07-27 00:00:00,2009-07-24 00:00:00,SEA,Seattle-Tacoma International,Southwest Airlines,Passenger Property Loss,Checked Baggage,MP3 Players-(iPods; etc),269.99,Canceled,,,3.0,
+2012120599112,2012-10-22 00:00:00,2012-09-01 05:30:00,SEA,Seattle-Tacoma International,Delta Air Lines  ,Passenger Property Loss,Checkpoint,Clothing,84.94,Settle,,,50.0,
+2014011410842,2014-01-14 00:00:00,2014-01-14 00:00:00,ABQ,Albuquerque International Sunport Airport,Frontier Airlines,Property Damage,Checked Baggage,Computer & Accessories,,,,,0.0,
+2005072689717,2005-07-22 00:00:00,2005-06-06 00:00:00,TPA,Tampa International,UAL,Passenger Property Loss,Checked Baggage,Jewelry - Fine,99.49,Denied,0.0,Deny,46.0,99.49
+2005051284573,2005-05-11 00:00:00,2005-05-01 00:00:00,DFW,Dallas-Fort Worth International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Computer - Laptop,1000.0,Denied,0.0,Deny,10.0,1000.0
+2009073162093,2009-07-28 00:00:00,2009-07-09 00:00:00,FLG,Flagstaff Pulliam,USAir,Passenger Property Loss,Checked Baggage,Bags - Fabric; plastic; etc. (not purses); Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Jewelry - Fine,400.0,Denied,0.0,Deny,19.0,400.0
+2011011479590,2011-01-06 00:00:00,2010-12-06 00:00:00,ALO,Waterloo Municipal Airport,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,,0.0,Deny,,,31.0,
+2004080460541,2004-07-13 00:00:00,2004-06-28 00:00:00,,,,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,298.0,Approved,298.0,Approve in Full,15.0,0.0
+2005032579879,2005-03-09 00:00:00,,LGB,Long Beach,American Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,85.0,Approved,85.0,Approve in Full,,0.0
+2004101965180,2004-09-28 00:00:00,2004-07-10 00:00:00,LIT,Little Rock National,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),150.0,Denied,0.0,Deny,80.0,150.0
+2004052553468,2004-04-21 00:00:00,2004-04-05 00:00:00,ORD,Chicago O'Hare International Airport,,Property Damage,Checkpoint,Computer - Laptop,1662.0,Settled,1499.99,Settle,16.0,162.01
+2006020100753,2006-01-26 00:00:00,2005-11-15 00:00:00,MSN,Dane County Regional (Madison),UAL,Property Damage,Checked Baggage,Fish/Game,250.0,Approved,250.0,Approve in Full,72.0,0.0
+2015011419861,2015-01-14 00:00:00,2015-01-08 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,6.0,
+2014091716642,2014-08-28 00:00:00,2014-07-19 00:00:00,OMA,Eppley Airfield,Southwest Airlines  ,Property Damage,Checked Baggage,Clothing,32.59,Approve in Full,,,40.0,
+2015080424541,2015-07-28 00:00:00,2015-06-25 00:00:00,OGG,Kahului-Maui; HI,USAir,Passenger Property Loss,Checked Baggage,Travel Accessories,0.0,Deny,,,33.0,
+2005121497770,2005-12-08 00:00:00,2005-11-29 00:00:00,ORF,Norfolk International,Southwest Airlines,,Checked Baggage,,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,9.0,
+2006072409971,2006-07-20 00:00:00,2006-06-19 00:00:00,SEA,Seattle-Tacoma International,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),165.0,Approved,165.0,Approve in Full,31.0,0.0
+2004042350054,2004-03-15 00:00:00,2004-03-04 00:00:00,OKC,Will Rogers World,Southwest Airlines,Passenger Property Loss,Checked Baggage,Other,260.0,Settled,130.0,Settle,11.0,130.0
+2012122799371,2012-11-01 00:00:00,2012-10-08 07:43:00,BUR,Bob Hope ,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,0.0,Deny,,,23.0,
+2004062557387,2004-06-04 00:00:00,2004-05-24 00:00:00,SEA,Seattle-Tacoma International,America West,Employee Loss (MPCECA),Checked Baggage,Other,89.99,Approved,89.99,Approve in Full,11.0,0.0
+1105070M,2003-11-05 00:00:00,2003-08-05 00:00:00,IAD,Washington Dulles International,UAL,Passenger Property Loss,Checked Baggage,Other,1369.57,Denied,0.0,Deny,92.0,1369.57
+2008061145494,2008-06-05 00:00:00,2008-05-22 00:00:00,JFK,John F. Kennedy International,Asiana Airlines,Passenger Property Loss,Checked Baggage,Cameras - Non-electronic (Camera supplies; lenses; projectors; etc.); Computer - Laptop; Toys (game systems; cartridges; radio controlled cars; etc.),5500.0,Denied,0.0,Deny,14.0,5500.0
+2005033080605,2005-03-23 00:00:00,2005-02-25 00:00:00,JFK,John F. Kennedy International,,Passenger Property Loss,Checked Baggage,Luggage (all types including footlockers),300.0,Denied,300.0,Deny,26.0,0.0
+2004051150994,2004-03-12 00:00:00,2004-01-26 00:00:00,TPA,Tampa International,Northwest Airlines,Property Damage,Checked Baggage,Other,75.0,Approved,75.0,Approve in Full,46.0,0.0
+2014031712546,2014-03-17 00:00:00,2014-03-10 00:00:00,HNL,Honolulu International Airport,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,598.54,Settle,,,7.0,
+2007112735542,2007-11-26 00:00:00,2007-11-24 00:00:00,SFB,Orlando Sanford,Allegiant Air,Property Damage,Checked Baggage,Luggage (all types including footlockers),50.0,Approved,50.0,Approve in Full,2.0,0.0
+2006012500300,2006-01-18 00:00:00,2005-12-27 00:00:00,BTV,Burlington; VT,UAL,Passenger Property Loss,Checked Baggage,Eyeglasses - (including contact lenses),957.0,Settled,478.5,Settle,22.0,478.5
+2006062108411,2006-06-20 00:00:00,2006-05-13 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Locks,12.41,Approved,12.41,Approve in Full,38.0,0.0
+1205671M,2003-12-05 00:00:00,2003-09-23 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checkpoint,Other,70.0,Approved,70.0,Approve in Full,73.0,0.0
+2013041003104,2013-03-25 00:00:00,2013-03-01 00:00:00,HNL,Honolulu International Airport,Hawaiian Airlines  ,Passenger Property Loss,Checked Baggage,Clothing,,,,,24.0,
+2009010554069,2008-12-29 00:00:00,2008-12-13 00:00:00,MIA,Miami International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Computer - Laptop,700.0,Denied,0.0,Deny,16.0,700.0
+2005040581530,2005-04-04 00:00:00,2005-03-05 00:00:00,CLE,Cleveland Hopkins International,Continental Airlines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,100.0,Settled,50.0,Settle,30.0,50.0
+2007110634588,2007-11-05 00:00:00,2007-10-06 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,American Airlines,,Checkpoint,,15.45,Denied,0.0,Deny,30.0,15.45
+2008030340357,2008-02-22 00:00:00,2008-02-08 00:00:00,DEN,Denver International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Locks,11.6,Denied,0.0,Deny,14.0,11.6
+2007090531398,2007-08-31 00:00:00,2007-08-15 00:00:00,JFK,John F. Kennedy International,American Airlines,Passenger Property Loss,Checkpoint,Other,250.0,Denied,0.0,Deny,16.0,250.0
+2005021876497,2005-01-24 00:00:00,2004-10-17 00:00:00,MIA,Miami International Airport,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),175.0,Settled,70.0,Settle,99.0,105.0
+2014013011297,2014-01-27 00:00:00,2013-12-31 00:00:00,MSY,New Orleans International,American Airlines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,27.0,
+2004122871458,2004-11-19 00:00:00,2004-11-07 00:00:00,PHL,Philadelphia International Airport,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Fine,4132.93,Denied,0.0,Deny,12.0,4132.93
+2012072395639,2012-06-21 00:00:00,2012-04-13 17:45:00,RIC,Richmond International,,Property Damage,Checkpoint,Other,,,,,68.0,
+2006021701745,2006-02-13 00:00:00,2006-02-02 00:00:00,BWI,Baltimore/Washington Intl Thurgood Marshall,American West,Property Damage,Checked Baggage,Other,46.67,Approved,46.67,Approve in Full,11.0,0.0
+2009071361104,2009-07-07 00:00:00,2009-06-30 00:00:00,BOS,Boston (Logan) International Airport,Delta Air Lines,Property Damage,Checkpoint,Dishes; Pottery; Glassware; Plasticware,750.0,Settled,500.0,Settle,7.0,250.0
+2013061104223,2013-05-30 00:00:00,2013-04-29 00:00:00,SJU,Luis Munoz Marin International,Delta Air Lines  ,Property Damage,Checked Baggage,,0.0,Deny,,,31.0,
+2005070888493,2005-07-07 00:00:00,2005-06-29 00:00:00,MSN,Dane County Regional (Madison),,Passenger Property Loss,Checked Baggage,Cameras - Digital,525.0,Denied,0.0,Deny,8.0,525.0
+0312028M,2004-03-12 00:00:00,2004-01-03 00:00:00,BOS,Boston (Logan) International Airport,,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,50.0,Denied,0.0,Deny,69.0,50.0
+2009051858775,2009-04-30 00:00:00,2009-04-27 00:00:00,BUR,Bob Hope,Southwest Airlines,Passenger Property Loss,Checkpoint,Cell Phones,600.0,Denied,0.0,Deny,3.0,600.0
+2010032269895,2010-03-16 00:00:00,2010-02-13 00:00:00,LAX,Los Angeles International Airport ,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses; Clothing; Computer & Accessories,0.0,Deny,,,31.0,
+2007011018584,2007-01-05 00:00:00,2006-10-08 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Clocks - Grandfather; Grandmother; etc.; Other,143.1,Denied,0.0,Deny,89.0,143.1
+2009052059164,2009-05-06 00:00:00,2009-05-01 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Delta Air Lines,Passenger Property Loss,Checkpoint,Audio - Other (Phonograph; cassettes; etc),322.92,Denied,0.0,Deny,5.0,322.92
+0203432M,2004-02-03 00:00:00,2004-08-01 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checkpoint,Other,38.0,Approved,38.0,Approve in Full,-180.0,0.0
+0318103L,2003-03-18 00:00:00,2003-01-05 00:00:00,LIT,Little Rock National,,Property Damage,Checked Baggage,Luggage (all types including footlockers),70.0,Denied,0.0,Deny,72.0,70.0
+2007120335910,2007-11-27 00:00:00,2007-11-23 00:00:00,CHS,Charleston International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,95.0,Denied,0.0,Deny,4.0,95.0
+2013041503175,2013-04-01 00:00:00,2013-02-26 05:00:00,DEN,Denver International Airport ,Southwest Airlines  ,Property Damage,Checkpoint,Personal Accessories,0.0,Deny,,,33.0,
+2009112365632,2009-11-16 00:00:00,2009-10-30 00:00:00,EWR,Newark International Airport,Continental Airlines,Property Damage,Checked Baggage,,1600.0,Denied,0.0,Deny,17.0,1600.0
+2014031712532,2014-03-17 00:00:00,2014-03-10 00:00:00,MIA,Miami International Airport,American Airlines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,,,,,7.0,
+2005053185526,2005-05-31 00:00:00,2005-05-15 00:00:00,BZN,Gallatin Field,,Property Damage,Checkpoint,Other,99.0,Denied,0.0,Deny,16.0,99.0
+0603101L,2003-06-03 00:00:00,2003-02-04 00:00:00,MCO,Orlando International Airport,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Fine,600.0,Settled,300.0,Settle,119.0,300.0
+2005081590595,2005-08-04 00:00:00,2005-08-01 00:00:00,LAS,McCarran International,Jet Blue,Passenger Property Loss,Checked Baggage,Currency,3000.0,Denied,0.0,Deny,3.0,3000.0
+2004061555937,2004-05-13 00:00:00,2004-04-08 00:00:00,PBI,Palm Beach International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,80.34,Approved,80.34,Approve in Full,35.0,0.0
+2006110715266,2006-11-02 00:00:00,2004-11-22 00:00:00,SAN,San Diego International,Southwest Airlines,Personal Injury,Checkpoint,,35000.0,Settled,3700.0,Settle,710.0,31300.0
+2006081410959,2006-08-11 00:00:00,2006-07-23 00:00:00,,,,Property Damage,Checked Baggage,Dishes; Pottery; Glassware; Plasticware,5.99,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,19.0,
+2009061860320,2009-06-11 00:00:00,2009-05-15 00:00:00,BTR,Baton Rouge Metropolitan,American Airlines,Property Damage,Checked Baggage,Cameras - Non-electronic (Camera supplies; lenses; projectors; etc.),141.69,Denied,0.0,Deny,27.0,141.69
+2006010498728,2005-12-27 00:00:00,2005-07-09 00:00:00,BOS,Boston (Logan) International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,189.44,Denied,0.0,Deny,171.0,189.44
+2006020200855,2006-01-27 00:00:00,2005-12-05 00:00:00,MIA,Miami International Airport,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,298.0,Denied,0.0,Deny,53.0,298.0
+2004060654794,2004-04-21 00:00:00,2004-02-23 00:00:00,LAS,McCarran International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Other,235.0,Denied,0.0,Deny,58.0,235.0
+2005070888506,2005-07-06 00:00:00,2005-06-06 00:00:00,OMA,Eppley Airfield,,Passenger Property Loss,Checked Baggage,Cameras - Digital,874.97,Settled,242.66,Settle,30.0,632.3100000000001
+2007082831010,2007-08-27 00:00:00,2007-08-18 00:00:00,LAS,McCarran International,,Property Damage,Checkpoint,Baby - Strollers; car seats; playpen; etc.,142.0,Approved,142.0,Approve in Full,9.0,0.0
+2004050550565,2004-03-11 00:00:00,2004-01-26 00:00:00,RSW,Southwest Florida International,,Property Damage,Checked Baggage,Other,87.0,Denied,0.0,Deny,45.0,87.0
+0226110M,2004-02-26 00:00:00,2003-10-23 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),750.0,Settled,435.18,Settle,126.0,314.82
+2007042524484,2007-04-19 00:00:00,2007-03-04 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checkpoint,Currency,250.0,Denied,0.0,Deny,46.0,250.0
+2004101464987,2004-09-15 00:00:00,2004-09-06 00:00:00,ILM,Wilmington International,USAir,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,17.65,Denied,0.0,Deny,9.0,17.65
+0910079M,2003-09-10 00:00:00,2003-09-03 00:00:00,SJC,Norman Y Mineta San Jose International,,Property Damage,Checkpoint,Baby - Strollers; car seats; playpen; etc.,16.0,Approved,16.0,Approve in Full,7.0,0.0
+2006122217796,2006-12-18 00:00:00,2006-11-05 00:00:00,SJU,Luis Munoz Marin International,USAir,Passenger Property Loss,Checked Baggage,Alcoholic beverages,215.35,Denied,0.0,Deny,43.0,215.35
+2009052059118,2009-05-01 00:00:00,2009-04-18 00:00:00,SEA,Seattle-Tacoma International,Horizon Air,Passenger Property Loss,Checkpoint,,2424.0,Denied,0.0,Deny,13.0,2424.0
+0905010M,2003-09-05 00:00:00,2003-07-08 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Property Damage,Checked Baggage,Computer - Laptop,190.75,Denied,0.0,Deny,59.0,190.75
+2012051193861,2012-04-18 00:00:00,2011-01-22 16:00:00,DEN,Denver International Airport ,USAir  ,Property Damage,Checkpoint,Other,73.95,Approve in Full,,,451.0,
+2015110926726,2015-10-22 00:00:00,2015-06-04 00:00:00,IAD,Washington Dulles International,UAL,Passenger Property Loss,Checked Baggage,Travel Accessories,40.88,Approve in Full,,,140.0,
+2005010372185,2004-12-07 00:00:00,2004-10-29 00:00:00,BIL,Billings; MT,Northwest Airlines,Passenger Property Loss,Other,Other,325.0,Settled,162.5,Settle,39.0,162.5
+0613031L,2003-06-13 00:00:00,2003-06-02 00:00:00,JFK,John F. Kennedy International,Northwest Airlines,Property Damage,Checked Baggage,Other,823.25,Denied,823.25,Deny,11.0,0.0
+2005110295525,2005-10-25 00:00:00,2005-10-17 00:00:00,FSD,Joe Foss Field,UAL,Passenger Property Loss,Checked Baggage,Computer - Laptop,1600.0,Denied,0.0,Deny,8.0,1600.0
+2008092950566,2008-09-26 00:00:00,2008-09-15 00:00:00,CAK,Akron-Canton Regional,Delta Air Lines,Employee Loss (MPCECA),Checked Baggage,MP3 Players-(iPods; etc),300.0,Denied,0.0,Deny,11.0,300.0
+2011052483723,2011-05-11 00:00:00,2011-04-30 09:30:00,JFK,John F. Kennedy International,Virgin America,Property Damage,Checked Baggage,Travel Accessories,21.8,Approve in Full,,,10.0,
+2009102764777,2009-10-20 00:00:00,2009-07-22 16:42:00,JFK,John F. Kennedy International,Jet Blue,Property Damage,Checked Baggage,Luggage (all types including footlockers),350.0,Denied,0.0,Deny,89.0,350.0
+2014042813541,2014-04-22 00:00:00,2014-03-14 00:00:00,RDU,Raleigh-Durham International,UAL  ,Property Damage,Checked Baggage,Computer & Accessories,,,,,39.0,
+2007091431907,2007-09-10 00:00:00,2007-08-04 00:00:00,MCO,Orlando International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Computer - Laptop,1189.15,Denied,0.0,Deny,37.0,1189.15
+2011122289812,2011-12-02 00:00:00,2011-11-11 00:00:00,PVD,TF Green Airport; Providence,UAL  ,Passenger Property Loss,Checkpoint,Currency; Jewelry & Watches,0.0,Deny,,,21.0,
+2007050424967,2007-05-02 00:00:00,2007-02-22 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Sporting Equipment & Supplies (footballs; parachutes; etc.),210.63,Denied,0.0,Deny,69.0,210.63
+0925384M,2003-09-25 00:00:00,2003-09-02 00:00:00,,,,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,23.0,
+2012040492469,2012-03-01 00:00:00,2012-02-05 00:00:00,SAN,San Diego International,Continental Airlines  ,Property Damage,Checked Baggage,Other,350.0,Approve in Full,,,25.0,
+2005032479713,2005-03-09 00:00:00,2005-02-02 00:00:00,HNL,Honolulu International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Locks,15.0,Denied,0.0,Deny,35.0,15.0
+2015022520856,2015-02-25 00:00:00,2014-08-29 00:00:00,CLT,Charlotte/Douglas International Airport,American Airlines,Property Damage,Checkpoint,Other,79.99,Approve in Full,,,180.0,
+2006062808644,2006-06-27 00:00:00,2006-05-28 00:00:00,IAD,Washington Dulles International,,Passenger Property Loss,Checkpoint,Watches - Expensive more than $100,750.0,Denied,0.0,Deny,30.0,750.0
+2004061455708,2004-05-10 00:00:00,2004-04-12 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,,Canceled,,,28.0,
+2004111767213,2004-10-01 00:00:00,2004-08-28 00:00:00,BOI,Boise Air Terminal/Gowen Field,Horizon Air,Passenger Property Loss,Checked Baggage,Jewelry - Fine,50.0,Settled,25.0,Settle,34.0,25.0
+2013111809486,2013-11-06 00:00:00,2013-10-13 16:59:00,EWR,Newark International Airport,UAL  ,Passenger Property Loss,Checked Baggage,Clothing,,,,,23.0,
+2009052159214,2009-05-15 00:00:00,2009-05-04 00:00:00,JFK,John F. Kennedy International,American Airlines,Property Damage,Checkpoint,Computer - Laptop,619.99,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,11.0,
+2005092693263,2005-09-14 00:00:00,2005-05-30 00:00:00,PHL,Philadelphia International Airport,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Fine,156.6,Approved,156.6,Approve in Full,107.0,0.0
+0325048L,2003-03-25 00:00:00,2003-02-18 00:00:00,SRQ,Sarasota Bradenton International,,Property Damage,Checked Baggage,Other,9.0,Approved,9.0,Approve in Full,35.0,0.0
+2006060207242,2006-05-30 00:00:00,2006-05-21 00:00:00,DFW,Dallas-Fort Worth International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),78.71,Denied,0.0,Deny,9.0,78.71
+2004062256925,2004-05-27 00:00:00,2004-05-05 00:00:00,ORD,Chicago O'Hare International Airport,,Property Damage,Checkpoint,Other,84.0,Approved,84.0,Approve in Full,22.0,0.0
+2010121678807,2010-12-03 00:00:00,2010-11-06 09:00:00,PDX,Portland International,UAL  ,Passenger Property Loss,Checked Baggage,Other,0.0,Deny,,,26.0,
+0225121L,2003-02-25 00:00:00,,,,,,Other,Other,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,,
+2013061804451,2013-05-21 00:00:00,2013-05-16 00:00:00,JFK,John F. Kennedy International,,Passenger Property Loss,Checked Baggage,Clothing; Personal Accessories; Personal Electronics,0.0,Deny,,,5.0,
+2004071359146,2004-06-22 00:00:00,2004-06-14 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,1616.24,Settled,1499.0,Settle,8.0,117.24000000000001
+2006031603239,2006-03-13 00:00:00,2006-02-26 00:00:00,IAD,Washington Dulles International,UAL,Property Damage,Checked Baggage,Cameras - Digital,669.99,Settled,22.0,Settle,15.0,647.99
+2004122069333,2004-11-05 00:00:00,2004-08-22 00:00:00,BOS,Boston (Logan) International Airport,,Passenger Property Loss,Checked Baggage,Other,170.14,Denied,0.0,Deny,75.0,170.14
+2007072328837,2007-07-19 00:00:00,2007-07-04 00:00:00,OAK,Metropolitan Oakland International,Southwest Airlines,Passenger Property Loss,Checkpoint,Handbags & Purses (leather or fabric); Jewelry - Fine; Other,3703.0,Denied,0.0,Deny,15.0,3703.0
+2008052744857,2008-05-21 00:00:00,2008-04-14 00:00:00,PBI,Palm Beach International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,106.49,Denied,0.0,Deny,37.0,106.49
+2009110965234,2009-10-26 00:00:00,2009-10-21 11:42:00,BOS,Boston (Logan) International Airport,Air Canada,Property Damage,Checked Baggage,Luggage (all types including footlockers),500.0,Denied,0.0,Deny,4.0,500.0
+2007062827601,2007-06-25 00:00:00,2007-05-29 00:00:00,IAD,Washington Dulles International,Jet Blue,Passenger Property Loss,Checked Baggage,Luggage (all types including footlockers),50.0,Settled,25.0,Settle,27.0,25.0
+2016010628162,2015-12-22 00:00:00,2015-12-14 00:00:00,JFK,John F. Kennedy International,Jet Blue,Passenger Property Loss,Checkpoint,Clothing,,,,,8.0,
+2004072660015,2004-07-09 00:00:00,2004-06-27 00:00:00,SAN,San Diego International,UAL,Property Damage,Checked Baggage,Luggage (all types including footlockers),233.48,Settled,50.0,Settle,12.0,183.48
+2006122117665,2006-12-14 00:00:00,2006-12-09 00:00:00,F,Foreign airport,USA 3000 (U5),Passenger Property Loss,Checked Baggage,Jewelry - Fine,1510.0,Denied,0.0,Deny,5.0,1510.0
+2012052294175,2012-04-30 00:00:00,2012-02-16 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Delta Air Lines  ,Passenger Property Loss,Checkpoint,Jewelry & Watches,0.0,Deny,,,74.0,
+2006042404964,2006-04-14 00:00:00,2006-02-02 00:00:00,SFO,San Francisco International,Frontier Airlines,Passenger Property Loss,Checked Baggage,Other,175.87,Closed as a contractor claim,0.0,,71.0,175.87
+2010080574536,2010-07-30 00:00:00,2010-07-16 12:00:00,MIA,Miami International Airport,American Airlines  ,Property Damage,Checked Baggage,Clothing; Other,0.0,Deny,,,13.0,
+2010071473638,2010-07-01 00:00:00,2010-06-18 19:30:00,KOA,Kona International,Delta Air Lines  ,Passenger Property Loss,Checkpoint,Personal Electronics,0.0,Deny,,,12.0,
+2005010472637,2004-12-14 00:00:00,,,,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Fine,33.11,Canceled,,,,
+2015050522306,2015-04-28 00:00:00,2015-04-03 00:00:00,SEA,Seattle-Tacoma International,,Passenger Property Loss,Checked Baggage,Sporting Equipment & Supplies,16.0,Approve in Full,,,25.0,
+0107233M,2004-01-07 00:00:00,2003-12-25 00:00:00,MCO,Orlando International Airport,Continental Airlines,,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,258.0,Approved,258.0,Approve in Full,13.0,0.0
+0714005M,2003-07-14 00:00:00,2003-06-21 00:00:00,CLE,Cleveland Hopkins International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,47.81,Approved,47.81,Approve in Full,23.0,0.0
+2014020411426,2014-02-03 00:00:00,2013-12-15 00:00:00,SAT,San Antonio International,USAir  ,Property Damage,Checked Baggage,Other; Personal Electronics,0.0,Deny,,,50.0,
+2013011099799,2012-11-26 00:00:00,2012-11-02 00:00:00,LAX,Los Angeles International Airport ,UAL  ,Passenger Property Loss,Checked Baggage,Hunting & Fishing Items,104.94,Approve in Full,,,24.0,
+2006121517245,2006-12-11 00:00:00,2006-12-09 00:00:00,RIC,Richmond International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,1950.0,Denied,0.0,Deny,2.0,1950.0
+0226002L,2003-02-26 00:00:00,,,,,,Other,Other,,Canceled,0.0,,,
+2012082996391,2012-07-16 00:00:00,2012-07-16 06:00:00,PHL,Philadelphia International Airport,,Passenger Property Loss,Checkpoint,Personal Electronics,,,,,-1.0,
+2012040592564,2012-03-06 00:00:00,2012-02-27 09:30:00,FLL,Ft. Lauderdale-Hollywood International,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Cameras,0.0,Deny,,,7.0,
+2009052959613,2009-05-21 00:00:00,2009-05-08 00:00:00,DEN,Denver International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Kitchen Utensils -Pots; Pans; Knives (heavy aluminum; cast iron; etc.),34.95,Denied,0.0,Deny,13.0,34.95
+2004091362810,2004-08-27 00:00:00,2004-04-09 00:00:00,MIA,Miami International Airport,,Passenger Property Loss,Checkpoint,Jewelry - Fine,1500.0,Denied,0.0,Deny,140.0,1500.0
+2009110965248,2009-11-02 00:00:00,2009-09-28 00:00:00,COS,Colorado Springs Municipal,Delta Air Lines,Passenger Property Loss,Checkpoint,Jewelry - Fine,460.0,Denied,0.0,Deny,35.0,460.0
+2004061055456,2004-05-27 00:00:00,2004-05-05 00:00:00,OAK,Metropolitan Oakland International,UAL,Property Damage,Checkpoint,Luggage (all types including footlockers),1568.0,Denied,0.0,Deny,22.0,1568.0
+2008043043609,2008-04-25 00:00:00,2008-02-21 00:00:00,HNL,Honolulu International Airport,Aloha Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),20.0,Approved,20.0,Approve in Full,64.0,0.0
+2006042505189,2006-04-14 00:00:00,2006-04-09 00:00:00,BUR,Bob Hope,,Passenger Property Loss,Checkpoint,Other,280.31,Denied,0.0,Deny,5.0,280.31
+1117018M,2003-11-17 00:00:00,2003-10-01 00:00:00,,,,Property Damage,Checked Baggage,Luggage (all types including footlockers),7.5,Settled,3.25,Settle,47.0,4.25
+2009082162815,2009-08-18 00:00:00,2009-08-15 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),90.0,Denied,0.0,Deny,3.0,90.0
+2006082411527,2006-08-21 00:00:00,2006-08-06 00:00:00,OKC,Will Rogers World,Continental Airlines,Property Damage,Checkpoint,GPS - Global Positioning System,109.95,Approved,109.95,Approve in Full,15.0,0.0
+2004062156581,2004-05-27 00:00:00,2004-05-15 00:00:00,LAS,McCarran International,America West,Passenger Property Loss,Checked Baggage,Eyeglasses - (including contact lenses),107.71,Canceled,,,12.0,
+2005031578275,2005-02-16 00:00:00,2005-02-06 00:00:00,SEA,Seattle-Tacoma International,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,19.35,Approved,19.35,Approve in Full,10.0,0.0
+0717057M,2003-07-17 00:00:00,2003-06-12 00:00:00,TPA,Tampa International,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,1914.6,Settled,789.41,Settle,35.0,1125.19
+2007122736958,2007-12-21 00:00:00,2007-08-21 00:00:00,MSN,Dane County Regional (Madison),UAL,Passenger Property Loss,Checked Baggage,Batteries - Dry cell only,17.77,Settled,8.89,Settle,122.0,8.879999999999999
+2007042624572,2007-04-23 00:00:00,2007-04-12 00:00:00,FNT,Bishop International; Flint,Northwest Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,450.0,Denied,0.0,Deny,11.0,450.0
+2004101965225,2004-09-28 00:00:00,2004-07-17 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,,Passenger Property Loss,Checked Baggage,Other,250.0,Denied,0.0,Deny,73.0,250.0
+2004060755007,2004-04-23 00:00:00,2004-02-22 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Spirit Airlines,Passenger Property Loss,Checked Baggage,Other,1500.0,Denied,0.0,Deny,61.0,1500.0
+0909188M,2003-09-09 00:00:00,2003-08-28 00:00:00,LAX,Los Angeles International Airport,America Trans Air,Passenger Property Loss,Checked Baggage,Other,953.3,Settled,218.82,Settle,12.0,734.48
+2014082016098,2014-08-04 00:00:00,2014-07-28 00:00:00,IAD,Washington Dulles International,American Airlines  ,Passenger Property Loss,Checked Baggage,,0.0,Deny,,,7.0,
+2004122770935,2004-11-19 00:00:00,2004-11-08 00:00:00,,,,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,100.0,Canceled,,,11.0,
+2012073195801,2012-07-03 00:00:00,2012-06-15 00:00:00,PSC,Tri-Cities,UAL  ,Passenger Property Loss,Checked Baggage,Clothing,0.0,Deny,,,18.0,
+2012110498331,2012-09-24 00:00:00,2012-07-30 07:00:00,MCO,Orlando International Airport,Southwest Airlines  ,Passenger Property Loss,Checkpoint,,0.0,Deny,,,55.0,
+2009102264652,2009-10-13 00:00:00,2009-09-05 00:00:00,SEA,Seattle-Tacoma International,Jet Blue,Passenger Property Loss,Checked Baggage,Locks,8.3,Denied,0.0,Deny,38.0,8.3
+2011081686168,2011-08-01 00:00:00,2011-07-29 07:30:00,ORD,Chicago O'Hare International Airport,UAL  ,Passenger Property Loss,Checked Baggage,Cameras,,,,,2.0,
+2014112818733,2014-11-25 00:00:00,2014-11-23 00:00:00,TUS,Tucson International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Sporting Equipment & Supplies,,,,,2.0,
+2006022201943,2006-02-15 00:00:00,2006-02-09 00:00:00,,,,Property Damage,Checked Baggage,Luggage (all types including footlockers),495.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,6.0,
+2014081515918,2014-07-28 00:00:00,2014-07-25 00:00:00,PIT,Pittsburgh International Airport,USAir  ,Property Damage,Checked Baggage,Household Items,20.0,Approve in Full,,,3.0,
+2009071561266,2009-07-09 00:00:00,2009-07-06 00:00:00,LGA,LaGuardia,American Airlines,Passenger Property Loss,Checked Baggage,Computer - Laptop; Locks,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,3.0,
+1001066M,2003-10-01 00:00:00,2003-09-17 00:00:00,MIA,Miami International Airport,American Airlines,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),16.99,Approved,16.99,Approve in Full,14.0,0.0
+2010120978673,2010-12-03 00:00:00,2010-11-30 00:00:00,TPA,Tampa International,Jet Blue,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,3.0,
+2010040770508,2010-04-01 00:00:00,2010-03-02 16:00:00,MIA,Miami International Airport,TAM airlines,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses; Clothing,65.0,Settle,,,29.0,
+0114204M,2004-01-14 00:00:00,2004-12-22 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,,Checked Baggage,Other,47.91,Settled,23.96,Settle,-343.0,23.949999999999996
+2005032379553,2005-03-07 00:00:00,2005-02-12 00:00:00,SFO,San Francisco International,UAL,Passenger Property Loss,Checked Baggage,Other,2250.0,Closed as a contractor claim,0.0,,23.0,2250.0
+0129051M,2004-01-29 00:00:00,2003-12-23 00:00:00,LAX,Los Angeles International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,50.0,Settled,25.0,Settle,37.0,25.0
+2012041092747,2012-03-12 00:00:00,2011-10-27 00:00:00,ELP,El Paso International Airport,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Travel Accessories,20.0,Approve in Full,,,137.0,
+2007091431991,2007-09-10 00:00:00,2007-08-12 00:00:00,OAK,Metropolitan Oakland International,USAir,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,80.0,Denied,0.0,Deny,29.0,80.0
+2013022101766,2013-01-29 00:00:00,2012-11-23 07:45:00,TUL,Tulsa International Airport,,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming,30.99,Approve in Full,,,66.0,
+2007091331780,2007-09-07 00:00:00,2007-08-20 00:00:00,SJC,Norman Y Mineta San Jose International,Southwest Airlines,Passenger Property Loss,Checkpoint,Watches - Expensive more than $100,18250.0,Settled,9000.0,Settle,18.0,9250.0
+2012082996360,2012-08-02 00:00:00,2012-06-24 00:00:00,CMH,Port Columbus International,American Airlines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,0.0,Deny,,,39.0,
+0127010L,2003-01-27 00:00:00,2002-12-24 00:00:00,MCI,Kansas City International,,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,125.0,Settled,40.0,Settle,34.0,85.0
+2005010572784,2004-12-16 00:00:00,2004-09-25 00:00:00,DAL,Dallas Love Field,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,129.26,Settled,86.38,Settle,82.0,42.879999999999995
+2012112098774,2012-10-15 00:00:00,2012-09-12 00:00:00,HNL,Honolulu International Airport,Hawaiian Airlines  ,Passenger Property Loss,Checked Baggage,Travel Accessories,0.0,Deny,,,33.0,
+2006112716235,2006-11-20 00:00:00,2006-11-05 00:00:00,EWR,Newark International Airport,UAL,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Dental Equipment and Instruments; Medicines; Razors (other than electric),463.21,Canceled,0.0,,15.0,463.21
+2011100387351,2011-09-08 00:00:00,2011-08-12 00:00:00,JAX,Jacksonville International,,Passenger Property Loss,Checkpoint,Clothing,35.0,Approve in Full,,,27.0,
+2004091362756,2004-08-25 00:00:00,2004-08-14 00:00:00,JFK,John F. Kennedy International,,Property Damage,Checked Baggage,Luggage (all types including footlockers),200.0,Denied,0.0,Deny,11.0,200.0
+1106128M,2003-11-06 00:00:00,2003-10-24 00:00:00,FLL,Ft. Lauderdale-Hollywood International,,,Checkpoint,Clothing - Shoes; belts; accessories; etc.,75.0,Denied,0.0,Deny,13.0,75.0
+2005121697935,2005-12-06 00:00:00,2005-09-23 00:00:00,MEM,Memphis International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Other,12.0,Denied,0.0,Deny,74.0,12.0
+2009112365626,2009-11-16 00:00:00,2009-11-05 10:40:00,SAT,San Antonio International,Delta Air Lines,Passenger Property Loss,,,20.29,Denied,0.0,Deny,10.0,20.29
+2005081990947,2005-08-09 00:00:00,2005-07-31 00:00:00,GPT,Gulfport-Biloxi International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Locks,10.59,Approved,10.59,Approve in Full,9.0,0.0
+2013010899596,2012-11-13 00:00:00,2012-10-27 00:00:00,IFP,Laughlin/Bullhead International Airport,Allegiant Air,Passenger Property Loss,Checked Baggage,Travel Accessories,0.0,Deny,,,17.0,
+0630021M,2003-06-30 00:00:00,2003-05-28 00:00:00,DSM,Des Moines International,America West,,Checked Baggage,Jewelry - Fine,81.0,Settled,45.5,Settle,33.0,35.5
+2006082511555,2006-08-21 00:00:00,2006-07-29 00:00:00,LAS,McCarran International,USAir,Property Damage,Checked Baggage,Camping Equipment & Supplies,117.04,Approved,117.04,Approve in Full,23.0,0.0
+2006010999178,2006-01-04 00:00:00,2005-12-19 00:00:00,DEN,Denver International Airport,UAL,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,239.68,Denied,0.0,Deny,16.0,239.68
+2012060894656,2012-05-17 00:00:00,2012-02-03 06:00:00,PAH,Barkley Regional Airport,UAL  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,103.0,
+2007013119988,2007-01-29 00:00:00,2007-01-08 00:00:00,PHL,Philadelphia International Airport,Delta Air Lines,Property Damage,Checked Baggage,Dolls - Decorator; Paintings and Pictures (including frames; etchings; photos; etc),115.0,Approved,115.0,Approve in Full,21.0,0.0
+2004060254142,2004-03-18 00:00:00,2004-01-21 00:00:00,LAX,Los Angeles International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),360.0,Denied,0.0,Deny,57.0,360.0
+2006080110292,2006-07-28 00:00:00,2006-07-16 00:00:00,DCA,Ronald Reagan Washington National Airport,Frontier Airlines,Passenger Property Loss,Checked Baggage,Locks,21.52,Approved,21.52,Approve in Full,12.0,0.0
+2005080890149,2005-07-28 00:00:00,2005-07-14 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,,95.0,Denied,0.0,Deny,14.0,95.0
+2004051251459,2004-03-24 00:00:00,2004-03-14 00:00:00,MHT,Manchester Regional Airport,Delta Air Lines,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,10.0,
+0311112L,2003-03-11 00:00:00,2003-02-18 00:00:00,SDF,Louisville International,,Property Damage,Checked Baggage,Other,25.0,Settled,12.5,Settle,21.0,12.5
+2011020880015,2011-01-18 00:00:00,2011-01-11 00:00:00,SEA,Seattle-Tacoma International,UAL  ,Property Damage,Checked Baggage,Clothing,0.0,Deny,,,7.0,
+2013011099849,2012-11-27 00:00:00,2012-11-07 10:00:00,HOU,William P. Hobby,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Other,0.0,Deny,,,19.0,
+2006012600440,2006-01-23 00:00:00,2006-01-02 00:00:00,RIC,Richmond International,AirTran Airlines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,72.0,Denied,0.0,Deny,21.0,72.0
+2015052122656,2015-05-21 00:00:00,2015-04-27 00:00:00,JFK,John F. Kennedy International,Qatar airlines,Property Damage,Checked Baggage,Other,,,,,24.0,
+2006071409528,2006-07-13 00:00:00,2006-06-23 00:00:00,MCO,Orlando International Airport,,Passenger Property Loss,Checkpoint,Other,85.6,Approved,85.6,Approve in Full,20.0,0.0
+2007092032336,2007-09-20 00:00:00,2007-08-24 00:00:00,SYR,Syracuse-Hancock International,USAir,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,340.0,Denied,0.0,Deny,27.0,340.0
+2005102094924,2005-10-17 00:00:00,2005-09-28 00:00:00,OGG,Kahului-Maui; HI,UAL,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,206.14,Settled,103.07,Settle,19.0,103.07
+2007091331786,2007-09-04 00:00:00,2007-07-28 00:00:00,SJU,Luis Munoz Marin International,,Passenger Property Loss,Checkpoint,Jewelry - Costume,28.0,Denied,0.0,Deny,38.0,28.0
+2006012099885,2006-01-12 00:00:00,2005-12-17 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Other,584.15,Settled,292.07,Settle,26.0,292.08
+2014042113391,2014-04-14 00:00:00,2014-04-05 00:00:00,IAD,Washington Dulles International,UAL  ,Passenger Property Loss,Checked Baggage,Cameras,0.0,Deny,,,9.0,
+2009010554014,2008-12-22 00:00:00,2008-12-08 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Locks,16.05,Denied,0.0,Deny,14.0,16.05
+2004110266168,2004-09-23 00:00:00,2004-09-14 00:00:00,ALB,Albany International,,Property Damage,Checked Baggage,Jewelry - Fine,300.0,Canceled,0.0,,9.0,300.0
+1119105M,2003-11-19 00:00:00,2003-11-14 00:00:00,,,Northwest Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,8.65,Settled,5.0,Settle,5.0,3.6500000000000004
+0711063M,2003-07-11 00:00:00,2003-04-06 00:00:00,,,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,79.0,Approved,79.0,Approve in Full,96.0,0.0
+2010120678551,2011-01-19 00:00:00,2010-12-03 06:08:00,LAX,Los Angeles International Airport ,USAir  ,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,46.0,
+2012032091837,2012-03-20 00:00:00,2012-01-29 00:00:00,PHX,Phoenix Sky Harbor International,USAir  ,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,51.0,
+2009062260495,2009-06-17 00:00:00,2009-05-19 00:00:00,CVG,Cincinnati/Northern Kentucky International,Delta Air Lines,Property Damage,Checkpoint,Luggage (all types including footlockers),90.0,Approved,90.0,Approve in Full,29.0,0.0
+2013102307737,2013-09-11 00:00:00,2013-08-30 16:00:00,IAD,Washington Dulles International,Lufthansa  ,Passenger Property Loss,Checked Baggage,,29.99,Approve in Full,,,11.0,
+2007021420938,2007-02-12 00:00:00,2005-04-12 00:00:00,PDX,Portland International,American Airlines,Property Damage,Checked Baggage,Jewelry - Costume; Medicines,50.0,Denied,0.0,Deny,671.0,50.0
+24462,2003-01-07 00:00:00,2002-12-22 00:00:00,LGA,LaGuardia,Frontier Airlines,Passenger Property Loss,Checkpoint,Cameras - Digital,370.0,Canceled,,,16.0,
+2007062127292,2007-06-20 00:00:00,2007-05-17 00:00:00,LAS,McCarran International,Continental Airlines,Passenger Property Loss,Checkpoint,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Jewelry - Costume,80.0,Approved,80.0,Approve in Full,34.0,0.0
+2005051985092,2005-03-07 00:00:00,2005-11-11 00:00:00,,,,Passenger Property Loss,Checked Baggage,Other,38.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,-249.0,
+2007060826574,2007-06-06 00:00:00,2007-06-02 00:00:00,CLT,Charlotte/Douglas International Airport,Lufthansa,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Other,100.0,Settled,50.0,Settle,4.0,50.0
+2014050113665,2014-04-29 00:00:00,2014-04-10 00:00:00,JFK,John F. Kennedy International,UAL  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,0.0,Deny,,,19.0,
+0324011L,2003-03-24 00:00:00,2003-05-01 00:00:00,MCO,Orlando International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Luggage (all types including footlockers),400.0,Settled,200.0,Settle,-38.0,200.0
+2004063057949,2004-06-15 00:00:00,2004-05-20 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Employee Loss (MPCECA),Checked Baggage,Clothing - Shoes; belts; accessories; etc.,117.71,Settled,58.5,Settle,26.0,59.209999999999994
+2007040523552,2007-04-02 00:00:00,2007-03-28 00:00:00,HNL,Honolulu International Airport,Westjet Airlines Ltd,Property Damage,Checked Baggage,Other,135.45,Denied,0.0,Deny,5.0,135.45
+2013090406511,2013-07-19 00:00:00,2013-06-04 15:29:00,EWR,Newark International Airport,Jet Blue,Passenger Property Loss,Checkpoint,Other,,,,,44.0,
+2004100564515,2004-08-19 00:00:00,2004-07-01 00:00:00,ORD,Chicago O'Hare International Airport,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),84.95,Approved,84.95,Approve in Full,49.0,0.0
+2006112716232,2006-11-20 00:00:00,2006-10-24 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Northwest Airlines,Property Damage,Checkpoint,Luggage (all types including footlockers),120.0,Settled,100.0,Settle,27.0,20.0
+2013122410231,2013-12-14 00:00:00,2013-12-03 12:00:00,OGG,Kahului-Maui; HI,,Property Damage,Checked Baggage,Baggage/Cases/Purses,,,,,10.0,
+2011083086562,2011-08-11 00:00:00,2011-08-02 00:00:00,IND,Indianapolis International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,,0.0,Deny,,,9.0,
+2005090692199,2005-08-30 00:00:00,2005-07-23 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Cell Phones,89.0,Denied,0.0,Deny,38.0,89.0
+2004052553431,2004-04-15 00:00:00,2003-12-21 00:00:00,ORD,Chicago O'Hare International Airport,,Passenger Property Loss,Checked Baggage,Other,64.94,Settled,59.99,Settle,116.0,4.949999999999996
+2005092193044,2005-09-13 00:00:00,2005-08-30 00:00:00,RIC,Richmond International,Delta Air Lines,Property Damage,Checkpoint,Computer - Laptop,2000.0,Approved,2000.0,Approve in Full,14.0,0.0
+0710022M,2003-07-10 00:00:00,2003-05-19 00:00:00,LGA,LaGuardia,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,3100.0,Denied,0.0,Deny,52.0,3100.0
+2005021776427,2005-01-26 00:00:00,2005-01-16 00:00:00,DEN,Denver International Airport,Northwest Airlines,Property Damage,Checked Baggage,Other,17.6,Approved,17.6,Approve in Full,10.0,0.0
+2013012400288,2012-12-20 00:00:00,2012-11-24 00:00:00,BOS,Boston (Logan) International Airport ,Jet Blue,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming,22.0,Approve in Full,,,26.0,
+1106056M,2003-11-06 00:00:00,2003-10-19 00:00:00,PDX,Portland International,Continental Airlines,Property Damage,Checked Baggage,Other,120.0,Settled,120.0,Settle,18.0,0.0
+2004091663062,2004-08-27 00:00:00,2004-06-30 00:00:00,SEA,Seattle-Tacoma International,Continental Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),60.0,Settled,30.0,Settle,58.0,30.0
+2011082686509,2011-08-10 00:00:00,2011-05-20 13:45:00,FLL,Ft. Lauderdale-Hollywood International,Jet Blue,Property Damage,Checkpoint,Computer & Accessories,659.6,Settle,,,81.0,
+2009081262539,2009-08-11 00:00:00,2009-08-10 00:00:00,ORD,Chicago O'Hare International Airport,USAir,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,118.47,Approved,118.47,Approve in Full,1.0,0.0
+2005082691630,2005-08-23 00:00:00,2004-06-24 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,86.4,Approved,86.4,Approve in Full,425.0,0.0
+2004081060954,2004-07-20 00:00:00,2004-06-24 00:00:00,BNA,Nashville International,American Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,95.45,Settled,47.73,Settle,26.0,47.720000000000006
+2004071359227,2004-06-22 00:00:00,2004-05-03 00:00:00,LAS,McCarran International,America West,Property Damage,Checked Baggage,Luggage (all types including footlockers),250.0,Denied,0.0,Deny,50.0,250.0
+0909204M,2003-09-09 00:00:00,2003-08-17 00:00:00,RIC,Richmond International,UAL,,Checked Baggage,Jewelry - Fine,400.0,Denied,,Deny,23.0,
+2015031721280,2015-03-17 00:00:00,2015-03-11 00:00:00,BOS,Boston (Logan) International Airport,Alaska Airlines,Passenger Property Loss,Checked Baggage,Other,0.0,Deny,,,6.0,
+2006082511597,2006-08-22 00:00:00,2006-08-21 00:00:00,,,,Passenger Property Loss,Checked Baggage,Medicines,30.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,1.0,
+2010032269791,2010-03-11 00:00:00,2010-02-07 10:00:00,STT,Cyril E. King International,American Airlines  ,Passenger Property Loss,Checked Baggage,Clothing; Personal Accessories; Toys & Games,75.0,Approve in Full,,,31.0,
+1021177M,2003-10-21 00:00:00,2003-09-23 00:00:00,PHL,Philadelphia International Airport,,Property Damage,Checked Baggage,Other,10.0,Approved,10.0,Approve in Full,28.0,0.0
+2007101633479,2007-10-10 00:00:00,2007-07-07 00:00:00,JFK,John F. Kennedy International,Jet Blue,Passenger Property Loss,Checkpoint,Jewelry - Fine,2000.0,Denied,0.0,Deny,95.0,2000.0
+2008100850927,2008-10-06 00:00:00,2008-09-29 00:00:00,SAN,San Diego International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,670.0,Denied,0.0,Deny,7.0,670.0
+2010020168109,2010-01-27 00:00:00,2010-01-23 00:00:00,COS,Colorado Springs Municipal,UAL  ,Property Damage,Checked Baggage,Baggage/Cases/Purses; Clothing,0.0,Deny,,,4.0,
+0908031M,2003-09-08 00:00:00,2003-08-27 00:00:00,LGA,LaGuardia,USAir,Property Damage,Checked Baggage,Luggage (all types including footlockers),199.99,Settled,50.0,Settle,12.0,149.99
+2006111315503,2006-11-02 00:00:00,2006-10-19 00:00:00,DEN,Denver International Airport,UAL,Passenger Property Loss,Checked Baggage,Cameras - Digital,399.99,Denied,0.0,Deny,14.0,399.99
+2012102297871,2012-09-10 00:00:00,2012-09-05 00:00:00,PIB,Hattiesburg-Laurel Regional,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,56.82,Approve in Full,,,5.0,
+2015092825705,2015-09-08 00:00:00,2015-09-01 00:00:00,JAX,Jacksonville International,American Airlines,Property Damage,Checked Baggage,Clothing,65.0,Approve in Full,,,7.0,
+2012050793627,2012-04-13 00:00:00,2012-04-01 00:00:00,PDX,Portland International,Alaska Airlines  ,Passenger Property Loss,Checkpoint,Other,0.0,Deny,,,12.0,
+2012092197012,2012-09-21 00:00:00,2012-09-21 00:00:00,PBI,Palm Beach International,UAL  ,Passenger Property Loss,Checked Baggage,Travel Accessories,25.0,Approve in Full,,,0.0,
+2007113035737,2007-11-28 00:00:00,2007-11-22 00:00:00,IAH,Houston - George Bush Intercontinental Airport,UAL,Passenger Property Loss,Checked Baggage,Game Equipment (poker chips; checker sets; chess etc.),770.0,Settled,385.0,Settle,6.0,385.0
+0723164M,2003-07-23 00:00:00,2003-07-14 00:00:00,SYR,Syracuse-Hancock International,American Airlines,Passenger Property Loss,Checked Baggage,Other,66.95,Approved,66.95,Approve in Full,9.0,0.0
+2011071885295,2011-07-06 00:00:00,2011-05-15 00:00:00,OAK,Metropolitan Oakland International,Southwest Airlines  ,Property Damage,Checked Baggage,Other,0.0,Deny,,,52.0,
+2013062704824,2013-05-24 00:00:00,2013-04-07 00:00:00,FAT,Fresno Yosemite International,UAL  ,Property Damage,Checked Baggage,Other,,,,,47.0,
+2004120668622,2004-10-20 00:00:00,2004-10-14 00:00:00,MHT,Manchester Regional Airport,USAir,Passenger Property Loss,Checked Baggage,Locks,21.0,Approved,21.0,Approve in Full,6.0,0.0
+2006020300923,2006-01-27 00:00:00,2006-01-02 00:00:00,RDU,Raleigh-Durham International,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,10000.0,Denied,0.0,Deny,25.0,10000.0
+2008050243752,2008-04-29 00:00:00,2008-03-30 00:00:00,DEN,Denver International Airport,Frontier Airlines,Property Damage,Checked Baggage,Locks; Luggage (all types including footlockers),142.0,Denied,0.0,Deny,30.0,142.0
+2012070995128,2012-06-04 00:00:00,2012-05-26 15:30:00,DFW,Dallas-Fort Worth International Airport ,American Airlines  ,Passenger Property Loss,Checked Baggage,Hunting & Fishing Items,0.0,Deny,,,8.0,
+2014022111867,2014-02-19 00:00:00,2014-01-18 00:00:00,DFW,Dallas-Fort Worth International Airport ,American Airlines  ,Passenger Property Loss,Checkpoint,Other,60.66,Approve in Full,,,32.0,
+2005040882072,2005-04-06 00:00:00,2005-03-16 00:00:00,SAN,San Diego International,Continental Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),179.0,Denied,0.0,Deny,21.0,179.0
+2009061760281,2009-06-11 00:00:00,2009-05-16 00:00:00,,,Delta Air Lines,Passenger Property Loss,Checked Baggage,Locks,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,26.0,
+2004061756086,2004-05-19 00:00:00,2004-03-16 00:00:00,PHX,Phoenix Sky Harbor International,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,72.95,Approved,72.95,Approve in Full,64.0,0.0
+2006112216096,2006-11-17 00:00:00,2006-09-26 00:00:00,MCO,Orlando International Airport,American Airlines,Passenger Property Loss,Checked Baggage,,6.34,Approved,6.34,Approve in Full,52.0,0.0
+2005092092991,2005-09-14 00:00:00,2005-08-22 00:00:00,LAS,McCarran International,American West,Passenger Property Loss,Checked Baggage,Currency,395.71,Approved,395.71,Approve in Full,23.0,0.0
+2015121827688,2015-10-27 00:00:00,2015-10-06 00:00:00,ELM,Elmira Corning International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Personal Accessories,,,,,21.0,
+2004061055306,2004-05-10 00:00:00,2004-03-28 00:00:00,MDW,Midway International Airport,,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,300.0,Approved,300.0,Approve in Full,43.0,0.0
+2010071973865,2010-07-13 00:00:00,2010-06-24 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses; Food & Drink,0.0,Deny,,,19.0,
+2013012400298,2012-11-18 00:00:00,2012-11-07 00:00:00,LGA,LaGuardia ,Spirit Airlines,Passenger Property Loss,Checked Baggage,Other,0.0,Deny,,,11.0,
+2012051493871,2012-04-19 00:00:00,2012-04-11 00:00:00,PHL,Philadelphia International Airport,USAir  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,8.0,
+2012092297057,2012-08-13 00:00:00,2012-08-03 08:30:00,LAX,Los Angeles International Airport ,American Airlines  ,Passenger Property Loss,Checked Baggage,Personal Electronics,189.99,Approve in Full,,,9.0,
+2012081696008,2012-07-02 00:00:00,2012-03-18 00:00:00,ALB,Albany International,USAir  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,75.0,Approve in Full,,,106.0,
+0909144M,2003-09-09 00:00:00,2003-08-30 00:00:00,MIA,Miami International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,350.0,Settled,175.0,Settle,10.0,175.0
+2005101794636,2005-10-07 00:00:00,2005-10-01 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines,Property Damage,Checkpoint,Luggage (all types including footlockers),60.0,Approved,60.0,Approve in Full,6.0,0.0
+2010081174715,2010-08-02 00:00:00,2010-07-12 09:00:00,SMF,Sacramento International Airport,Southwest Airlines  ,Property Damage,Checked Baggage,Cameras,0.0,Deny,,,20.0,
+0606005L,2003-06-06 00:00:00,2003-05-10 00:00:00,MCO,Orlando International Airport,,Property Damage,Checked Baggage,Locks,245.0,Denied,0.0,Deny,27.0,245.0
+2004091362749,2004-07-19 00:00:00,2004-07-04 00:00:00,EWR,Newark International Airport,,Passenger Property Loss,Checked Baggage,Other,97.0,Approved,97.0,Approve in Full,15.0,0.0
+2005012874720,2005-01-10 00:00:00,2004-12-17 00:00:00,BNA,Nashville International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,120.0,Settled,60.0,Settle,24.0,60.0
+2005051884922,2005-05-16 00:00:00,2005-04-11 00:00:00,LAX,Los Angeles International Airport,USAir,Property Damage,Checked Baggage,Computer - Laptop,1100.0,Denied,0.0,Deny,35.0,1100.0
+2014060314369,2014-05-29 00:00:00,2014-05-19 00:00:00,DCA,Ronald Reagan Washington National Airport,USAir  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,95.6,Approve in Full,,,10.0,
+2004110366228,2004-09-29 00:00:00,2004-08-19 00:00:00,LAS,McCarran International,Southwest Airlines,Passenger Property Loss,Other,Other,738.0,Denied,738.0,Deny,41.0,0.0
+2011080585817,2011-07-19 00:00:00,2011-07-01 17:35:00,SJU,Luis Munoz Marin International,American Eagle  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,0.0,Deny,,,17.0,
+2006022702201,2006-02-22 00:00:00,2006-01-04 00:00:00,IAD,Washington Dulles International,USAir,Passenger Property Loss,Checked Baggage,Other,58.51,Denied,0.0,Deny,49.0,58.51
+2007032122681,2007-03-19 00:00:00,2006-10-22 00:00:00,LAS,McCarran International,Frontier Airlines,Property Damage,Checked Baggage,Locks; Luggage (all types including footlockers),104.99,Denied,0.0,Deny,148.0,104.99
+2010091576000,2010-09-09 00:00:00,2010-08-30 16:39:00,RDU,Raleigh-Durham International,UAL  ,Passenger Property Loss,Checked Baggage,Clothing,0.0,Deny,,,9.0,
+2007010318231,2006-12-29 00:00:00,2006-12-26 00:00:00,HNL,Honolulu International Airport,ATA Aerocondor,Passenger Property Loss,Checked Baggage,Cameras - Digital,250.0,Settled,87.58,Settle,3.0,162.42000000000002
+2013112509630,2013-11-19 00:00:00,2013-10-07 00:00:00,EWR,Newark International Airport,British Airways  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,43.0,
+0529118L,2003-05-29 00:00:00,2003-02-27 00:00:00,LAX,Los Angeles International Airport,Alaska Airlines,,Checked Baggage,Jewelry - Fine,1950.0,Denied,0.0,Deny,91.0,1950.0
+2006051706491,2006-05-16 00:00:00,2006-03-01 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,600.0,Denied,0.0,Deny,76.0,600.0
+2005121397588,2005-11-28 00:00:00,2005-11-12 00:00:00,PHL,Philadelphia International Airport,Southwest Airlines,Passenger Property Loss,Checkpoint,Currency,1050.0,Approved,1050.0,Approve in Full,16.0,0.0
+2005082391291,2005-08-11 00:00:00,2005-07-04 00:00:00,RNO,Reno/Tahoe International,Southwest Airlines,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),713.8,Approved,713.8,Approve in Full,38.0,0.0
+2012020890786,2012-01-03 00:00:00,2011-12-16 00:00:00,IAH,Houston - George Bush Intercontinental Airport,,Property Damage,Checkpoint,Baggage/Cases/Purses,0.0,Deny,,,18.0,
+2013062604815,2013-06-24 00:00:00,2013-06-12 15:30:00,ELP,El Paso International Airport,USAir  ,,Checkpoint,,90.0,Settle,,,11.0,
+2014072315378,2014-07-21 00:00:00,2014-07-14 00:00:00,HNL,Honolulu International Airport,UAL  ,Passenger Property Loss,Checkpoint,Jewelry & Watches,0.0,Deny,,,7.0,
+2012092897238,2012-08-10 00:00:00,2012-08-06 00:00:00,BOS,Boston (Logan) International Airport ,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Other,0.0,Deny,,,4.0,
+2005032379492,2005-03-07 00:00:00,2004-12-29 00:00:00,PDX,Portland International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,1925.0,Denied,0.0,Deny,68.0,1925.0
+2007092532479,2007-09-24 00:00:00,2007-09-15 00:00:00,SJU,Luis Munoz Marin International,American Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital; Cameras - Non-electronic (Camera supplies; lenses; projectors; etc.); Locks,409.98,Denied,0.0,Deny,9.0,409.98
+2013032702816,2013-03-08 00:00:00,2013-03-07 08:45:00,F,Foreign airport,British Airways  ,Passenger Property Loss,Checked Baggage,Clothing; Travel Accessories,0.0,Deny,,,0.0,
+2005031177723,2005-02-03 00:00:00,2005-01-25 00:00:00,LAS,McCarran International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,299.0,Settled,104.65,Settle,9.0,194.35
+2005052485400,2005-05-18 00:00:00,2005-04-23 00:00:00,ORD,Chicago O'Hare International Airport,UAL,Passenger Property Loss,Checked Baggage,Cameras - Digital,525.92,Settled,371.75,Settle,25.0,154.16999999999996
+2014010810613,2014-01-02 00:00:00,2013-12-09 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines  ,Passenger Property Loss,Checkpoint,Food & Drink,9.99,Approve in Full,,,24.0,
+2015072424211,2015-07-15 00:00:00,2015-07-11 00:00:00,MCO,Orlando International Airport,UAL,Passenger Property Loss,Checked Baggage,Jewelry & Watches; Jewelry & Watches,0.0,Deny,,,4.0,
+2005091492487,2005-09-06 00:00:00,2005-07-14 00:00:00,GSP,Greenville-Spartanburg,Delta Air Lines,Passenger Property Loss,Checkpoint,Other,314.94,Denied,0.0,Deny,54.0,314.94
+2005020475631,2005-01-19 00:00:00,2005-12-28 00:00:00,STL,Lambert St. Louis International,American Airlines,Passenger Property Loss,Checked Baggage,Other,94.98,Approved,94.98,Approve in Full,-343.0,0.0
+2004082661344,2004-07-27 00:00:00,2004-07-20 00:00:00,MIA,Miami International Airport,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,950.0,Denied,0.0,Deny,7.0,950.0
+2010071273544,2010-07-02 00:00:00,2010-06-18 10:15:00,PHX,Phoenix Sky Harbor International,Delta Air Lines  ,Passenger Property Loss,Checkpoint,Cosmetics & Grooming,0.0,Deny,,,13.0,
+2004051151008,2004-03-24 00:00:00,2004-03-11 00:00:00,MCO,Orlando International Airport,,Passenger Property Loss,Checked Baggage,Other,83.53,Denied,0.0,Deny,13.0,83.53
+2005110895765,2005-10-28 00:00:00,2005-10-01 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Spirit Airlines,Passenger Property Loss,Checked Baggage,Locks,21.35,Approved,21.35,Approve in Full,27.0,0.0
+0923138M,2003-09-23 00:00:00,2003-09-05 00:00:00,ANC,Ted Stevens Anchorage International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,516.0,Settled,343.53,Settle,18.0,172.47000000000003
+2006092713362,2006-09-25 00:00:00,2006-09-11 00:00:00,CLT,Charlotte/Douglas International Airport,USAir,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,69.99,Approved,69.99,Approve in Full,14.0,0.0
+2008071747073,2008-07-11 00:00:00,2008-06-17 00:00:00,MCO,Orlando International Airport,,Property Damage,Checked Baggage,Locks; Luggage (all types including footlockers),32.0,Denied,0.0,Deny,24.0,32.0
+2005082591514,2005-08-18 00:00:00,2005-07-10 00:00:00,ABQ,Albuquerque International Sunport Airport,Southwest Airlines,Passenger Property Loss,Checked Baggage,Other,276.82,Settled,138.41,Settle,39.0,138.41
+2015121527551,2015-11-10 00:00:00,2015-06-16 00:00:00,IAH,Houston - George Bush Intercontinental Airport,UAL,Passenger Property Loss,Checked Baggage,Clothing,97.43,Approve in Full,,,147.0,
+1121125M,2003-11-21 00:00:00,,LAX,Los Angeles International Airport,,Passenger Property Loss,Checked Baggage,Other,129.18,Approved,129.18,Approve in Full,,0.0
+0506081L,2003-05-06 00:00:00,2003-02-27 00:00:00,STL,Lambert St. Louis International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,20.0,Approved,20.0,Approve in Full,68.0,0.0
+2010101877051,2010-10-12 00:00:00,2010-09-26 10:50:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,15.0,
+2013111809495,2013-11-13 00:00:00,2013-08-11 00:00:00,PHX,Phoenix Sky Harbor International,British Airways  ,Property Damage,Checked Baggage,Baggage/Cases/Purses; Travel Accessories,,,,,94.0,
+2010062172867,2010-06-14 00:00:00,2010-05-14 00:00:00,ORD,Chicago O'Hare International Airport,Delta Air Lines  ,Property Damage,Checked Baggage,,0.0,Deny,,,31.0,
+2009051858780,2009-05-01 00:00:00,2009-04-22 00:00:00,MSP,Minneapolis/ St.Paul International Airport,,Property Damage,Checked Baggage,Luggage (all types including footlockers),100.0,Denied,0.0,Deny,9.0,100.0
+2005040781819,2005-05-05 00:00:00,2005-03-21 00:00:00,MYR,Myrtle Beach International,,Passenger Property Loss,Checked Baggage,Other,300.0,Settled,244.29,Settle,45.0,55.71000000000001
+2007120335889,2007-11-27 00:00:00,2007-11-04 00:00:00,GSO,Piedmont Triad International Airport,USAir,Passenger Property Loss,Checked Baggage,Locks,6.37,Approved,6.37,Approve in Full,23.0,0.0
+2005033180757,2005-03-23 00:00:00,2005-03-08 00:00:00,SAT,San Antonio International,UAL,Passenger Property Loss,Checked Baggage,Other,63.95,Denied,0.0,Deny,15.0,63.95
+2007091732038,2007-09-13 00:00:00,2007-09-08 00:00:00,DEN,Denver International Airport,Mexicana,Passenger Property Loss,Checked Baggage,Sporting Equipment & Supplies (footballs; parachutes; etc.),47.0,Denied,0.0,Deny,5.0,47.0
+2008041042290,2008-04-08 00:00:00,2008-02-27 00:00:00,JFK,John F. Kennedy International,Turkish Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital; Cell Phones,1940.0,Denied,0.0,Deny,41.0,1940.0
+2009012654934,2009-01-15 00:00:00,2008-11-24 00:00:00,PHL,Philadelphia International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Toys - Other (including games; toys; play dolls etc.),47.69,Denied,0.0,Deny,52.0,47.69
+2008110451826,2008-10-27 00:00:00,2008-10-18 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checkpoint,Baby - Strollers; car seats; playpen; etc.,370.0,Approved,370.0,Approve in Full,9.0,0.0
+2005022276619,2005-01-27 00:00:00,2005-01-08 00:00:00,ITO,Hilo International,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,150.0,Settled,50.0,Settle,19.0,100.0
+2006110315117,2006-10-27 00:00:00,2006-10-12 00:00:00,IAD,Washington Dulles International,UAL,Passenger Property Loss,Checked Baggage,Alcoholic beverages; Clothing - Shoes; belts; accessories; etc.,700.0,Denied,0.0,Deny,15.0,700.0
+0911010M,2003-09-11 00:00:00,2003-08-15 00:00:00,LAX,Los Angeles International Airport,American Airlines,,Checked Baggage,Luggage (all types including footlockers),15.0,Settled,7.5,Settle,27.0,7.5
+1208264M,2003-12-08 00:00:00,2003-10-06 00:00:00,,,UAL,Property Damage,Checked Baggage,Other,30.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,63.0,
+2005110195500,2005-10-24 00:00:00,2005-10-17 00:00:00,RIC,Richmond International,American Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,54.13,Settled,27.06,Settle,7.0,27.070000000000004
+0617164L,2003-06-17 00:00:00,2003-05-22 00:00:00,EWR,Newark International Airport,American Airlines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,500.0,Denied,0.0,Deny,26.0,500.0
+2012120599093,2012-11-05 00:00:00,2012-07-24 00:00:00,CRP,Corpus Christi International,UAL  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,0.0,Deny,,,104.0,
+2004082761444,2004-07-23 00:00:00,2002-06-30 00:00:00,IND,Indianapolis International,,Property Damage,Checked Baggage,Other,50.0,Denied,0.0,Deny,754.0,50.0
+2009011354390,2009-01-06 00:00:00,2008-12-30 00:00:00,ELM,Elmira Corning International,Northwest Airlines,Property Damage,Checked Baggage,,60.19,Denied,0.0,Deny,7.0,60.19
+2014053014321,2014-05-22 00:00:00,2014-05-14 00:00:00,JAN,Jackson International,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,146.04,Settle,,,8.0,
+2005041282319,2005-04-12 00:00:00,2005-04-01 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,65.45,Approved,65.45,Approve in Full,11.0,0.0
+2011020379911,2011-01-11 00:00:00,2011-01-04 00:00:00,EWR,Newark International Airport,Continental Airlines  ,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,7.0,
+2005093093528,2005-09-20 00:00:00,2005-07-16 00:00:00,PHX,Phoenix Sky Harbor International,America West,Property Damage,Checked Baggage,Other,30.0,Denied,0.0,Deny,66.0,30.0
+2006042505314,2006-04-21 00:00:00,2006-03-21 00:00:00,IND,Indianapolis International,Air Tran Airlines(do not use),Property Damage,Checked Baggage,Luggage (all types including footlockers),329.99,Approved,329.99,Approve in Full,31.0,0.0
+0825004M,2003-08-25 00:00:00,2003-07-13 00:00:00,DFW,Dallas-Fort Worth International Airport,,Property Damage,Checkpoint,Cameras - Digital,659.11,Denied,0.0,Deny,43.0,659.11
+2007112935674,2007-11-26 00:00:00,2007-10-24 00:00:00,AEX,Alexandria International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital; Cameras - Non-electronic (Camera supplies; lenses; projectors; etc.); Other,256.02,Settled,128.01,Settle,33.0,128.01
+0107321M,2004-01-07 00:00:00,2003-12-03 00:00:00,,,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,60.0,Approved,60.0,Approve in Full,35.0,0.0
+1006119M,2003-10-06 00:00:00,2003-09-05 00:00:00,EWR,Newark International Airport,Continental Airlines,Property Damage,Checked Baggage,Other,79.99,Approved,79.99,Approve in Full,31.0,0.0
+2006102114304,2006-10-17 00:00:00,2006-10-07 00:00:00,LAX,Los Angeles International Airport,American Airlines,Employee Loss (MPCECA),Checked Baggage,,509.11,Denied,0.0,Deny,10.0,509.11
+2006032703711,2006-03-21 00:00:00,2006-03-10 00:00:00,IAD,Washington Dulles International,UAL,Property Damage,Checked Baggage,Luggage (all types including footlockers),200.0,Settled,100.0,Settle,11.0,100.0
+21011,2003-01-21 00:00:00,2002-11-15 00:00:00,DCA,Ronald Reagan Washington National Airport,,,Other,Other,326.0,Canceled,,,67.0,
+2011102888496,2011-10-26 00:00:00,2011-10-01 00:00:00,TPA,Tampa International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming; Other,0.0,Deny,,,25.0,
+2006121517226,2006-12-11 00:00:00,2006-12-08 00:00:00,MSY,New Orleans International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,69.0,Denied,0.0,Deny,3.0,69.0
+2012101597587,2012-08-24 00:00:00,2012-08-10 13:30:00,BOS,Boston (Logan) International Airport ,USAir  ,Property Damage,Checked Baggage,Computer & Accessories,0.0,Deny,,,13.0,
+2007073129408,2007-07-27 00:00:00,2007-06-22 00:00:00,SAN,San Diego International,UAL,Passenger Property Loss,Checked Baggage,Boxes - Jewelry; Cigarette; Music; etc.,154.0,Denied,0.0,Deny,35.0,154.0
+0129016L,2003-01-29 00:00:00,2003-01-08 00:00:00,JAX,Jacksonville International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,395.89,Settled,197.95,Settle,21.0,197.94
+2015111026767,2015-10-21 00:00:00,2015-09-24 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Travel Accessories,0.0,Deny,,,27.0,
+2005031478046,2005-02-11 00:00:00,2004-11-03 00:00:00,ICT,Wichita Mid-Continent,,Passenger Property Loss,Checked Baggage,Other,400.0,Settled,100.0,Settle,100.0,300.0
+0925449M,2003-09-25 00:00:00,2003-09-10 00:00:00,,,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),150.0,Settled,75.0,Settle,15.0,75.0
+2013031202533,2013-03-05 00:00:00,2013-03-05 09:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Travel Accessories,,,,,-1.0,
+2006070709126,2006-07-06 00:00:00,2006-06-24 00:00:00,PHL,Philadelphia International Airport,AirTran Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,300.0,Denied,0.0,Deny,12.0,300.0
+0923129M,2003-09-23 00:00:00,2003-09-16 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checked Baggage,Other,320.0,Settled,160.0,Settle,7.0,160.0
+2013091706997,2013-08-01 00:00:00,2013-07-20 10:00:00,PHL,Philadelphia International Airport,USAir  ,Passenger Property Loss,Checked Baggage,Other,0.0,Deny,,,11.0,
+2007012219070,2007-01-12 00:00:00,2006-12-29 00:00:00,COS,Colorado Springs Municipal,American Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Medicines; Medicines,53.0,Settled,26.5,Settle,14.0,26.5
+0114538M,2004-01-14 00:00:00,2003-12-29 00:00:00,COS,Colorado Springs Municipal,UAL,Passenger Property Loss,Checked Baggage,Other,70.0,Settled,35.0,Settle,16.0,35.0
+2005012774611,2005-01-10 00:00:00,2004-12-17 00:00:00,SLC,Salt Lake City International Airport,,Passenger Property Loss,Checked Baggage,DVD/CD Players,800.0,Settled,496.67,Settle,24.0,303.33
+2007101733507,2007-10-12 00:00:00,2007-08-27 00:00:00,LGA,LaGuardia,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),24.0,Settled,12.0,Settle,46.0,12.0
+2009052659448,2009-05-19 00:00:00,2009-05-16 00:00:00,DEN,Denver International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Costume,100.0,Denied,0.0,Deny,3.0,100.0
+2008030640560,2008-02-27 00:00:00,2008-02-17 00:00:00,OGG,Kahului-Maui; HI,Southwest Airlines,Passenger Property Loss,Checked Baggage,Other,50.0,Settled,25.0,Settle,10.0,25.0
+2015081824955,2015-08-17 00:00:00,2015-08-08 00:00:00,LAS,McCarran International,UAL,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,9.0,
+2007092632618,2007-09-24 00:00:00,2007-08-24 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Property Damage,Checkpoint,DVD/CD Players,189.99,Denied,0.0,Deny,31.0,189.99
+0604020L,2003-06-04 00:00:00,2003-05-27 00:00:00,PHX,Phoenix Sky Harbor International,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),60.0,Settled,30.0,Settle,8.0,30.0
+2009081362564,2009-08-11 00:00:00,2009-08-06 00:00:00,LAS,McCarran International,Delta (Song),Passenger Property Loss,Checked Baggage,Toys (game systems; cartridges; radio controlled cars; etc.),680.0,Denied,0.0,Deny,5.0,680.0
+2013103108414,2013-09-19 00:00:00,2013-08-24 11:20:00,PBI,Palm Beach International,USAir  ,Passenger Property Loss,Checked Baggage,Food & Drink,,,,,25.0,
+2008101451072,2008-10-08 00:00:00,2008-09-11 00:00:00,PDX,Portland International,Southwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),86.37,Denied,0.0,Deny,27.0,86.37
+2005032279313,2005-03-01 00:00:00,2005-02-19 00:00:00,ORD,Chicago O'Hare International Airport,,Passenger Property Loss,Checked Baggage,Other,57.0,Approved,57.0,Approve in Full,10.0,0.0
+1002104M,2003-10-02 00:00:00,2003-09-10 00:00:00,LGA,LaGuardia,UAL,Property Damage,Checked Baggage,Locks,103.05,Settled,51.02,Settle,22.0,52.029999999999994
+2006112015897,2006-11-13 00:00:00,2006-11-02 00:00:00,LGA,LaGuardia,American Airlines,Passenger Property Loss,Checked Baggage,Computer - Laptop,1005.49,Denied,0.0,Deny,11.0,1005.49
+2007050124797,2007-04-27 00:00:00,2007-02-12 00:00:00,JAX,Jacksonville International,USAir,Passenger Property Loss,Checked Baggage,MP3 Players-(iPods; etc),329.0,Denied,0.0,Deny,74.0,329.0
+1002125M,2003-10-02 00:00:00,2003-06-18 00:00:00,,,Delta Air Lines,Property Damage,Checkpoint,Cameras - Digital,175.0,Denied,0.0,Deny,106.0,175.0
+2005031077513,2005-02-04 00:00:00,2004-12-22 00:00:00,SJT,San Angelo Regional,,Property Damage,Checked Baggage,Other,50.0,Approved,50.0,Approve in Full,44.0,0.0
+0203374M,2004-02-03 00:00:00,2003-11-17 00:00:00,,,,Property Damage,Checkpoint,Luggage (all types including footlockers),70.0,Approved,70.0,Approve in Full,78.0,0.0
+2015091825452,2015-09-04 00:00:00,2015-08-04 00:00:00,SAT,San Antonio International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Hunting & Fishing Items; Other,72.0,Settle,,,31.0,
+2004101865095,2004-09-20 00:00:00,2004-05-29 00:00:00,ORD,Chicago O'Hare International Airport,UAL,Property Damage,Checked Baggage,Luggage (all types including footlockers),50.0,Denied,0.0,Deny,114.0,50.0
+2006091812768,2006-09-07 00:00:00,2006-07-14 00:00:00,MIA,Miami International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital; Clothing - Shoes; belts; accessories; etc.; Locks,976.23,Denied,0.0,Deny,55.0,976.23
+0902045M,2003-09-02 00:00:00,2003-07-25 00:00:00,,,American Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,80.0,Approved,80.0,Approve in Full,39.0,0.0
+2011111488927,2011-11-01 00:00:00,2011-10-29 11:00:00,JFK,John F. Kennedy International,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,2.0,
+2012052494240,2012-05-04 00:00:00,2012-04-30 00:00:00,LAS,McCarran International,Allegiant Air,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,4.0,
+0925421M,2003-09-25 00:00:00,2003-09-01 00:00:00,SAN,San Diego International,,Passenger Property Loss,Checked Baggage,Other,100.0,Settled,50.0,Settle,24.0,50.0
+2004052853809,2004-03-18 00:00:00,2004-02-26 00:00:00,HOU,William P. Hobby,,Property Damage,Checked Baggage,Other,660.0,Settled,350.46,Settle,21.0,309.54
+2004081261309,2004-07-16 00:00:00,2004-06-26 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checked Baggage,Luggage (all types including footlockers),259.99,Denied,0.0,Deny,20.0,259.99
+2007101033211,2007-10-03 00:00:00,2007-07-08 00:00:00,SYR,Syracuse-Hancock International,Delta Air Lines,Property Damage,Checked Baggage,Luggage (all types including footlockers),64.8,Denied,0.0,Deny,87.0,64.8
+2009081162484,2009-08-07 00:00:00,2009-08-01 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,460.0,Canceled,,,6.0,
+2004100464404,2004-08-24 00:00:00,2004-07-10 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,377.0,Settled,146.91,Settle,45.0,230.09
+2013020801285,2013-01-14 00:00:00,2013-01-09 00:00:00,JFK,John F. Kennedy International,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,5.0,
+2008031741148,2008-03-10 00:00:00,2008-02-16 00:00:00,LAX,Los Angeles International Airport,UAL,Passenger Property Loss,Checkpoint,Currency; Other,137.0,Denied,0.0,Deny,23.0,137.0
+0105096M,2004-01-05 00:00:00,2003-12-02 00:00:00,BDL,Bradley International Airport,,Property Damage,Checkpoint,Other,16.4,Denied,16.4,Deny,34.0,0.0
+2010071573745,2010-07-06 00:00:00,2010-06-15 00:00:00,SGF,Springfield-Branson National Airport,Allegiant Air,Property Damage,Checked Baggage,Clothing; Cosmetics & Grooming,0.0,Deny,,,21.0,
+0627032M,2003-06-27 00:00:00,2003-04-19 00:00:00,SJC,Norman Y Mineta San Jose International,American Airlines,Passenger Property Loss,Checked Baggage,Cell Phones,158.97,Settled,143.38,Settle,69.0,15.590000000000003
+2010090575673,2010-08-30 00:00:00,2010-08-21 07:15:00,LAX,Los Angeles International Airport ,UAL  ,Passenger Property Loss,Checkpoint,Other,0.0,Deny,,,8.0,
+2004051752494,2004-04-01 00:00:00,2004-02-23 00:00:00,PHX,Phoenix Sky Harbor International,,Passenger Property Loss,Checked Baggage,Other,922.5,Denied,0.0,Deny,38.0,922.5
+2005022276543,2005-01-26 00:00:00,2004-12-26 00:00:00,RIC,Richmond International,USAir,Property Damage,Checked Baggage,Luggage (all types including footlockers),150.0,Settled,50.0,Settle,31.0,100.0
+2008070946674,2008-07-02 00:00:00,2008-05-15 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Northwest Airlines,Passenger Property Loss,Checkpoint,Eyeglasses - (including contact lenses),59.99,Approved,59.99,Approve in Full,48.0,0.0
+2005013175109,2005-01-18 00:00:00,2004-12-31 00:00:00,DFW,Dallas-Fort Worth International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital,300.0,Denied,,Deny,18.0,
+2006110315135,2006-10-30 00:00:00,2006-10-23 00:00:00,KOA,Kona International,Hawaiian Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Jewelry - Fine,490.62,Denied,0.0,Deny,7.0,490.62
+2011102188262,2011-10-07 00:00:00,2011-09-07 00:00:00,MCO,Orlando International Airport,TACA airlines,Passenger Property Loss,Checked Baggage,Cameras,205.0,Approve in Full,,,30.0,
+2013112509654,2013-11-22 00:00:00,2013-11-13 05:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Other,,,,,8.0,
+2009091163521,2009-09-08 00:00:00,,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Computer - Laptop,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,,
+2007060526302,2007-05-30 00:00:00,2007-05-20 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Air Tran Airlines(do not use),Property Damage,Checked Baggage,Dishes; Pottery; Glassware; Plasticware,195.72,Approved,195.72,Approve in Full,10.0,0.0
+2014013111324,2014-01-27 00:00:00,2014-01-08 00:00:00,EWR,Newark International Airport,UAL  ,Passenger Property Loss,Checked Baggage,Clothing,0.0,Deny,,,19.0,
+2006120816863,2006-12-01 00:00:00,2006-11-09 00:00:00,SNA,John Wayne,,Property Damage,Checkpoint,Computer - Laptop,1299.0,Settled,805.77,Settle,22.0,493.23
+2008072447371,2008-07-18 00:00:00,2008-07-07 00:00:00,SMF,Sacramento International Airport,,Passenger Property Loss,Checkpoint,Cell Phones,52.27,Denied,0.0,Deny,11.0,52.27
+2013070204991,2013-06-05 00:00:00,2012-05-24 09:39:00,SEA,Seattle-Tacoma International,Delta Air Lines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,376.0,
+2007082730906,2007-08-23 00:00:00,2007-07-18 00:00:00,DFW,Dallas-Fort Worth International Airport,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),135.0,Approved,135.0,Approve in Full,36.0,0.0
+2008040241725,2008-03-24 00:00:00,2008-01-09 00:00:00,MIA,Miami International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Jewelry - Fine; Locks; Luggage (all types including footlockers),1366.0,Denied,0.0,Deny,75.0,1366.0
+2004061455520,2004-05-04 00:00:00,2004-04-11 00:00:00,GEG,Spokane International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,73.07,Approved,73.07,Approve in Full,23.0,0.0
+0717506M,,2002-10-31 00:00:00,DEN,Denver International Airport,,Property Damage,Checkpoint,Luggage (all types including footlockers),25.0,Approved,25.0,Approve in Full,,0.0
+1217328M,2003-12-17 00:00:00,2003-11-01 00:00:00,RDU,Raleigh-Durham International,,Property Damage,Checked Baggage,Other,46.0,Settled,23.0,Settle,46.0,23.0
+2005011273549,2004-12-27 00:00:00,2004-08-17 00:00:00,ORD,Chicago O'Hare International Airport,USAir,Property Damage,Checked Baggage,Cameras - Digital,214.0,Denied,,Deny,132.0,
+2006032203527,2006-03-17 00:00:00,2006-02-25 00:00:00,JFK,John F. Kennedy International,Delta Air Lines,Property Damage,Checked Baggage,Luggage (all types including footlockers),209.0,Settled,104.5,Settle,20.0,104.5
+2010080374347,2010-07-23 00:00:00,2010-05-26 00:00:00,BUR,Bob Hope ,American Airlines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,58.0,
+2004071559415,2004-06-24 00:00:00,2004-05-25 00:00:00,TPA,Tampa International,American Airlines,Passenger Property Loss,Checked Baggage,Other,22.3,Approved,,Approve in Full,30.0,
+2005050283729,2005-04-29 00:00:00,2005-03-18 00:00:00,LAS,McCarran International,American West,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),211.3,Approved,211.3,Approve in Full,42.0,0.0
+2008040141634,2008-03-21 00:00:00,2008-03-12 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Alcoholic beverages,35.0,Denied,0.0,Deny,9.0,35.0
+2007050224882,2007-04-01 00:00:00,2006-01-05 00:00:00,DFW,Dallas-Fort Worth International Airport,,Property Damage,Checkpoint,Computer - Laptop,1000.0,Denied,0.0,Deny,451.0,1000.0
+2015102226176,2015-10-01 00:00:00,2015-08-29 00:00:00,PHX,Phoenix Sky Harbor International,USAir,Passenger Property Loss,Checkpoint,Clothing,69.56,Approve in Full,,,33.0,
+2011111088869,2011-10-31 00:00:00,2011-09-25 00:00:00,JFK,John F. Kennedy International,American Airlines  ,Passenger Property Loss,Checked Baggage,Medical/Science,0.0,Deny,,,36.0,
+2005081690667,2005-07-28 00:00:00,2005-05-25 00:00:00,COS,Colorado Springs Municipal,Delta Air Lines,Passenger Property Loss,Checked Baggage,Locks,8.99,Canceled,0.0,,64.0,8.99
+2007060126007,2007-05-21 00:00:00,2007-05-03 00:00:00,DEN,Denver International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Locks,7.5,Denied,0.0,Deny,18.0,7.5
+2005042783476,2005-04-26 00:00:00,2005-01-25 00:00:00,BOS,Boston (Logan) International Airport,USAir,Passenger Property Loss,Checked Baggage,Cameras - Digital,650.0,Settled,268.52,Settle,91.0,381.48
+2006122617914,2006-12-19 00:00:00,2006-12-03 00:00:00,LGB,Long Beach,USAir,Passenger Property Loss,Checked Baggage,Cell Phones,250.0,Denied,0.0,Deny,16.0,250.0
+2004070658481,2004-06-16 00:00:00,2004-04-09 00:00:00,SGF,Springfield-Branson National Airport,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),100.0,Approved,100.0,Approve in Full,68.0,0.0
+2005031277961,2005-02-11 00:00:00,2004-12-30 00:00:00,IAD,Washington Dulles International,,Passenger Property Loss,Checked Baggage,Cameras - Digital,397.5,Approved,397.5,Approve in Full,43.0,0.0
+2008030640500,2008-02-25 00:00:00,2008-02-11 00:00:00,LAS,McCarran International,Southwest Airlines,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,250.0,Denied,0.0,Deny,14.0,250.0
+2012102598124,2012-09-13 00:00:00,2012-09-01 00:00:00,,,Alaska Airlines  ,Property Damage,Checked Baggage,,,,,,12.0,
+2008102351472,2008-10-17 00:00:00,2008-10-09 00:00:00,SAN,San Diego International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Locks,8.54,Denied,0.0,Deny,8.0,8.54
+2009060959991,2009-06-04 00:00:00,2009-05-15 00:00:00,IND,Indianapolis International,,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,69.0,Approved,69.0,Approve in Full,20.0,0.0
+2006041904717,2006-04-06 00:00:00,2006-01-24 00:00:00,FNT,Bishop International; Flint,Air Tran Airlines(do not use),Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,17.72,Approved,17.72,Approve in Full,72.0,0.0
+2006050305661,2006-04-24 00:00:00,2006-03-20 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Air Tran Airlines(do not use),Passenger Property Loss,Checked Baggage,,350.0,Settled,175.0,Settle,35.0,175.0
+2010081774981,2010-08-09 00:00:00,2010-07-15 00:00:00,PHL,Philadelphia International Airport,USAir  ,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses; Travel Accessories,0.0,Deny,,,25.0,
+2005082391272,2005-08-11 00:00:00,2005-08-04 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,,Property Damage,Checked Baggage,Luggage (all types including footlockers),250.0,Denied,0.0,Deny,7.0,250.0
+2010100776753,2010-10-02 00:00:00,2010-10-01 00:00:00,MIA,Miami International Airport,,Property Damage,Checked Baggage,Baggage/Cases/Purses,139.0,Approve in Full,,,1.0,
+2007082430835,2007-08-21 00:00:00,2007-07-28 00:00:00,PIT,Pittsburgh International Airport,USAir,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Razors (other than electric),53.95,Denied,0.0,Deny,24.0,53.95
+2004110666545,2004-09-20 00:00:00,2004-08-29 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Spirit Airlines,Passenger Property Loss,Checked Baggage,Medicines,15.0,Approved,15.0,Approve in Full,22.0,0.0
+0905005M,2003-09-05 00:00:00,2003-03-11 00:00:00,HOU,William P. Hobby,USAir,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,54.83,Denied,0.0,Deny,178.0,54.83
+2008011537953,2008-01-09 00:00:00,2007-11-20 00:00:00,RIC,Richmond International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Locks,11.9,Denied,0.0,Deny,50.0,11.9
+2004080560713,2004-07-13 00:00:00,2004-09-18 00:00:00,LGA,LaGuardia,,Property Damage,Checkpoint,Computer - Laptop,1801.99,Canceled,0.0,,-67.0,1801.99
+0211024L,2003-02-11 00:00:00,2002-12-19 00:00:00,BOS,Boston (Logan) International Airport,,Passenger Property Loss,Checkpoint,Computer - Laptop,1404.0,Denied,0.0,Deny,54.0,1404.0
+2004061055333,2004-05-27 00:00:00,2004-05-10 00:00:00,DEN,Denver International Airport,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),2430.0,Settled,810.0,Settle,17.0,1620.0
+2004092964162,2004-09-13 00:00:00,2004-08-10 00:00:00,CLT,Charlotte/Douglas International Airport,,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,50.0,Denied,0.0,Deny,34.0,50.0
+2004060354440,2004-04-21 00:00:00,2004-04-05 00:00:00,IAD,Washington Dulles International,American Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,215.0,Canceled,,,16.0,
+2006020701101,2006-01-31 00:00:00,2005-09-11 00:00:00,LAS,McCarran International,Continental Airlines,Property Damage,Checked Baggage,Computer - Laptop,1237.64,Settled,718.05,Settle,142.0,519.5900000000001
+2009042157774,2009-04-02 00:00:00,2009-01-22 00:00:00,FAT,Fresno Yosemite International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Eyeglasses - (including contact lenses); Other,280.51,Settled,168.31,Settle,70.0,112.19999999999999
+2005031778562,2005-02-03 00:00:00,2005-12-24 00:00:00,MLU,Monroe Regional,,Property Damage,Checked Baggage,Other,5.4,Denied,0.0,Deny,-324.0,5.4
+2014093017185,2014-09-12 00:00:00,2014-08-14 00:00:00,HRL,Rio Grande Valley International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,,,,,29.0,
+2009032056705,2009-03-09 00:00:00,2009-02-10 00:00:00,BDL,Bradley International Airport,American Airlines,Passenger Property Loss,Checked Baggage,MP3 Players-(iPods; etc),219.0,Denied,0.0,Deny,27.0,219.0
+2007030922061,2007-03-05 00:00:00,2007-01-10 00:00:00,XNA,Northwest Arkansas Regional,Northwest Airlines,Property Damage,Checked Baggage,Barber Supplies - Scissors; shears; elecric razors; etc.; Clothing - Shoes; belts; accessories; etc.; Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,25.0,Settled,21.48,Settle,54.0,3.5199999999999996
+2006061207783,2006-06-09 00:00:00,2006-04-26 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital; Clothing - Shoes; belts; accessories; etc.,2018.0,Denied,0.0,Deny,44.0,2018.0
+2004101965147,2004-09-20 00:00:00,2004-06-20 00:00:00,PBI,Palm Beach International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Other,47.66,Approved,47.66,Approve in Full,92.0,0.0
+2006082811664,2006-08-23 00:00:00,2006-07-24 00:00:00,AUS,Austin-Bergstrom International Airport,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),16.73,Approved,16.73,Approve in Full,30.0,0.0
+2007091231751,2007-09-10 00:00:00,2007-08-08 00:00:00,LAX,Los Angeles International Airport,UAL,Passenger Property Loss,Checked Baggage,Bags - Fabric; plastic; etc. (not purses); Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,577.26,Denied,0.0,Deny,33.0,577.26
+2009091163537,2009-09-10 00:00:00,2009-08-23 00:00:00,SEA,Seattle-Tacoma International,Continental Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,45.0,Denied,0.0,Deny,18.0,45.0
+2013102107491,2013-08-19 00:00:00,2013-08-13 15:00:00,EWR,Newark International Airport,UAL  ,Passenger Property Loss,Checked Baggage,Other,5.0,Approve in Full,,,5.0,
+2008013038888,2008-01-24 00:00:00,2008-01-20 00:00:00,FLL,Ft. Lauderdale-Hollywood International,USAir,Property Damage,Checked Baggage,Luggage (all types including footlockers),140.0,Denied,0.0,Deny,4.0,140.0
+2014042413489,2014-04-21 00:00:00,2014-04-20 00:00:00,STL,Lambert St. Louis International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,1.0,
+2006042104915,2006-04-12 00:00:00,2005-08-14 00:00:00,EWR,Newark International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,1850.0,Denied,0.0,Deny,241.0,1850.0
+0616044L,2003-06-16 00:00:00,2003-04-26 00:00:00,,,Southwest Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,196.82,Settled,98.41,Settle,51.0,98.41
+2011080585841,2011-07-18 00:00:00,2011-06-26 00:00:00,JFK,John F. Kennedy International,Aero Flot,Passenger Property Loss,Checkpoint,Personal Electronics,,,,,22.0,
+2004121769227,2004-10-26 00:00:00,2004-10-10 00:00:00,SMF,Sacramento International Airport,American Airlines,Property Damage,Checked Baggage,Cameras - Digital,89.97,Approved,89.97,Approve in Full,16.0,0.0
+2007112035231,2007-11-16 00:00:00,2007-10-30 00:00:00,LAX,Los Angeles International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Currency,38.0,Denied,0.0,Deny,17.0,38.0
+2007071128145,2007-07-09 00:00:00,2007-06-25 00:00:00,PHX,Phoenix Sky Harbor International,Continental Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,381.58,Denied,0.0,Deny,14.0,381.58
+2014090316391,2014-08-14 00:00:00,2014-06-18 00:00:00,LGA,LaGuardia ,Delta Air Lines  ,Property Damage,Checkpoint,Personal Accessories,,,,,57.0,
+2004052553384,2004-04-20 00:00:00,2004-03-31 00:00:00,BNA,Nashville International,Southwest Airlines,Property Damage,Checked Baggage,Other,360.0,Approved,360.0,Approve in Full,20.0,0.0
+2013030402379,2013-02-20 00:00:00,2013-02-09 12:50:00,CVG,Cincinnati/Northern Kentucky International,Delta Air Lines  ,Property Damage,Checked Baggage,,0.0,Deny,,,10.0,
+2004122770957,2004-12-27 00:00:00,2004-11-04 00:00:00,RDU,Raleigh-Durham International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Locks,10.0,Denied,0.0,Deny,53.0,10.0
+2012100197259,2012-08-15 00:00:00,2012-08-12 00:00:00,MSY,New Orleans International,American Airlines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,3.0,
+2005072189375,2005-07-20 00:00:00,2005-06-19 00:00:00,SLC,Salt Lake City International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,42.0,Approved,42.0,Approve in Full,31.0,0.0
+2004112467743,2004-09-08 00:00:00,2004-08-17 00:00:00,BWI,Baltimore/Washington Intl Thurgood Marshall,American Airlines,Property Damage,Checked Baggage,Other,22.04,Canceled,,,22.0,
+2011061084256,2011-06-01 00:00:00,2011-04-25 15:40:00,JAN,Jackson International,American Airlines  ,Passenger Property Loss,Checked Baggage,Hunting & Fishing Items,350.0,Settle,,,36.0,
+2007102233776,2007-10-17 00:00:00,2007-08-30 00:00:00,JFK,John F. Kennedy International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Jewelry - Costume,45.98,Denied,0.0,Deny,48.0,45.98
+0107343M,2004-01-07 00:00:00,2003-08-07 00:00:00,SNA,John Wayne,Alaska Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),49.99,Approved,49.99,Approve in Full,153.0,0.0
+2015013020313,2015-01-30 00:00:00,2015-01-22 00:00:00,LAX,Los Angeles International Airport,Jet Blue,Passenger Property Loss,Checked Baggage,Clothing,181.34,Approve in Full,,,8.0,
+2010100176577,2010-10-15 00:00:00,2010-07-15 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines  ,Property Damage,Checked Baggage,Musical Instruments & Accessories,0.0,Deny,,,92.0,
+2007033023277,2007-03-29 00:00:00,2007-02-28 00:00:00,ALB,Albany International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Other,98.79,Denied,0.0,Deny,29.0,98.79
+2005020475670,2005-01-11 00:00:00,2004-01-09 00:00:00,ONT,Ontario International,,Property Damage,Checked Baggage,Locks,209.99,Denied,,Deny,368.0,
+2007081030054,2007-08-08 00:00:00,2007-08-02 00:00:00,BWI,Baltimore/Washington Intl Thurgood Marshall,AirTran Airlines,Passenger Property Loss,Checked Baggage,,180.0,Denied,0.0,Deny,6.0,180.0
+2005092193019,2005-09-14 00:00:00,2005-09-05 00:00:00,PIT,Pittsburgh International Airport,USAir,Passenger Property Loss,Checked Baggage,Locks,10.0,Approved,10.0,Approve in Full,9.0,0.0
+2011071885297,2011-07-06 00:00:00,2011-05-29 09:00:00,BOI,Boise Air Terminal/Gowen Field,Delta Air Lines  ,Property Damage,Checked Baggage,Other,174.51,Settle,,,37.0,
+2006100313562,2006-09-29 00:00:00,2006-08-14 00:00:00,IAD,Washington Dulles International,British Airways,Passenger Property Loss,Checkpoint,Other,30.0,Settled,15.0,Settle,46.0,15.0
+2005010673057,2004-12-20 00:00:00,2004-12-15 00:00:00,LAX,Los Angeles International Airport,Northwest Airlines,Property Damage,Checked Baggage,Other,162.66,Denied,0.0,Deny,5.0,162.66
+0605014L,2003-06-05 00:00:00,2003-04-12 00:00:00,,,Alaska Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,125.54,Settled,62.77,Settle,54.0,62.77
+2007062827582,2007-06-26 00:00:00,2007-05-23 00:00:00,JFK,John F. Kennedy International,American Airlines,Passenger Property Loss,Checked Baggage,Umbrellas,25.0,Denied,0.0,Deny,34.0,25.0
+2004123071966,2004-12-08 00:00:00,2004-11-25 00:00:00,COS,Colorado Springs Municipal,,Passenger Property Loss,Checked Baggage,Other,300.0,Settled,50.0,Settle,13.0,250.0
+2012051694033,2012-04-23 00:00:00,2012-04-15 00:00:00,EWR,Newark International Airport,UAL  ,Passenger Property Loss,Checked Baggage,Cameras,83.39,Approve in Full,,,8.0,
+2004091663037,2004-08-03 00:00:00,2004-07-22 00:00:00,TPA,Tampa International,Jet Blue,Property Damage,Checked Baggage,Locks,21.4,Approved,21.4,Approve in Full,12.0,0.0
+2008072847552,2008-07-21 00:00:00,2008-06-06 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,120.0,Approved,120.0,Approve in Full,45.0,0.0
+2010022768808,2010-02-17 00:00:00,2010-02-01 07:30:00,CVG,Cincinnati/Northern Kentucky International,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Travel Accessories,19.95,Approve in Full,,,15.0,
+2004111567077,2004-10-05 00:00:00,2004-09-14 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Sun Country Airlines Inc,Property Damage,Checkpoint,Computer - Laptop,965.0,Settled,193.0,Settle,21.0,772.0
+2006103114864,2006-10-20 00:00:00,2006-09-16 00:00:00,DEN,Denver International Airport,Frontier Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Costume,750.0,Denied,0.0,Deny,34.0,750.0
+0815130M,2003-08-15 00:00:00,2003-07-30 00:00:00,IAD,Washington Dulles International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,750.0,Settled,300.0,Settle,16.0,450.0
+0226279M,2004-04-07 00:00:00,2004-02-09 00:00:00,BOS,Boston (Logan) International Airport,,Passenger Property Loss,Checked Baggage,Jewelry - Fine,490.0,Settled,245.0,Settle,58.0,245.0
+2010021768471,2010-02-04 00:00:00,2010-01-15 18:30:00,PHX,Phoenix Sky Harbor International,Southwest Airlines  ,Property Damage,Checkpoint,Travel Accessories,89.99,Approve in Full,,,19.0,
+2004060654811,2004-04-21 00:00:00,2004-04-03 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Stereo Items & Accessories,500.0,Denied,0.0,Deny,18.0,500.0
+2005101794614,2005-10-07 00:00:00,2005-08-29 00:00:00,JFK,John F. Kennedy International,Jet Blue,Property Damage,Checked Baggage,Other,1000.0,Denied,0.0,Deny,39.0,1000.0
+2005042583221,2005-04-22 00:00:00,2005-03-27 00:00:00,PHX,Phoenix Sky Harbor International,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),20.0,Approved,20.0,Approve in Full,26.0,0.0
+2006082411544,2006-08-22 00:00:00,2006-08-19 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines,Passenger Property Loss,Checkpoint,Currency,1100.0,Denied,0.0,Deny,3.0,1100.0
+2011101988179,2011-10-11 00:00:00,2011-09-27 00:00:00,SLC,Salt Lake City International Airport,UAL  ,Passenger Property Loss,Checked Baggage,Clothing,0.0,Deny,,,14.0,
+1217488M,2003-12-17 00:00:00,2003-11-24 00:00:00,FLL,Ft. Lauderdale-Hollywood International,,Property Damage,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,40.0,Approved,40.0,Approve in Full,23.0,0.0
+2011101487905,2011-09-30 00:00:00,2011-08-05 00:00:00,SLC,Salt Lake City International Airport,Jet Blue,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,56.0,
+0819147M,2003-08-19 00:00:00,2003-07-27 00:00:00,LGA,LaGuardia,Northwest Airlines,Property Damage,Checked Baggage,Other,500.0,Settled,250.0,Settle,23.0,250.0
+2005091592534,2005-08-09 00:00:00,2005-08-12 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Other,500.0,Canceled,0.0,,-3.0,500.0
+2004110566404,2004-09-17 00:00:00,2004-08-25 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checked Baggage,Luggage (all types including footlockers),150.0,Canceled,0.0,,23.0,150.0
+2008011137791,2008-01-07 00:00:00,2007-12-10 00:00:00,EWR,Newark International Airport,Singapore Airlines,Passenger Property Loss,Checked Baggage,Locks,144.0,Denied,0.0,Deny,28.0,144.0
+2010072674078,2010-07-14 00:00:00,2010-07-01 09:00:00,SFO,San Francisco International,UAL  ,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses; Other; Travel Accessories,,,,,12.0,
+2004062256780,2004-05-28 00:00:00,2004-03-31 00:00:00,BNA,Nashville International,USAir,Passenger Property Loss,Checkpoint,Cell Phones,67.56,Approved,67.56,Approve in Full,58.0,0.0
+2015061123065,2015-06-03 00:00:00,2015-05-28 00:00:00,DAY,James M. Cox Dayton International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,6.0,
+2009010854266,2009-02-16 00:00:00,2008-08-30 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Continental Airlines,Passenger Property Loss,Checkpoint,Computer - Laptop,1200.89,Denied,0.0,Deny,170.0,1200.89
+2012060694577,2012-05-16 00:00:00,2012-05-09 09:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,131.08,Approve in Full,,,6.0,
+0905109M,2003-09-05 00:00:00,2003-06-21 00:00:00,SLC,Salt Lake City International Airport,Northwest Airlines,Property Damage,Checkpoint,Luggage (all types including footlockers),89.99,Settled,50.0,Settle,76.0,39.989999999999995
+0624084M,2003-06-24 00:00:00,2003-03-21 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checkpoint,Computer - Laptop,2315.0,Denied,0.0,Deny,95.0,2315.0
+2013051403654,2013-04-26 00:00:00,2013-03-14 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Household Items; Other; Personal Accessories,,,,,43.0,
+1022456M,2003-10-22 00:00:00,2003-09-14 00:00:00,MCO,Orlando International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Other,350.0,Settled,175.0,Settle,38.0,175.0
+1107060M,2003-11-07 00:00:00,2003-10-15 00:00:00,PIT,Pittsburgh International Airport,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,47.0,Settled,23.5,Settle,23.0,23.5
+2006102414532,2006-10-19 00:00:00,2006-06-21 00:00:00,LAX,Los Angeles International Airport,American Airlines,Passenger Property Loss,Checkpoint,Watches - Expensive more than $100,2000.0,Denied,0.0,Deny,120.0,2000.0
+2007011018529,2007-01-04 00:00:00,2006-12-22 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Currency,20.0,Denied,0.0,Deny,13.0,20.0
+2010100776766,2010-09-30 00:00:00,2010-08-12 00:00:00,ORD,Chicago O'Hare International Airport,,Passenger Property Loss,Checkpoint,Jewelry & Watches,0.0,Deny,,,49.0,
+2006061608105,2006-06-15 00:00:00,2006-06-05 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,166.98,Settled,83.49,Settle,10.0,83.49
+2015122127745,2015-12-21 00:00:00,2015-12-06 00:00:00,DAL,Dallas Love Field,Virgin America,Passenger Property Loss,Checked Baggage,Jewelry & Watches,,,,,15.0,
+2013111509406,2013-11-15 00:00:00,2013-10-11 00:00:00,YKM,Yakima Air Terminal-Mcallister,Alaska Airlines  ,Passenger Property Loss,Checked Baggage,,,,,,35.0,
+0223227M,2004-02-23 00:00:00,2003-12-23 00:00:00,MCO,Orlando International Airport,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,49.99,Approved,49.99,Approve in Full,62.0,0.0
+0610115L,2003-06-10 00:00:00,2003-04-12 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,878.71,Denied,0.0,Deny,59.0,878.71
+2015062923513,2015-06-22 00:00:00,2015-06-20 00:00:00,LAS,McCarran International,,Passenger Property Loss,Checkpoint,Personal Accessories,158.93,Approve in Full,,,2.0,
+2009031256174,2009-02-24 00:00:00,2009-01-11 00:00:00,OMA,Eppley Airfield,Frontier Airlines,Property Damage,Checked Baggage,Musical Instruments - Other - Over $250,767.17,Denied,0.0,Deny,44.0,767.17
+2008012438524,2008-01-17 00:00:00,2008-01-05 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checkpoint,DVD/CD Players,224.99,Approved,224.99,Approve in Full,12.0,0.0
+2007011919055,2007-01-11 00:00:00,2006-12-21 00:00:00,RSW,Southwest Florida International,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,160.0,Denied,0.0,Deny,21.0,160.0
+2006032203562,2006-03-20 00:00:00,2006-03-09 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,12675.0,Canceled,0.0,,11.0,12675.0
+2005042183009,2005-04-19 00:00:00,2005-03-15 00:00:00,LAX,Los Angeles International Airport,Southwest Airlines,Property Damage,Checked Baggage,Cell Phones,40.0,Approved,40.0,Approve in Full,35.0,0.0
+2012012690465,2011-12-28 00:00:00,2011-11-19 10:15:00,MIA,Miami International Airport,American Airlines  ,Passenger Property Loss,Checked Baggage,Jewelry & Watches,0.0,Deny,,,38.0,
+2010081374774,2010-08-10 00:00:00,2010-07-30 10:45:00,SMF,Sacramento International Airport,Southwest Airlines  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,40.0,Approve in Full,,,10.0,
+0625228M,2003-06-25 00:00:00,2003-05-12 00:00:00,,,Northwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,29.99,Approved,29.99,Approve in Full,44.0,0.0
+2014120818960,2014-11-24 00:00:00,2013-03-26 00:00:00,JFK,John F. Kennedy International,Delta Air Lines  ,Property Damage,Checkpoint,Personal Electronics,,,,,608.0,
+2008111852375,2008-11-03 00:00:00,2008-10-18 00:00:00,MHT,Manchester Regional Airport,UAL,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,60.0,Approved,60.0,Approve in Full,16.0,0.0
+2005012874743,2005-01-11 00:00:00,2005-01-03 00:00:00,LGA,LaGuardia,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),93.72,Denied,0.0,Deny,8.0,93.72
+0204045L,2003-02-04 00:00:00,2003-01-04 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,,Passenger Property Loss,Checked Baggage,Other,40.0,Approved,40.0,Approve in Full,31.0,0.0
+2007042524486,2007-04-19 00:00:00,2007-03-17 00:00:00,SMF,Sacramento International Airport,Southwest Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,71.12,Settled,35.56,Settle,33.0,35.56
+2012051093806,2012-04-17 00:00:00,2012-02-28 00:00:00,DAL,Dallas Love Field,Southwest Airlines  ,Passenger Property Loss,Checkpoint,Other,0.0,Deny,,,49.0,
+2013081005811,2013-07-05 00:00:00,2013-06-30 19:41:00,LIH,Lihue Airport,Hawaiian Airlines  ,Passenger Property Loss,Checked Baggage,Home Decor,0.0,Deny,,,4.0,
+2014120118740,2014-11-21 00:00:00,2014-09-27 00:00:00,LAX,Los Angeles International Airport ,UAL  ,Property Damage,Checkpoint,Computer & Accessories,,,,,55.0,
+2008062446049,2008-06-16 00:00:00,2008-05-31 00:00:00,LAS,McCarran International,Delta Air Lines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,36.0,Denied,0.0,Deny,16.0,36.0
+0904027M,2003-09-04 00:00:00,2003-06-15 00:00:00,SMF,Sacramento International Airport,,Property Damage,Checked Baggage,Luggage (all types including footlockers),75.0,Denied,0.0,Deny,81.0,75.0
+2004103166007,2004-09-16 00:00:00,2004-08-25 00:00:00,ANC,Ted Stevens Anchorage International Airport,,Passenger Property Loss,Checked Baggage,DVD/CD Players,686.99,Denied,0.0,Deny,22.0,686.99
+2012071195211,2012-06-28 00:00:00,2012-03-22 00:00:00,ORD,Chicago O'Hare International Airport,UAL  ,Passenger Property Loss,Checkpoint,Clothing,0.0,Deny,,,98.0,
+2004051351585,2004-05-10 00:00:00,2004-04-30 00:00:00,SAV,Savannah International,USAir,Passenger Property Loss,Checked Baggage,Computer - Laptop,1499.99,Canceled,0.0,,10.0,1499.99
+2008110652037,2008-12-15 00:00:00,2008-10-26 00:00:00,JFK,John F. Kennedy International,American Airlines,Passenger Property Loss,Checkpoint,Jewelry - Fine,541.25,Settled,500.0,Settle,50.0,41.25
+2014112618653,2014-11-24 00:00:00,2014-10-20 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,,,,,,35.0,
+0626027M,2003-06-26 00:00:00,2003-06-14 00:00:00,SMF,Sacramento International Airport,,Passenger Property Loss,Checked Baggage,Other,35.0,Approved,35.0,Approve in Full,12.0,0.0
+2007022621553,2007-02-26 00:00:00,2007-01-27 00:00:00,BOS,Boston (Logan) International Airport,UAL,Property Damage,Checkpoint,Baby - Strollers; car seats; playpen; etc.,75.76,Approved,75.76,Approve in Full,30.0,0.0
+2008111752269,2008-11-10 00:00:00,2008-11-03 00:00:00,DEN,Denver International Airport,UAL,Property Damage,Checked Baggage,Luggage (all types including footlockers),218.99,Denied,0.0,Deny,7.0,218.99
+0609121L,2003-06-09 00:00:00,2003-05-10 00:00:00,,,Delta Air Lines,Passenger Property Loss,Checked Baggage,Computer - Laptop,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,30.0,
+2013050103441,2013-04-09 00:00:00,2013-03-20 14:30:00,FLL,Ft. Lauderdale-Hollywood International,Jet Blue,Property Damage,Checked Baggage,Other,450.0,Approve in Full,,,19.0,
+2007072729158,2007-07-24 00:00:00,2007-07-21 00:00:00,ORD,Chicago O'Hare International Airport,UAL,Property Damage,Checked Baggage,Other,99.99,Denied,0.0,Deny,3.0,99.99
+2006062308458,2006-06-23 00:00:00,2006-06-08 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital; MP3 Players-(iPods; etc),540.88,Settled,270.44,Settle,15.0,270.44
+0825052M,2003-08-25 00:00:00,2003-08-27 00:00:00,MCO,Orlando International Airport,American Airlines,Property Damage,Checked Baggage,Other,34.95,Approved,34.95,Approve in Full,-2.0,0.0
+2005040681705,2005-04-04 00:00:00,2004-12-17 00:00:00,BOS,Boston (Logan) International Airport,UAL,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,50.0,Approved,50.0,Approve in Full,108.0,0.0
+2006040403983,2006-03-24 00:00:00,2006-03-12 00:00:00,LGB,Long Beach,Jet Blue,Passenger Property Loss,Checkpoint,Jewelry - Fine,8825.0,Denied,0.0,Deny,12.0,8825.0
+2014043013639,2014-04-28 00:00:00,2014-04-12 00:00:00,PHX,Phoenix Sky Harbor International,USAir  ,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming; Cosmetics & Grooming; Medical/Science,0.0,Deny,,,16.0,
+2005031778618,2005-02-24 00:00:00,2005-02-10 00:00:00,IAD,Washington Dulles International,,Passenger Property Loss,Checked Baggage,Jewelry - Fine,700.0,Settled,307.65,Settle,14.0,392.35
+2006022402103,2006-02-21 00:00:00,2006-01-20 00:00:00,DEN,Denver International Airport,America West,Property Damage,Checkpoint,Baby - Strollers; car seats; playpen; etc.,281.0,Settled,206.0,Settle,32.0,75.0
+2004122069492,2004-10-28 00:00:00,2004-10-08 00:00:00,MSY,New Orleans International,Continental Airlines,,Checked Baggage,Locks,49.95,Denied,,Deny,20.0,
+2008091549952,2008-09-12 00:00:00,2008-09-07 00:00:00,BHM,Birmingham International Airport,Southwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,120.0,Denied,0.0,Deny,5.0,120.0
+2007073029359,2007-07-27 00:00:00,2007-07-20 00:00:00,CLT,Charlotte/Douglas International Airport,USAir,Passenger Property Loss,Checked Baggage,Cameras - Digital; Clocks - Inexpensive ($75.00 or less),280.0,Denied,0.0,Deny,7.0,280.0
+1222196M,2003-12-22 00:00:00,2003-10-15 00:00:00,PHX,Phoenix Sky Harbor International,,Property Damage,Checked Baggage,Other,19.95,Approved,19.95,Approve in Full,68.0,0.0
+2009080662383,2009-08-05 00:00:00,2009-07-18 00:00:00,PHL,Philadelphia International Airport,USAir,Passenger Property Loss,Checked Baggage,Medicines,148.0,Denied,0.0,Deny,18.0,148.0
+2013010399499,2012-11-21 00:00:00,2012-09-29 00:00:00,MIA,Miami International Airport,American Airlines  ,Passenger Property Loss,Checked Baggage,Clothing,0.0,Deny,,,53.0,
+0320000L,2003-03-20 00:00:00,2003-02-08 00:00:00,MCO,Orlando International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,900.0,Denied,0.0,Deny,40.0,900.0
+2010051871910,2010-05-12 00:00:00,2010-05-11 08:20:00,STL,Lambert St. Louis International,Delta Air Lines  ,Property Damage,Checked Baggage,Tools & Home Improvement Supplies,0.0,Deny,,,0.0,
+2004060254362,2004-05-03 00:00:00,2004-03-26 00:00:00,RSW,Southwest Florida International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,100.0,Approved,100.0,Approve in Full,38.0,0.0
+2011101487883,2011-09-19 00:00:00,2011-08-20 00:00:00,MCO,Orlando International Airport,Jet Blue,Passenger Property Loss,Checked Baggage,Hunting & Fishing Items; Personal Accessories; Personal Accessories; Travel Accessories,0.0,Deny,,,30.0,
+2012082896243,2012-08-28 00:00:00,2012-06-27 09:00:00,LAS,McCarran International,Delta Air Lines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses,0.0,Deny,,,61.0,
+2004062957767,2004-06-08 00:00:00,2004-04-20 00:00:00,LAX,Los Angeles International Airport,UAL,Passenger Property Loss,Checked Baggage,Other,81.2,Approved,81.2,Approve in Full,49.0,0.0
+2005012774637,2005-01-10 00:00:00,2004-12-20 00:00:00,JFK,John F. Kennedy International,Jet Blue,Passenger Property Loss,Checked Baggage,Jewelry - Fine,850.0,Denied,0.0,Deny,21.0,850.0
+2007082931104,2007-08-27 00:00:00,2006-04-01 00:00:00,RSW,Southwest Florida International,Northwest Airlines,Property Damage,Checked Baggage,Sporting Equipment & Supplies (footballs; parachutes; etc.),169.6,Approved,169.6,Approve in Full,513.0,0.0
+0224053L,2003-02-24 00:00:00,2002-10-20 00:00:00,DFW,Dallas-Fort Worth International Airport,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),70.0,Approved,70.0,Approve in Full,127.0,0.0
+2007072328878,2007-07-19 00:00:00,2007-07-03 00:00:00,JFK,John F. Kennedy International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Cameras - Digital; Cameras - Non-electronic (Camera supplies; lenses; projectors; etc.); Jewelry - Fine,1250.46,Denied,0.0,Deny,16.0,1250.46
+2008011537905,2008-01-07 00:00:00,2007-11-27 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Eyeglasses - (including contact lenses),61.05,Denied,0.0,Deny,41.0,61.05
+2006050905773,2006-05-04 00:00:00,2006-04-09 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Property Damage,Checked Baggage,Toys - Other (including games; toys; play dolls etc.),114.24,Denied,0.0,Deny,25.0,114.24
+2008043043636,2008-04-25 00:00:00,2008-01-02 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checkpoint,Currency,8550.0,Denied,0.0,Deny,114.0,8550.0
+2008120153006,2008-11-20 00:00:00,2008-11-12 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Currency,20.0,Denied,0.0,Deny,8.0,20.0
+2005063087931,2005-06-23 00:00:00,2005-06-16 00:00:00,LAS,McCarran International,American West,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,45.04,Approved,45.04,Approve in Full,7.0,0.0
+2014101017576,2014-10-02 00:00:00,2014-07-17 00:00:00,SHV,Shreveport Regional,UAL  ,Property Damage,Checkpoint,Personal Accessories,,,,,77.0,
+2007051425359,2007-05-11 00:00:00,2007-05-05 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Luggage (all types including footlockers); Other,4968.37,Denied,0.0,Deny,6.0,4968.37
+2005011273515,2004-12-22 00:00:00,2004-12-17 00:00:00,MSN,Dane County Regional (Madison),,,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,89.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,5.0,
+0105273M,2004-01-05 00:00:00,2003-12-02 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),200.0,Settled,50.0,Settle,34.0,150.0
+2013111009065,2013-11-04 00:00:00,2013-10-30 06:30:00,DEN,Denver International Airport ,Air Canada,Passenger Property Loss,Checked Baggage,Jewelry & Watches,,,,,4.0,
+2009022055668,2009-02-06 00:00:00,2009-01-23 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Toys (game systems; cartridges; radio controlled cars; etc.),779.34,Denied,0.0,Deny,14.0,779.34
+2005101394492,2005-10-05 00:00:00,2005-08-31 00:00:00,LAS,McCarran International,America West,Passenger Property Loss,Checked Baggage,Other,216.0,Denied,0.0,Deny,35.0,216.0
+0416079L,2003-04-16 00:00:00,2003-03-20 00:00:00,BDL,Bradley International Airport,,Passenger Property Loss,Checked Baggage,Jewelry - Fine,35.0,Approved,35.0,Approve in Full,27.0,0.0
+2014020311382,2014-01-27 00:00:00,2014-01-04 00:00:00,EWR,Newark International Airport,UAL  ,Passenger Property Loss,Checked Baggage,Clothing,0.0,Deny,,,23.0,
+2014012210998,2014-01-15 00:00:00,2014-01-01 00:00:00,PHL,Philadelphia International Airport,USAir  ,Property Damage,Checked Baggage,Baggage/Cases/Purses; Household Items,0.0,Deny,,,14.0,
+0822041M,2003-08-22 00:00:00,2003-07-20 00:00:00,MHT,Manchester Regional Airport,,Property Damage,Checked Baggage,Locks,250.0,Denied,0.0,Deny,33.0,250.0
+2011051883514,2011-05-09 00:00:00,2011-04-08 00:00:00,JFK,John F. Kennedy International,USAir  ,Passenger Property Loss,Checked Baggage,Computer & Accessories; Other,531.51,Settle,,,31.0,
+2007121036277,2007-12-05 00:00:00,2007-11-23 00:00:00,SEA,Seattle-Tacoma International,Southwest Airlines,Property Damage,Checked Baggage,Sporting Equipment & Supplies (footballs; parachutes; etc.),151.54,Denied,0.0,Deny,12.0,151.54
+0506057L,2003-05-06 00:00:00,2003-04-25 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,1580.0,Denied,0.0,Deny,11.0,1580.0
+2007072529017,2007-07-20 00:00:00,2007-05-29 00:00:00,DFW,Dallas-Fort Worth International Airport,Delta Air Lines,Property Damage,Checked Baggage,Luggage (all types including footlockers),79.99,Settled,50.0,Settle,52.0,29.989999999999995
+2007092732635,2007-09-24 00:00:00,2007-09-17 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Currency,420.0,Denied,0.0,Deny,7.0,420.0
+2007080129476,2007-07-30 00:00:00,2007-06-19 00:00:00,MCO,Orlando International Airport,,Property Damage,Checked Baggage,Locks; Luggage (all types including footlockers),45.0,Denied,0.0,Deny,41.0,45.0
+2005011173392,2004-12-21 00:00:00,2004-08-21 00:00:00,LAX,Los Angeles International Airport,,Property Damage,Checkpoint,Computer - Laptop,5313.0,Settled,1722.02,Settle,122.0,3590.98
+2007071128103,2007-06-29 00:00:00,2007-06-11 00:00:00,PIT,Pittsburgh International Airport,Southwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,59.0,Denied,0.0,Deny,18.0,59.0
+2009122266729,2009-12-17 00:00:00,2009-12-16 10:00:00,BUR,Bob Hope,Alaska Airlines,Passenger Property Loss,Checkpoint,Jewelry - Costume,175.0,Canceled,,,0.0,
+0203092M,2004-02-03 00:00:00,2003-12-22 00:00:00,,,Delta Air Lines,,Checked Baggage,Cameras - Digital,184.57,Approved,184.57,Approve in Full,43.0,0.0
+2007052225808,2007-05-21 00:00:00,2007-05-12 00:00:00,HNL,Honolulu International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Medicines,603.0,Denied,0.0,Deny,9.0,603.0
+0721073M,2003-07-21 00:00:00,2003-06-05 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checked Baggage,Jewelry - Fine,1465.5,Approved,1465.0,Approve in Full,46.0,0.5
+2007101833604,2007-10-10 00:00:00,2007-09-18 00:00:00,DFW,Dallas-Fort Worth International Airport,UAL,Passenger Property Loss,Checked Baggage,Other,770.0,Denied,0.0,Deny,22.0,770.0
+2013102908170,2013-10-03 00:00:00,2013-09-22 06:10:00,IAH,Houston - George Bush Intercontinental Airport,Frontier Airlines,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses,,,,,10.0,
+1222347M,2003-12-22 00:00:00,2003-11-29 00:00:00,MCO,Orlando International Airport,,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,100.0,Approved,100.0,Approve in Full,23.0,0.0
+0224065L,2003-02-24 00:00:00,2003-01-01 00:00:00,SGF,Springfield-Branson National Airport,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),149.0,Denied,0.0,Deny,54.0,149.0
+2008030740603,2008-02-27 00:00:00,2008-12-16 00:00:00,SEA,Seattle-Tacoma International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,5200.0,Denied,0.0,Deny,-293.0,5200.0
+2007053125982,2007-05-23 00:00:00,2007-05-02 00:00:00,MCO,Orlando International Airport,,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,30.0,Approved,30.0,Approve in Full,21.0,0.0
+2006041704635,2006-04-07 00:00:00,2005-12-16 00:00:00,DCA,Ronald Reagan Washington National Airport,USAir,Passenger Property Loss,Checked Baggage,Computer - Laptop,1402.05,Denied,0.0,Deny,112.0,1402.05
+2005021676196,2005-01-24 00:00:00,2005-01-04 00:00:00,LAX,Los Angeles International Airport,,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,200.0,Denied,,Deny,20.0,
+2005012874753,2005-01-11 00:00:00,2004-12-26 00:00:00,,,,Property Damage,Checked Baggage,Luggage (all types including footlockers),50.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,Deny,16.0,
+2012091796880,2012-08-03 00:00:00,2012-05-29 00:00:00,,,,Passenger Property Loss,Checked Baggage,Baggage/Cases/Purses; Cosmetics & Grooming; Personal Accessories,,,,,66.0,
+2009020955348,2009-01-28 00:00:00,2008-12-31 00:00:00,PHL,Philadelphia International Airport,UAL,Passenger Property Loss,Checked Baggage,,17.14,Denied,0.0,Deny,28.0,17.14
+2008073147780,2008-07-25 00:00:00,2008-07-21 00:00:00,MCO,Orlando International Airport,Air Tran Airlines(do not use),Passenger Property Loss,Checkpoint,Currency,50.0,Denied,0.0,Deny,4.0,50.0
+2014051413943,2014-05-12 00:00:00,2014-05-10 00:00:00,IAH,Houston - George Bush Intercontinental Airport,Air Canada,Passenger Property Loss,Checked Baggage,Clothing,89.98,Approve in Full,,,2.0,
+2006061508034,2006-06-14 00:00:00,2006-02-11 00:00:00,BHM,Birmingham International Airport,Continental Airlines,Passenger Property Loss,Checkpoint,MP3 Players-(iPods; etc),214.5,Denied,0.0,Deny,123.0,214.5
+2006021501618,2006-02-09 00:00:00,2005-12-27 00:00:00,HOU,William P. Hobby,Southwest Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,3533.31,Denied,0.0,Deny,44.0,3533.31
+2004061856326,2004-05-27 00:00:00,2004-03-11 00:00:00,MIA,Miami International Airport,,Property Damage,Checked Baggage,Computer - Laptop,600.0,Settled,200.0,Settle,77.0,400.0
+2014043013627,2014-04-27 00:00:00,2014-02-25 00:00:00,ORD,Chicago O'Hare International Airport,UAL  ,Property Damage,Checkpoint,Home Decor,44.99,Approve in Full,,,61.0,
+1119182M,2003-11-19 00:00:00,2003-11-09 00:00:00,SAN,San Diego International,UAL,Property Damage,Checked Baggage,Other,66.0,Approved,66.0,Approve in Full,10.0,0.0
+2004061555843,2004-05-10 00:00:00,2004-03-21 00:00:00,SAN,San Diego International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Other,,Approved,231.0,Approve in Full,50.0,
+2015072824287,2015-07-10 00:00:00,2015-06-29 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,0.0,Deny,,,11.0,
+2009010954319,2009-01-05 00:00:00,2008-12-26 00:00:00,DAL,Dallas Love Field,Southwest Airlines,Passenger Property Loss,Checked Baggage,Cell Phones,19.99,Approved,19.99,Approve in Full,10.0,0.0
+2010050471480,2010-04-29 00:00:00,2010-04-23 07:00:00,MCO,Orlando International Airport,Jet Blue,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,5.0,
+2008010937647,2007-01-03 00:00:00,2007-11-29 00:00:00,PHL,Philadelphia International Airport,USAir,Passenger Property Loss,Checked Baggage,Jewelry - Costume; Jewelry - Fine,3437.0,Denied,0.0,Deny,-330.0,3437.0
+2010060372325,2010-05-25 00:00:00,2010-05-16 00:00:00,ISN,Sloulin Field International,Great Lakes Airline,Passenger Property Loss,Checked Baggage,Computer & Accessories,,,,,9.0,
+2009123066987,2009-12-28 00:00:00,2009-11-24 12:30:00,MSP,Minneapolis/ St.Paul International Airport,Northwest Airlines,Property Damage,Checkpoint,,324.0,Settled,221.0,Settle,33.0,103.0
+2005100393738,2005-09-26 00:00:00,2005-09-19 00:00:00,ILM,Wilmington International,,Passenger Property Loss,Checked Baggage,Other,200.0,Denied,0.0,Deny,7.0,200.0
+2004070758641,2004-06-16 00:00:00,2004-05-31 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines,Property Damage,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,23.47,Approved,23.47,Approve in Full,16.0,0.0
+0326081L,2003-03-26 00:00:00,,,,,,Other,Other,,Canceled,,,,
+2013021301387,2013-01-23 00:00:00,2012-11-21 00:00:00,LAX,Los Angeles International Airport ,Alaska Airlines  ,Property Damage,Checkpoint,,1691.78,Approve in Full,,,63.0,
+2005102595179,2005-10-18 00:00:00,2005-10-02 00:00:00,TPA,Tampa International,Northwest Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,3289.71,Settled,334.21,Settle,16.0,2955.5
+2008022640149,2008-02-19 00:00:00,2008-02-13 00:00:00,FLL,Ft. Lauderdale-Hollywood International,Spirit Airlines,Passenger Property Loss,Checked Baggage,Cell Phones; Other,200.0,Denied,0.0,Deny,6.0,200.0
+2011031181121,2011-03-11 00:00:00,2011-03-11 00:00:00,LAX,Los Angeles International Airport ,Swiss Air  ,Passenger Property Loss,Checked Baggage,Travel Accessories,0.0,Deny,,,0.0,
+2006083111844,2006-08-25 00:00:00,2006-07-23 00:00:00,RDU,Raleigh-Durham International,USAir,Passenger Property Loss,Checkpoint,Medical Equipment & Insturments,23.0,Approved,23.0,Approve in Full,33.0,0.0
+2005100493808,2005-09-23 00:00:00,2005-09-16 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,97.94,Approved,97.94,Approve in Full,7.0,0.0
+2012032692067,2012-03-26 00:00:00,2012-01-11 06:00:00,GTR,Golden Triangle Regional,Delta Air Lines  ,Passenger Property Loss,Checked Baggage,Other,154.25,Approve in Full,,,74.0,
+2007051725591,2007-05-14 00:00:00,2007-05-03 00:00:00,IAD,Washington Dulles International,Delta Air Lines,Property Damage,Checked Baggage,Luggage (all types including footlockers),100.0,Approved,100.0,Approve in Full,11.0,0.0
+2014091916792,2014-08-26 00:00:00,2014-08-06 00:00:00,SEA,Seattle-Tacoma International,Lufthansa  ,Property Damage,Checked Baggage,Clothing,,,,,20.0,
+2006060907680,2006-06-07 00:00:00,2006-05-26 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Eyeglasses - (including contact lenses),276.0,Settled,96.37,Settle,12.0,179.63
+0202028M,2004-02-02 00:00:00,2003-12-12 00:00:00,MKE,General Mitchell International Airport,Northwest Airlines,Property Damage,Checkpoint,Cameras - Digital,50.0,Settled,40.0,Settle,52.0,10.0
+0715520M,2002-11-20 00:00:00,2002-10-16 00:00:00,JFK,John F. Kennedy International,American Airlines,Passenger Property Loss,Checkpoint,Cameras - Digital,350.0,Approved,300.0,Approve in Full,35.0,50.0
+2013053003885,2013-04-23 00:00:00,2013-02-22 16:00:00,BOS,Boston (Logan) International Airport ,British Airways  ,Passenger Property Loss,Checked Baggage,Food & Drink; Other,0.0,Deny,,,59.0,
+1006117M,2003-10-06 00:00:00,2003-09-21 00:00:00,FLL,Ft. Lauderdale-Hollywood International,,Property Damage,Checked Baggage,Other,99.74,Approved,99.74,Approve in Full,15.0,0.0
+2015061923268,2015-06-10 00:00:00,2015-05-25 00:00:00,MCO,Orlando International Airport,UAL,Property Damage,Checkpoint,Personal Electronics,0.0,Deny,,,16.0,
+2014041113158,2014-04-09 00:00:00,2014-03-30 00:00:00,MIA,Miami International Airport,Air Berlin,Passenger Property Loss,Checked Baggage,Clothing,0.0,Deny,,,10.0,
+2013090606620,2013-08-01 00:00:00,2013-07-29 00:00:00,DFW,Dallas-Fort Worth International Airport ,American Airlines  ,Passenger Property Loss,Checked Baggage,Computer & Accessories,0.0,Deny,,,3.0,
+2008020739282,2008-01-29 00:00:00,2007-12-15 00:00:00,DFW,Dallas-Fort Worth International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Luggage (all types including footlockers),139.95,Denied,0.0,Deny,45.0,139.95
+2005072589660,2005-07-22 00:00:00,2005-06-04 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,UAL,Passenger Property Loss,Checked Baggage,Locks,5.0,Denied,0.0,Deny,48.0,5.0
+2007072629094,2007-07-24 00:00:00,2007-07-18 00:00:00,LAX,Los Angeles International Airport,Delta Air Lines,Property Damage,Checkpoint,Computer - Laptop,1000.0,Denied,0.0,Deny,6.0,1000.0
+2007080629704,2007-08-06 00:00:00,2007-07-14 00:00:00,SEA,Seattle-Tacoma International,Southwest Airlines,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),296.2,Approved,296.2,Approve in Full,23.0,0.0
+2004090862388,2004-07-27 00:00:00,2004-06-27 00:00:00,HOU,William P. Hobby,,Property Damage,Checked Baggage,Other,85.99,Approved,85.99,Approve in Full,30.0,0.0
+2005121497813,2005-12-06 00:00:00,2005-11-26 00:00:00,SAN,San Diego International,,Property Damage,Checked Baggage,Other,,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,10.0,
+2005112996685,2005-11-15 00:00:00,2005-10-04 00:00:00,IAD,Washington Dulles International,Delta Air Lines,Property Damage,Checkpoint,Computer - Laptop,917.65,Approved,917.65,Approve in Full,42.0,0.0
+2008112552784,2008-11-24 00:00:00,2008-11-15 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checked Baggage,Jewelry - Fine,717.82,Denied,0.0,Deny,9.0,717.82
+2005042683426,2005-04-20 00:00:00,2005-04-25 00:00:00,,,,,,,,Canceled,0.0,,-5.0,
+2013052103764,2013-04-24 00:00:00,2013-04-09 04:37:00,GEG,Spokane International,Southwest Airlines  ,Property Damage,Checked Baggage,Sporting Equipment & Supplies,423.0,Approve in Full,,,14.0,
+2010071773842,2010-07-14 00:00:00,2010-05-19 17:45:00,VLD,Valdosta Municipal,Delta Air Lines  ,Property Damage,Checked Baggage,Baggage/Cases/Purses; Clothing,85.0,Approve in Full,,,55.0,
+2008102351452,2008-10-20 00:00:00,2008-10-14 00:00:00,SYR,Syracuse-Hancock International,American Eagle,Passenger Property Loss,Checked Baggage,Cameras - Digital,139.81,Denied,0.0,Deny,6.0,139.81
+2007091131639,2007-08-30 00:00:00,2007-07-22 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Locks,57.5,Approved,57.5,Approve in Full,39.0,0.0
+2009091763786,2009-09-17 00:00:00,2009-08-31 00:00:00,SEA,Seattle-Tacoma International,Continental Airlines,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,765.81,Approved,765.81,Approve in Full,17.0,0.0
+2005030877217,2005-02-04 00:00:00,2005-01-10 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,41.94,Approved,41.94,Approve in Full,25.0,0.0
+0114359M,2004-01-14 00:00:00,2003-12-01 00:00:00,BWI,Baltimore/Washington Intl Thurgood Marshall,Southwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),100.0,Settled,50.0,Settle,44.0,50.0
+0903042M,2003-09-03 00:00:00,2003-08-06 00:00:00,,,,Property Damage,Checked Baggage,Luggage (all types including footlockers),200.0,Denied,0.0,Deny,28.0,200.0
+2010091075870,2010-09-07 00:00:00,2010-08-09 00:00:00,JFK,John F. Kennedy International,Qantus Airways  ,Passenger Property Loss,Checked Baggage,Personal Electronics,0.0,Deny,,,29.0,
+2006021301452,2006-02-07 00:00:00,2006-01-17 00:00:00,ORF,Norfolk International,USAir,Passenger Property Loss,Checked Baggage,Cameras - Digital,400.0,Settled,200.0,Settle,21.0,200.0
+0409035L,2003-04-09 00:00:00,2003-03-21 17:03:00,LAX,Los Angeles International Airport,,,Other,Computer - Laptop,,Denied,0.0,Deny,18.0,
+2005071589085,2005-07-13 00:00:00,2005-06-26 00:00:00,CLT,Charlotte/Douglas International Airport,USAir,Passenger Property Loss,Checked Baggage,Other,25.0,Approved,25.0,Approve in Full,17.0,0.0
+2011100487474,2011-09-12 00:00:00,2011-08-29 00:00:00,SEA,Seattle-Tacoma International,KLM Royal Dutch Airlines,Property Damage,Checked Baggage,Cosmetics & Grooming,0.0,Deny,,,14.0,
+2004081061035,2004-07-20 00:00:00,2004-07-05 00:00:00,LAX,Los Angeles International Airport,Frontier Airlines,Passenger Property Loss,Checked Baggage,Cell Phones,274.78,Settled,254.27,Settle,15.0,20.509999999999962
+2010031269486,2010-03-05 00:00:00,2010-01-26 00:00:00,ORD,Chicago O'Hare International Airport,American Airlines  ,Passenger Property Loss,Checkpoint,Jewelry & Watches,0.0,Deny,,,38.0,
+2013052403859,2013-05-28 00:00:00,2013-05-10 00:00:00,ABQ,Albuquerque International Sunport Airport,,Passenger Property Loss,Checkpoint,Jewelry & Watches; Other; Other,,,,,18.0,
+2004090962452,2004-08-31 00:00:00,2004-08-20 00:00:00,LAS,McCarran International,,Passenger Property Loss,Checkpoint,Cameras - Digital,389.1,Approved,389.1,Approve in Full,11.0,0.0
+2007012419373,2007-01-16 00:00:00,2006-08-05 00:00:00,IAD,Washington Dulles International,UAL,Property Damage,Checked Baggage,Other,180.0,Denied,0.0,Deny,164.0,180.0
+2006070609012,2006-07-05 00:00:00,2006-06-14 00:00:00,SAN,San Diego International,,Property Damage,Checkpoint,Clothing - Shoes; belts; accessories; etc.,42.0,Approved,42.0,Approve in Full,21.0,0.0
+2010062372959,2010-06-10 00:00:00,2010-05-22 00:00:00,DAL,Dallas Love Field,,Passenger Property Loss,Checkpoint,Jewelry & Watches,0.0,Deny,,,19.0,
+0219389M,2004-02-19 00:00:00,2003-12-17 00:00:00,PHL,Philadelphia International Airport,,Property Damage,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,60.0,Settled,30.0,Settle,64.0,30.0
+2006060607445,2006-06-02 00:00:00,2006-05-01 00:00:00,SEA,Seattle-Tacoma International,American Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,245.0,Denied,0.0,Deny,32.0,245.0
+2015091525380,2015-07-21 00:00:00,2015-07-03 00:00:00,BOS,Boston (Logan) International Airport,Swiss Air,Property Damage,Checked Baggage,Household Items; Travel Accessories,6.3,Settle,,,18.0,
+2009050458289,2009-04-17 00:00:00,2009-03-18 00:00:00,CHS,Charleston International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,40.99,Canceled,0.0,,30.0,40.99
+0708145M,2003-07-08 00:00:00,2003-05-16 00:00:00,ATL,Hartsfield-Jackson Atlanta International Airport,Delta Air Lines,Property Damage,Checked Baggage,Luggage (all types including footlockers),25.0,Approved,25.0,Approve in Full,53.0,0.0
+2009071361114,2009-07-01 00:00:00,2009-06-07 00:00:00,RDM,Roberts Field,Alaska Airlines,Passenger Property Loss,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.; Luggage (all types including footlockers); Other,115.0,Denied,0.0,Deny,24.0,115.0
+2004052453225,2004-03-18 00:00:00,2004-02-19 00:00:00,SFO,San Francisco International,,Passenger Property Loss,Checked Baggage,Cameras - Digital,1073.0,Canceled,,,28.0,
+1023807M,2003-04-07 00:00:00,2003-01-28 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,90.0,Denied,0.0,Deny,69.0,90.0
+2015061523137,2015-06-05 00:00:00,2015-05-10 00:00:00,MSN,Dane County Regional (Madison),Delta Air Lines,Property Damage,Checkpoint,Computer & Accessories,1000.0,Settle,,,26.0,
+2010060872500,2010-06-01 00:00:00,2010-05-14 00:00:00,PHL,Philadelphia International Airport,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Other; Travel Accessories,0.0,Deny,,,18.0,
+2004050450455,2004-02-19 00:00:00,2003-10-03 00:00:00,LGA,LaGuardia,,Property Damage,Checked Baggage,Other,81.62,Denied,0.0,Deny,139.0,81.62
+2008062746271,2008-06-23 00:00:00,2008-06-07 00:00:00,EWR,Newark International Airport,Delta Air Lines,Property Damage,Checkpoint,Medicines,82.0,Denied,0.0,Deny,16.0,82.0
+2010020168082,2010-01-26 00:00:00,2010-01-02 00:00:00,PWM,Portland International Jetport,,Property Damage,Checked Baggage,Home Decor,0.0,Deny,,,24.0,
+2004090362108,2004-08-04 00:00:00,2004-04-21 00:00:00,RSW,Southwest Florida International,Delta Air Lines,Passenger Property Loss,Checked Baggage,Other,100.0,Denied,,Deny,105.0,
+2008071446886,2008-07-21 00:00:00,2008-05-22 00:00:00,BWI,Baltimore/Washington Intl Thurgood Marshall,Air Tran Airlines(do not use),Passenger Property Loss,Checked Baggage,Jewelry - Costume; Jewelry - Fine; Watches - Expensive more than $100; Watches - Inexpensive $100 or less,1397.11,Denied,0.0,Deny,60.0,1397.11
+2005102795309,2005-10-20 00:00:00,2005-10-05 00:00:00,BDL,Bradley International Airport,,Property Damage,Checkpoint,Computer - Laptop,3539.0,Settled,799.0,Settle,15.0,2740.0
+2009073062010,2009-07-28 00:00:00,2009-07-25 00:00:00,SMF,Sacramento International Airport,Southwest Airlines,Passenger Property Loss,Checked Baggage,Stationery,10.0,Approved,10.0,Approve in Full,3.0,0.0
+2009061060005,2009-06-08 00:00:00,2009-05-25 00:00:00,MEM,Memphis International Airport,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),100.0,Settled,10.0,Settle,14.0,90.0
+2009120165852,2009-11-20 00:00:00,2009-09-26 00:00:00,MCO,Orlando International Airport,Jet Blue,Property Damage,Checked Baggage,Locks; Luggage (all types including footlockers),395.0,Settled,65.0,Settle,55.0,330.0
+2012071195276,2012-06-08 00:00:00,2012-05-10 12:00:00,LAS,McCarran International,Spirit Airlines,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming,151.7,Settle,,,28.0,
+2008092550418,2008-09-19 00:00:00,2008-07-27 00:00:00,SAN,San Diego International,Northwest Airlines,Property Damage,Checked Baggage,Locks; Luggage (all types including footlockers),150.0,Settled,50.0,Settle,54.0,100.0
+2007031322178,2007-03-07 00:00:00,2007-02-27 00:00:00,DCA,Ronald Reagan Washington National Airport,ATA Aerocondor,Passenger Property Loss,Checked Baggage,Computer - Laptop; Other,1500.0,Denied,0.0,Deny,8.0,1500.0
+2004122170185,2004-11-15 00:00:00,2004-11-06 00:00:00,MCO,Orlando International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Cameras - Digital,600.0,Denied,0.0,Deny,9.0,600.0
+1028019M,2003-10-28 00:00:00,2003-08-09 00:00:00,ALB,Albany International,Northwest Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),59.36,Denied,0.0,Deny,80.0,59.36
+2009052159301,2009-05-18 00:00:00,2009-04-21 00:00:00,CHS,Charleston International,American Airlines,Property Damage,Checkpoint,Other,15.0,Approved,15.0,Approve in Full,27.0,0.0
+2005051985123,2005-05-17 00:00:00,2005-05-10 00:00:00,TRI,Tri-Cities Regional,Delta Air Lines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.,69.5,Canceled,0.0,,7.0,69.5
+2007012619553,2007-01-19 00:00:00,2006-12-14 00:00:00,MIA,Miami International Airport,American Airlines,Passenger Property Loss,Checked Baggage,Alcoholic beverages,60.0,Denied,0.0,Deny,36.0,60.0
+2010040270325,2010-03-31 00:00:00,2010-03-14 10:00:00,MYR,Myrtle Beach International,Continental Airlines  ,Passenger Property Loss,Checked Baggage,Other; Personal Electronics,,,,,16.0,
+1016000M,2003-10-16 00:00:00,2003-09-20 00:00:00,OAK,Metropolitan Oakland International,Jet Blue,Property Damage,Checked Baggage,Fish/Game,22.95,Approved,22.95,Approve in Full,26.0,0.0
+2009020455176,2009-01-27 00:00:00,2009-01-09 00:00:00,STL,Lambert St. Louis International,Delta Air Lines,Passenger Property Loss,Checked Baggage,,570.66,Denied,0.0,Deny,18.0,570.66
+2008082549097,2008-08-22 00:00:00,2008-07-22 00:00:00,MDW,Midway International Airport,,Passenger Property Loss,Checked Baggage,Medicines; Other,39.99,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,31.0,
+1205372M,2003-12-05 00:00:00,2003-01-16 00:00:00,MDW,Midway International Airport,America Trans Air,,Other,Other,,Denied,0.0,Deny,323.0,
+2012030791598,2012-01-30 00:00:00,2012-01-10 00:00:00,CMH,Port Columbus International,UAL  ,Property Damage,Checked Baggage,Cosmetics & Grooming,0.0,Deny,,,20.0,
+2012051493922,2012-04-27 00:00:00,2012-04-24 00:00:00,PSP,Palm Springs International,Alaska Airlines  ,Property Damage,Checked Baggage,Other,231.32,Settle,,,3.0,
+2006011399614,2006-01-10 00:00:00,2005-10-19 00:00:00,SNA,John Wayne,,Property Damage,Checkpoint,Other,400.0,Denied,0.0,Deny,83.0,400.0
+2007101633492,2007-10-15 00:00:00,2007-09-20 00:00:00,ZZX,Non TSA Airport (motor vehicle),,Motor Vehicle,Motor Vehicle,,1000.0,Settled,233.99,Settle,25.0,766.01
+2005020475710,2005-01-16 00:00:00,2005-01-08 00:00:00,BTM,Bert Mooney,,Property Damage,Checked Baggage,,151.16,Approved,151.16,Approve in Full,8.0,0.0
+2004090762179,2004-08-05 00:00:00,2004-07-26 00:00:00,PHL,Philadelphia International Airport,USA 3000 (U5),Property Damage,Checked Baggage,Musical Instruments - Other - Over $250,4200.0,Denied,,Deny,10.0,
+2007041824160,2007-04-16 00:00:00,2007-02-09 00:00:00,DTW,Detroit Metropolitan Wayne County Airport,Northwest Airlines,Passenger Property Loss,Checked Baggage,Locks,12.0,Denied,0.0,Deny,66.0,12.0
+2009031156066,2009-02-23 00:00:00,2009-02-22 00:00:00,MSP,Minneapolis/ St.Paul International Airport,Frontier Airlines,Passenger Property Loss,Checked Baggage,Other,35.0,Canceled,0.0,,1.0,35.0
+2014121519181,2014-12-12 00:00:00,2014-12-08 00:00:00,BHM,Birmingham International Airport,UAL  ,Property Damage,Checked Baggage,Clothing,,,,,4.0,
+0821076M,2003-08-21 00:00:00,2003-08-13 00:00:00,MDW,Midway International Airport,Southwest Airlines,Passenger Property Loss,Checkpoint,Jewelry - Fine,1088.0,Denied,0.0,Deny,8.0,1088.0
+2008080648115,2008-07-31 00:00:00,2008-07-28 00:00:00,SNA,John Wayne,Southwest Airlines,Passenger Property Loss,Checked Baggage,Clothing - Shoes; belts; accessories; etc.; Other,54.32,Denied,0.0,Deny,3.0,54.32
+2006012300102,2006-01-18 00:00:00,2005-11-02 00:00:00,HKY,Hickory Regional Airport,Delta Air Lines,Property Damage,Checked Baggage,Luggage (all types including footlockers),120.0,Approved,120.0,Approve in Full,77.0,0.0
+0626026M,2003-06-26 00:00:00,,,,,,Other,Jewelry - Fine,,Approved,100.0,Approve in Full,,
+2010062272903,2010-06-14 00:00:00,2010-05-24 12:30:00,SMF,Sacramento International Airport,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Clothing,51.73,Settle,,,20.0,
+2006060907677,2006-06-06 00:00:00,,,,Continental Airlines,Passenger Property Loss,Checked Baggage,Other; Video Recordings (blank & commercial),480.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,,
+0120136M,2004-01-20 00:00:00,2003-12-29 00:00:00,EWR,Newark International Airport,,Property Damage,Checked Baggage,Other,36.0,Settled,17.5,Settle,22.0,18.5
+1008011M,2003-10-08 00:00:00,2003-09-22 00:00:00,LAX,Los Angeles International Airport,UAL,Passenger Property Loss,Checked Baggage,Jewelry - Fine,2100.0,Settled,375.0,Settle,16.0,1725.0
+2010081374787,2010-08-13 00:00:00,2010-08-13 00:00:00,ORD,Chicago O'Hare International Airport,Alaska Airlines  ,Passenger Property Loss,Checked Baggage,Cosmetics & Grooming,0.0,Deny,,,0.0,
+2010030268896,2008-05-19 00:00:00,2008-04-30 00:00:00,ORD,Chicago O'Hare International Airport,Jet Blue,Passenger Property Loss,Checked Baggage,Computer - Laptop,1400.0,Denied,0.0,Deny,19.0,1400.0
+2005040181144,2005-03-25 00:00:00,2005-03-01 00:00:00,,,,Passenger Property Loss,Checked Baggage,Other,713.71,Denied,0.0,Deny,24.0,713.71
+2005030176879,2004-12-14 00:00:00,2004-08-16 00:00:00,MEM,Memphis International Airport,,Passenger Property Loss,Checked Baggage,Jewelry - Fine,160.0,Approved,160.0,Approve in Full,120.0,0.0
+2006052406916,2006-05-23 00:00:00,2006-05-13 00:00:00,DEN,Denver International Airport,American Airlines,Property Damage,Checked Baggage,Sporting Equipment & Supplies (footballs; parachutes; etc.),201.0,Settled,100.5,Settle,10.0,100.5
+2013040903077,2013-03-25 00:00:00,2013-02-23 07:30:00,PVD,TF Green Airport; Providence,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Other,,,,,29.0,
+2014070915037,2014-06-24 00:00:00,2014-06-13 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines  ,Passenger Property Loss,Checked Baggage,Medical/Science,,,,,11.0,
+2009111965501,2009-11-12 00:00:00,2009-02-26 07:40:00,PHX,Phoenix Sky Harbor International,Southwest Airlines,Property Damage,Checked Baggage,,35.97,Denied,0.0,Deny,258.0,35.97
+2004051752425,2004-04-16 00:00:00,2004-01-28 00:00:00,RSW,Southwest Florida International,Delta Air Lines,Passenger Property Loss,Checkpoint,Clothing - Shoes; belts; accessories; etc.,175.0,Denied,0.0,Deny,79.0,175.0
+2004080360401,2004-07-27 00:00:00,2004-07-08 00:00:00,EWR,Newark International Airport,Continental Airlines,Passenger Property Loss,Checked Baggage,Other,90.25,Approved,90.25,Approve in Full,19.0,0.0
+2008073047703,2008-07-24 00:00:00,2008-06-27 00:00:00,MCO,Orlando International Airport,,Property Damage,,Locks,20.0,Insufficient; one of the following items required: sum certain; statement of fact; signature; location of incident; and date.,,,27.0,
+2009071461178,2009-07-08 00:00:00,2009-07-02 00:00:00,PHX,Phoenix Sky Harbor International,Southwest Airlines,Passenger Property Loss,Checked Baggage,Locks,14.9,Denied,0.0,Deny,6.0,14.9
+2015082525078,2015-08-25 00:00:00,2015-07-19 00:00:00,BOS,Boston (Logan) International Airport,British Airways,Property Damage,Checked Baggage,Baggage/Cases/Purses; Travel Accessories,109.95,Settle,,,37.0,
+2004092263496,2004-08-19 00:00:00,2004-07-08 00:00:00,AUS,Austin-Bergstrom International Airport,,Property Damage,Checkpoint,Luggage (all types including footlockers),193.4,Approved,191.4,Approve in Full,42.0,2.0
+2004061956380,2004-05-26 00:00:00,2004-05-02 00:00:00,TUL,Tulsa International Airport,Southwest Airlines,Property Damage,Checked Baggage,Cameras - Digital,500.0,Approved,500.0,Approve in Full,24.0,0.0
+2012070995119,2012-06-04 00:00:00,2012-04-14 08:30:00,SMF,Sacramento International Airport,Alaska Airlines  ,Passenger Property Loss,Checkpoint,Baggage/Cases/Purses,50.0,Approve in Full,,,50.0,
+2007022721588,2007-02-26 00:00:00,2007-02-23 00:00:00,IAD,Washington Dulles International,UAL,Passenger Property Loss,Checked Baggage,Cameras - Digital; Computer - Laptop; MP3 Players-(iPods; etc); Other,1698.41,Settled,827.71,Settle,3.0,870.7
+2007092432426,2007-09-18 00:00:00,2007-09-03 00:00:00,SEA,Seattle-Tacoma International,Alaska Airlines,Passenger Property Loss,Checkpoint,Cameras - Digital; Other,900.0,Denied,0.0,Deny,15.0,900.0
+2008040942183,2008-04-01 00:00:00,2007-12-11 00:00:00,PHL,Philadelphia International Airport,UAL,Passenger Property Loss,Checked Baggage,Bedding - Other pillows,300.0,Denied,0.0,Deny,112.0,300.0
+2009031256167,2009-02-22 00:00:00,2009-01-16 00:00:00,SEA,Seattle-Tacoma International,UAL,Passenger Property Loss,Checked Baggage,Locks,7.29,Denied,0.0,Deny,37.0,7.29
+0221032L,2003-02-21 00:00:00,2003-01-04 00:00:00,CLE,Cleveland Hopkins International,Continental Airlines,Property Damage,Checked Baggage,Luggage (all types including footlockers),55.0,Settled,27.5,Settle,48.0,27.5
+0609020L,2003-06-09 00:00:00,2003-05-23 00:00:00,PHL,Philadelphia International Airport,,Passenger Property Loss,Checked Baggage,Other,148.0,Approved,148.0,Approve in Full,17.0,0.0
+2004102265515,2004-09-09 00:00:00,2004-07-02 00:00:00,SFO,San Francisco International,,Passenger Property Loss,Checked Baggage,Computer - Laptop,1500.0,Canceled,0.0,,69.0,1500.0
+2005042183074,2005-04-19 00:00:00,2005-04-09 00:00:00,MSY,New Orleans International,,Property Damage,Checked Baggage,Cosmetics - Perfume; toilet articles; medicines; soaps; etc.,38.95,Approved,38.95,Approve in Full,10.0,0.0
+2010012667918,2010-01-19 00:00:00,2010-01-04 18:30:00,BNA,Nashville International,Frontier Airlines,Property Damage,Checked Baggage,Medical/Science,82.5,Settle,,,14.0,
+2006033003839,2006-03-21 00:00:00,2006-01-04 00:00:00,YKM,Yakima Air Terminal-Mcallister,Horizon Air,Passenger Property Loss,Checked Baggage,Other,325.0,Denied,0.0,Deny,76.0,325.0
+2007121136342,2008-02-11 00:00:00,2007-10-12 00:00:00,ABY,Southwest Georgia Regional Airport ;Albany,Delta Air Lines,Passenger Property Loss,Checkpoint,Other,87.0,Settled,17.11,Settle,122.0,69.89
+2006032303618,2006-03-23 00:00:00,2006-02-27 00:00:00,JFK,John F. Kennedy International,,Property Damage,Checkpoint,Eyeglasses - (including contact lenses),159.99,Settled,86.87,Settle,24.0,73.12
