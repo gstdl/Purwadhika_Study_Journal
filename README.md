@@ -43,6 +43,6 @@ During the course I also managed to learned other useful libraries. The librarie
 
 Besides of exams and learning new libraries, during my study I also did some group studies which can be found [here](https://github.com/gstdl/Purwadhika_Group_Assignments)
 
-Notes:
-1. In the first topic, exam questions are provided in a seperate file. In the second and third topic, exam questions are provided in each notebook. But in the second exam, students was required to develop a dashboard with specifications provided in the `Dashboard Specification.pdf` file.
-2. Code errors in notebooks of exam on topic 2 and 3 are saved in order to understand why the error actually happened during the exam.
+> Notes:
+>1. In the first topic, exam questions are provided in a seperate file. In the second and third topic, exam questions are provided in each notebook. But in the second exam, students was required to develop a dashboard with specifications provided in the `Dashboard Specification.pdf` file.
+>2. Code errors in notebooks of exam on topic 2 and 3 are saved in order to understand why the error actually happened during the exam.
