@@ -37,8 +37,19 @@
 # print(expandedForm(70304120))
 
 
-# no.3
+# no.3 (Exam Answer)
+# def tower_builder(n_floors, block_size):
+#     w, h = block_size
+#     tower = ''
+#     for i in range(n_floors):
+#         for j in range(h):
+#             tower += ' '*w*(n_floors-i-1)
+#             tower += '*'*(w+(w*i*2))
+#             tower += '\n' 
+#     return(tower)
+# print(tower_builder(6,(2,1)))
 
+# no.3 (Correct Answer)
 def tower_builder(n_floors, block_size):
     w, h = block_size
     tower = []
