@@ -41,14 +41,11 @@
 
 def tower_builder(n_floors, block_size):
     w, h = block_size
-    build = []
+    tower = []
     for i in range(n_floors):
         for j in range(h):
-            tower = ''
-            for i in range(w):
-                tower += ' '*()
-                tower += '*'*(w)
-                tower += ' '*(i)
-            build.append(tower)
-    return('\n'.join(build))
-print(tower_builder(3,(3,3)))
+            s = ' '*w*(n_floors-i-1)
+            s += '*'*(w+(w*i*2))
+            tower.append(s)
+    return('\n'.join(tower))
+print(tower_builder(6,(2,1)))
